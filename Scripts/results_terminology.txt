@@ -1,0 +1,44 @@
+Accuracy
+
+Elhuyar_NLP_team_run1_terms.txt 0.78
+Elhuyar_NLP_team_run2_terms.txt 0.77
+DCU-MT_run2_terms.txt 0.76
+DCU-MT_run3_terms.txt 0.75
+Elhuyar_NLP_team_run3_terms.txt 0.75
+UTS_NLP_run2_terms.txt 0.73
+UTS_NLP_run1_terms.txt 0.73
+DCU-MT_run1_terms.txt 0.73
+UTS_NLP_run3_terms.txt 0.73
+Ixamed_run3_terms.txt 0.13
+Ixamed_run1_terms.txt 0.12
+Ixamed_run2_terms.txt 0.08
+
+Accuracy by token
+
+Elhuyar_NLP_team_run1_terms.txt 0.88
+Elhuyar_NLP_team_run2_terms.txt 0.88
+DCU-MT_run3_terms.txt 0.87
+DCU-MT_run2_terms.txt 0.87
+DCU-MT_run1_terms.txt 0.86
+UTS_NLP_run2_terms.txt 0.85
+UTS_NLP_run1_terms.txt 0.85
+Elhuyar_NLP_team_run3_terms.txt 0.85
+UTS_NLP_run3_terms.txt 0.85
+Ixamed_run3_terms.txt 0.38
+Ixamed_run1_terms.txt 0.36
+Ixamed_run2_terms.txt 0.28
+
+BLEU
+
+Elhuyar_NLP_team_run1_terms.txt 0.737356171457112
+Elhuyar_NLP_team_run2_terms.txt 0.735615102869606
+DCU-MT_run2_terms.txt 0.723902678209544
+Elhuyar_NLP_team_run3_terms.txt 0.722956441512458
+DCU-MT_run3_terms.txt 0.717955136451125
+UTS_NLP_run2_terms.txt 0.712191714303519
+UTS_NLP_run1_terms.txt 0.7114672623863
+UTS_NLP_run3_terms.txt 0.708518560324011
+DCU-MT_run1_terms.txt 0.708352921815279
+Ixamed_run3_terms.txt 0.14813319489342
+Ixamed_run1_terms.txt 0.131394754487573
+Ixamed_run2_terms.txt 0.0721430338831755
