@@ -1,0 +1,36 @@
+Inappropriate prescribing, chronic and on demand, in pluripathological patients
+aged ≥65 according to STOPP-START criteria.
+
+The pluripathological chronic patients, small percentage of the population, consume a
+
+high percentage of health resources and its total expenditure, influencing their poly-
+medication and the problems associated with it.
+
+Objective: To analyze the proportion, characteristics and association with other socio-
+demographic and clinical variables of the Inappropriate Prescription (IP) in pluripatho-
+logical patients aged ≥65 in a Primary Health Care Centre, using the STOPP- START
+
+criteria and the correct prescription of Proton-Pump Inhibitors (PPIs) guidelines.
+
+Methods: Transversal study of chronic and on demand medication (considering STOPP-
+START criteria and PPIs guidelines), of the patients of one Primary Health Care Centre
+
+included in an institutional program for pluripathological patients (according to a pre-
+dictive complexity index based on the Kaiser’s Pyramid), adding new patients meeting
+
+“Ollero criteria” and ≥1 hospital admission during the previous year. Complementary va-
+riables were sociodemographic (gender, age), clinical (Charlson comorbidity Index, num-
+ber/characteristics of the drugs), and functional (Barthel Index) ones.
+
+Results: The 85% of the patients (with >4 usual drugs) had ≥1 STOPP or START criteria
+(2015 version), and 29.1% IP considering PPIs. The most frequent STOPP criterion were
+aldosterone antagonists with other drugs that raise potassium level (11,5%), NSAIDs in
+heart failure (10.6%), and the use of ≥2 antimuscarinic/anticholinergics (8.7%). Moreover,
+the START pneumococcal (37.3% of 67) and influenza (23.9%) vaccination. With 2009
+criteria, the most common STOPP were NSAIDs in heart failure and benzodiazepines
+(both 17.2% of 64) and duplicities (7.8%), and the START non-prescribing statins (26%
+of 23). Having a STOPP criterion was associated with lower score in the Barthel, and with
+the total number of medications (both p= 0.02).
+Conclusions: STOPP-START criteria are useful to analyze the IP in elderly pluripathological
+patients, which remains high. There is a qualitative change and higher capacity detecting
+IP with the new criteria (2015).
