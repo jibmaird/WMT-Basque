@@ -1,0 +1,450 @@
+doc1	1	Parkinson-en gaixotasunen biomarkatzaile klinikoen ikerketa ikuspegi epidemiologiko batetik
+doc1	2	Parkinson-en gaixotasuna (PD) mugimendu-neurodegenerazio-nahasmendua da.
+doc1	3	Populazio osoaren PDaren nagusitasun orokorra %0,1-0,3 ingurukoa da eta orain arte ez da ezagutzen.
+doc1	4	Gaixotasuna mugimendu motorraren nahasmendu huts gisa definitu bada ere, sintoma ez-motorrak (NMS), hala nola desautonomikoa, sentsoriala, emozionala eta logalea, sarritan gertatzen dira gaixotasunaren lehen faseetan.
+doc1	5	Aurkezpen goiztiarraren ondorioz, NMS hauek biomarkatzaile kliniko erabilgarriak izan daitezke.
+doc1	6	Forma genetikoak PD kasuen %15aren arduradunak dira. LRRK2-ko mutazioak lehen aldiz PDren kausa bezala identifikatu ziren 2004an, eta gaur egun PDren garapen genetikoaren aldeko faktore nagusia da.
+doc1	7	Bazirudien mutazio horietako bat euskal igoeraren populazioan maiz agertzen zela.
+doc1	8	Azkoitiko eta Azpeitiako komunitateen barruan epidemiologia-ikerketa bat egin zen 2009an.
+doc1	9	PDren biomarkatzaile posible gisa NMSren itxura aztertu zen lehentasuna ez ezik.
+doc1	10	Horretan oinarrituta, uste genuen interesgarria izango zela 2009an aztertutako populazioaren lagin bera aztertzea, 10 urte geroago. Helburua zen PDren garapenean NMS eta ingurumen faktoreen garrantzia zehaztea.
+doc1	11	Ikerketa honetan, Medikuntzako Azken Graduko Proiektua izan dena, 2009an parte hartu zuten 232 pertsonen 173tik informazioa jaso ahal izan da.
+doc1	12	Emaitzen arabera, PD gehikuntza bat egon zen laginaren batez besteko adinaren hazkundearekin.
+doc1	13	Gainera, REMren portaera-nahasmendua PDren biomarkatzaile kliniko garrantzitsuena eta etorkizunean PDa garatzeko arrisku-faktore esanguratsuena da.
+doc1	14	Emaitza hauek guztiak arreta pixka batekin tratatu behar dira, analizatutako laginaren tamaina murriztua dela eta.
+doc2	1	Osakidetzako Barrualde-Galdakao Osakidetzako Barrualde-Galdakao Osasun Erakunde Integratuan
+doc2	2	2015ean gure eskualdeko hiritarren hizkuntza-aukera erregistratzen hasi ginen, hau da, ahoz komunikatu nahi zuten hizkuntza, osasun-jardueran.
+doc2	3	Lehen unetik aurrera, argi ikusi genuen gure profesionalen gaitasun linguistikoan oinarrituta, giza baliabideak berrantolatu behar izan genituela osasuna eskaintzeko, hiritarraren aukera linguistikoaren arabera.
+doc2	4	Eta horrela egin dugu, lehen mailako zaintzan hasi eta arreta espezializatuan jarraituz.
+doc2	5	Gaur egun, euskarazko arreta espezializatuaren kanpoko kontsulten eskaintza oso aktiboa dugula baiezta dezakegu.
+doc3	1	Protoien ponpa inhibitzaileek hipomagnemia sor dezakete
+doc3	2	Protoien bonba inhibitzaileek hipomagnemia eragin dezakete.
+doc3	3	Heterogeneotasun altua dela eta, ezin da ondorio definitiboak marraztu.
+doc3	4	Azpitaldeak heterogeneotasuna gutxitzeko aurkitu ziren, non ez zegoen estatistikaz ezberdintasun esanguratsurik.
+doc4	1	Txertoek ez dute autismorik sortzen
+doc4	2	Txertoaren eta autismoaren artean ez da erlaziorik ikusi 1.256.407 pertsona biltzen dituen ikerketa batean.
+doc4	3	Ez da estatistikaz desberdintasun esanguratsurik ikusi azpitaldeetan (txerto mota edo emaitza).
+doc5	1	Hiperkolesterolemia familiala: fisiopatologia, diagnostikoa eta tratamendua
+doc5	2	Gaixotasun kardiobaskularra (CVD) mundu osoan hilkortasunaren kausa nagusia da, eta dieta eta bizimodu sedentarioarekin erlazionatuta dago.
+doc5	3	Hala ere, faktore genetikoengatik ere gara daiteke.
+doc5	4	Familia hiperkolesterolemia (FH) 3 gene desberdinetako mutazioekin lotutako gaixotasun autosomiko heredatua da.
+doc5	5	FH plasma LDL kolesterola (LDL-C) maila altuarekin lotua dago, CVDaren sufrimendua areagotzen dutenak.
+doc5	6	Berrikuspen honek FHrekin zerikusia duten faktore genetiko, gaixotasunen diagnostikoa, tratamendua eta FHren inplikazioa laburbiltzea du helburu.
+doc6	1	elikaduraren garrantzia alboko esklerosi amiotrofikoan: zaintza nutrizionala
+doc6	2	Alboko esklerosi amiotrofikoa (ALS) giza motorearen gaixotasun neurodegeneratiboa da, garunaren eta bizkarrezurraren motoneuronen galera aurreratua eragiten duena.
+doc6	3	ALSen sufrimenduak eragin negatiboa du pazientearen elikadura-egoeran.
+doc6	4	Malnutrizioa pazienteetan zabalduta dago ALSrekin. Malnutrizioak giharren indar eta immunitateari eragiten dio, gaixotasunaren eta heriotzaren aurrerapena dakarrelarik.
+doc6	5	Epaiketa kliniko batzuek erakutsi dute malnutrizioa faktore prediktibo independentea dela.
+doc6	6	Horregatik garrantzitsua da elikadura goiztiar eta aldizkako ebaluazioa izatea ALSrekin uneoro pazientearen dieta klinikora egokitzeko.
+doc7	1	Gullo´s Sindromea (Benign Pancreatic Hyperenzymemia): Euskal Herriko Lehen Bi Kasuen txostena
+doc7	2	Gullo´s sindromea hipenzimemia pankreatiko onbera da, norbanako osasuntsu eta denboran zehar mantentzen duena, entzima pankreatikoaren balioen fluktuazio eta normalizazio iragankorrarekin, edozein gaixotasun kliniko edo morfologiko falta delako.
+doc7	3	Bere diagnostikoa garrantzitsua da akatsaren garraiatzaileei ziurtatzea ez dagoela pankrea gaixotasunik eta behar ez den azterketak, tratamenduak eta ospitaleak saihestea.
+doc8	1	hormona antidiuretikoaren (SIADH) sekrezio ezegokiaren sindromea, birikako zelula txiki baten kartzinoma aurkezpen modu gisa
+doc8	2	Zelula txikien biriketako minbizia (SCLC), olo-zelulen kartzinoma bezala ezaguna, biriketako minbizien % 15-20 artean kokatzen da.
+doc8	3	Beste tumore solido batzuekin alderatuta, biriketako kartzinoma biriketako tumorerik azkarrena da eta urruneko metastasia garatzeko joera handiagoa du.
+doc8	4	Lokaleko sintomak eztula, dispnea, min torazikoa, pixa egitea edo atelektasia dira.
+doc8	5	Urruneko metastasiari dagokionez, organorik arruntenak hezur, gibela eta garuna dira.
+doc8	6	Beste alde batetik, tumore solidoetako bat dela ere nabarmentzen da sindrome paraneoplasikoak eragiten dituena, sindromea, SIADH edo Lambert-Eaton sindrome miastenikoa.
+doc8	7	Ondorengo kasu interesgarria da gure zerbitzuan ospitalizatua izan zen paziente baten kasua, SIADHk eragindako hiponatremia larri batengatik. Helburua da birika-kartzinoma txikia izatearen diagnostikoa markatzea.
+doc9	1	garuneko arteriobeno malformazioen kudeaketa
+doc9	2	Garuneko malformazio arteriobenoak (AVM) tratamenduan erradiosurgiak, bere helburu nagusia den aldetik, ezabatu egin behar du.
+doc9	3	66 urteko paziente batek AVM batekin diagnostikatu zuen kranio zerebralen enborraren erdian (TBI), III. maila, Spetzler-Martin ebaluazio eskalaren arabera, hemorragia tetrabentrikularrarekin debutatu zena.
+doc9	4	AVMren tratamendua erradiokirurgiarekin egiten da eta urte baten ondoren ezabatu egiten da, eta ez du erlazionatutako morbitaterik.
+doc9	5	AVM zerebraleko irrati-kirurgia tratamendu erosoa da pazientearentzat, bere bi alternatiben eraginkortasunarekin (kirurgia eta endobas kularraren enbolizazioa) antzeko emaitzak lortzea ahalbidetzen duelarik.
+doc10	1	Juan Ramón Jiménez, Literaturako Nobel Saria
+doc10	2	Juan Ramón Jiménez eta bere emaztearen zirriborro biografiko bat aurkezten dugu, Zenobia Camprubí, poetak bere bizitza osoan jasan izan duen psikopatologia posiblearen arabera. Ez gara inoiz ziur egongo gaixotasun edo gaixotasun zehatzez, nahiz eta ziurrenik depresiozko nahasmendu batek pairatu duen.
+doc10	3	Nortasun anormaltasun ezaugarri batzuk ere suposatu ahal izango genituzke, baina horrek ez gaitu behar existitzen den nortasun-nahasmendu baten susmo txarrera eraman.
+doc11	1	55 urtetik gorako ikasle psikologikoak, Euskal Herriko Unibertsitateko zaharrentzako unibertsitatera doazenak.
+doc11	2	Luzaroagotu egiten da mundu osoko fenomenoa.
+doc11	3	Jendea gehiago bizi den bezala, bizitza asegarri eta osasuntsu bat bermatzea beharrezkoa da.
+doc11	4	Lan-bizitzatik kanpo jende kopuru handiagoa dago eta aisialdia igarotzeko aukera behar da eta gizarte-sarrera behar da.
+doc11	5	Azterketaren helburua, adineko ikasleen talde batean emozionala neurtzea izan zen, eta horren hipotesian oinarrituta, Euskal Herriko Unibertsitateko 55 urtetik gorako pertsonen esperientzia sortzen duen ondorioari esker.
+doc11	6	63 pertsona, 55 urtetik gorako ikasleak Euskal Herriko Unibertsitatean, BSI sintoma laburrarekin ebaluatu ziren.
+doc11	7	Datu soziodemografikoak ere bildu ziren.
+doc11	8	Beraz, bizi-itxaropena handitzen ari den bitartean, populazioaren zahartzea joera globala da eta munduko ekonomia eta gizarteak eraldatzeko beharra dago.
+doc11	9	Garrantzitsua da zaharrentzako baliabideak sortzen jarraitzea, gehienek erretiro aroan osasuna oso fisiko eta psikologikoa dute eta.
+doc11	10	Isolamendua eta osasun mentalaren arazoak ere bizi-kalitate ona dutela ziurtatzeko.
+doc12	1	peritoneoko dialisiko pazientea
+doc13	1	D bitamina mailen azterketa populazio desberdinetan
+doc13	2	Ikerketa ugarik D bitaminaren gabezia eta gabeziaren prebalentzia handia erakutsi dute populazio osasuntsu eta gaixotasun desberdinetako gaixoetan.
+doc13	3	Gainera, D bitaminaren gabeziak eragin handia du gaixotasun horien bilakaeran.
+doc13	4	Ikerketa honen helburu nagusia da D bitamina mailak hiru populaziotan neurtzea (gazte osasuntsuak, gaixo autoimmune hipotiroidismoa eta gaixoak hezurrarekin eta infekzioarekin), eta aurretik argitaratutako ikasketekin konparatzea.
+doc13	5	Guztira 260 parte-hartzaile sartu ziren: 100 ikasle osasuntsu, 125 gaixo hipotiroide eta 35 gaixo hezur eta infekzio elkarrekin.
+doc13	6	D bitaminaren prebalentzia (25(OH)D) askitasuna (≥ 30 ng/ml), gutxiegitasuna (21-29 g/ml) eta gabezia (lss-than_or_equal_to20 g/ml) ebaluatu zen.
+doc13	7	Ikasgai hauen % 15,4 D bitamina nahikoa zen, % 43,1 ez zen nahikoa eta % 41,5 eskasak ziren.
+doc13	8	Ikasle osasuntsuko D gabezia bitaminaren prebalentziaren prebalentzia % 21a zen, % 49,6ra igo zen hipotiroidismoa duten gaixoen taldean, eta %62,9ra gehitu zen hezur eta infekzio elkartuekin.
+doc13	9	Ikerketak frogatu zuen gaixo hipotiroideoen % 12,8k eta infekzioa duten gaixoen % 2,9k D bitaminaren maila nahikoa zutela.
+doc13	10	D bitaminaren prebalentziaren prebalentzia oso altua zen ikerketa-talde bakoitzean, lehenago argitaratutako ikasketetan bezala.
+doc13	11	Gure datuek iradokitzen dute D bitaminaren mailak D bitaminaren gabezia arriskuan neurtu behar direla (hezurrak eta infekzioa duten gaixoak eta hipotiroidismoa duten gaixoak), eta D bitamina aberastutako elikagaiak populazio orokorrerako sustatu beharko lirateke.
+doc14	1	Infekzioa Espainian - 30 urteko eboluzioa (1986-2016)
+doc14	2	Giza Retrovirusak birus talde bat dira, ornodun infektuak eta gaixotasunak eragin ditzaketenak.
+doc14	3	Giza T zelula linfotropikoaren birusa (Human T-cell birus HTLV) Retroviriade familiari dagokio eta gaur egun deskribatu dira, lau harreman filogenetiko: HTLV-1, HTLV-2, HTLV-3 eta HTLV-4.
+doc14	4	1986an, Espainiako HTLV-1 erretrobirusaren antigorputz naturalen maiztasuna aztertu zen.
+doc14	5	30 urtetan zehar, 327 pertsona infekzioaren eramaile izan dira.
+doc14	6	HTLV-2 infekzioari dagokionez, 1990an Espainiako lehen 2 kasuak detektatu ziren.
+doc14	7	2016ko abendura arte 793 aurkitu ziren.
+doc14	8	Gaur egun arte ez dago Estatuan existitzen den frogarik, HTLV-3 eta HTLV-4 erretrobirusek infektaturik.
+doc14	9	HTLV infekzioak erronka bat eratzen du, itxaroten jarraitu behar duena.
+doc15	1	Leptospirak eta osasun krisia Bilboko estuarioan
+doc15	2	Bilboko komunikabideen informazioak, azken maiatzean Ríako lasterketa batean parte hartu zuten leptospirosi infekzioen existentzia azalduz, Bilboko ibaiaren ibilbidearen erabilerari buruzko eztabaida handia sortu du.
+doc16	1	Talidomidoak errefrakzio gastrointestinalaren odoljarioa murriztu dezake, arteriobeno gastrointestinaletik
+doc16	2	Thalidomide burdinarekin konparatuz gero, odol gastrointestinala murriztu daiteke (% 67), zelula gorrien transfusioa (%-37), ospitalizazioak (% 54) eta odol gastrointestinala (% 46).
+doc16	3	Gaixoen kopurua txikiagoa delako.
+doc17	1	Kanavango gaixotasuna (Aspartoacylase Deficiency): Euskal Herriko lehen kasuaren txostena eta Europako Nobela Mutazioa
+doc17	2	Kanavango gaixotasuna, gaixotasun genetiko eta metaboliko arraro bat, hasieran gertatzen da, aldaketa bisualak, neurologikoak eta ondorio zorigaiztokoak eraginez.
+doc17	3	Ez dago tratamendu kuratiborik, nahiz eta litiozko Citrate ikertzen ari den.
+doc17	4	Egileek Kanavango gaixotasunaren lehen kasua aipatzen dute Euskal Herrian, Europan lehen aldiz identifikatzen den mutazio berri bati lotua.
+doc18	1	Taxus baccata intoxikazioa
+doc18	2	Taxus baccata munduko zuhaitzik pozoitsuenetako bat da.
+doc18	3	Taxanak eta alkaloide toxikoak ditu: arriskutsuena taxina da.
+doc18	4	Gure ingurunean nahiko arrunta da eta oso arriskutsua izan daiteke; hala ere, pozoitze hori oso arraroa da.
+doc18	5	Kasuak borondatezko edo akzidentalki gerta daitezke.
+doc18	6	Beraz, susmagarrien orientazio azkarra eta diagnostikoa garrantzitsuak dira, azkar tratatzeko asmoz.
+doc18	7	Gizon bat ospitalera eraman zuten sintomarik gabe, hortz ugarik hosto-sarrera autolitikoa egin ondoren.
+doc18	8	Arnas alkalosia, kontzientzia eta takikardia bentrikularra aurkeztu zituen.
+doc18	9	Presaz tratatu zuten eta astebetean erabat berreskuratu zen.
+doc18	10	Ez dago aldaketa analitikorik hordikuntza honetan.
+doc18	11	Taxina konposatuaren analisia ez dago laborategi klinikoetan.
+doc18	12	Azken diagnostikoa 3.5 dimethoxyfenol (taxina metabolitoa) detektatu zuen, gas kromatografia-masaren espektrometriaren bidez.
+doc18	13	Laginak Toxikologia Institutuak aztertu zituen.
+doc19	1	haurdunaldia eta urritasunarekin lotutako bularreko patologiaren berrikuspena
+doc19	2	Kritika honen helburua da klinika eta erradiologi itxura eztabaidatzea, baita aukera terapeutiko onenak ere, haurdunaldiarekin eta laktazioarekin zerikusia duten bularreko patologia arruntenei dagokienez.
+doc19	3	Hormona aldaketa garrantzitsuak gertatzen dira haurdunaldian eta laktazioan.
+doc19	4	Aldaketa hauek gorputzeko organo desberdinetan aldaketa fisiologikoak eragingo dituzte, bularreko ehuna barne, aldaketa fisiologikoak ez ezik, patologia ere gerta daitekeelarik.
+doc19	5	Haurdunaldiarekin eta bularreko elikadurarekin zerikusia duten bularreko patologia onuragarria da kasu gehienetan eta ez du beste ikerketarik behar, galaktozeloa, mastitis infekziosoa, fibroadenoma eta laktazio-adenoma diagnostiko arruntenetako bat izanik.
+doc19	6	Edozein erradiologorentzat derrigorrezkoa da termino hauekin ezagutzea, zeren eta, nahiz eta haien izaera onberak prozesu diagnostikoan gaiztakeria baztertu behar duen.
+doc19	7	Kasu gehienak paziente sintomatikoetan diagnostikatzen dira, bularreko konkor berria sintomarik maizkoena delako.
+doc19	8	Bularreko ultrasoinua garai hauetako irudien aukeraketa-modalitatea da, eta beste irudigintzako teknikak bigarren aldiz erabiliko dira, ultrasoinuaren azterketari buruzko informazioa nahikoa ez denean.
+doc19	9	Haurdunaldiarekin lotutako bularreko minbizia haurdunaldian eta bularreko elikaduran maiztasun handiena da. Nahiz eta lehenago aipatutako patologia onbera bezain maiz ez izan, bere diagnostikoa ezinbestekoa da batzorde onkologikoari pazientearen lehen arreta medikoa bermatzeko.
+doc20	1	Antidepresiboen tratamenduko azken urratsak: presentea eta etorkizuna
+doc20	2	Depresioa gaur egungo gizarteko gaixotasun psikiatrikoen artean ohikoena da, eta bere intzidentzia etengabe handitzen ari da.
+doc20	3	Teoria asko saiatu dira depresioaren jatorria eta aitiologia azaltzen, baina bere neurobiologiaren hainbat alderdi ezezagunak dira.
+doc20	4	Depresioaren hipotesirik garrantzitsuena monoaminergikoa, neurotrofikoa eta neuroinflamatorioa dira, eta kritika honek beren jatorria, ebidentzia eta ezaugarriak eztabaidatzen ditu, beste teoria batzuekin batera.
+doc20	5	Iraganean, droga antidepresiboen aurkikuntza kasualitatez gertatu zen, eta sintomak hobetzeko substantzia eraginkorrak aztertzeak depresioaren neurobiologia ezagutzea ekarri zuen.
+doc20	6	Antidepresibo klasikoek depresioaren tratamendu farmakologikoaren oinarria osatzen dute: monoaminoxidasaren inhibitzaileak, antidepresibo triziklikoak eta monoaminoen birkaptazioaren inhibitzaileak.
+doc20	7	Droga berriak, trazodona eta mirtazapina bezala, profil farmakodinamiko konplexuagoa dute.
+doc20	8	Ohiko kontrako efektuak saihesteko eta haien eraginkortasuna hobetzeko helburuarekin, mekanismo alternatiboak esploratu dira. Ikerketa honek agomelatina, tianeptina eta bortioxetina bezalako substantziak aurkitzea ekarri du, baina haien erabilera eta eraginkortasuna ez dira oso zabalduak.
+doc20	9	Hala ere, metaminak antidepresiboen ikerketak iraultza egin du, antidepresibo azkar, indartsu, erresistentziazko kasuetan ere, segurua eta onartua izateaz gain.
+doc20	10	Azkenik, gai psikiatrikoen sintomak hobetzen ezagutu dira, depresioa barne.
+doc20	11	Zehazki, psilozibinak antidepresibo gisa ikuspegi handiak erakutsi ditu hainbat ikerketatan. Gaixo deprimituengan eragin onuragarri ukaezinak izan arren, antidepresiboen mekanismoak ez daude erabat argi, eta arloan ikertzen ari da gaur egun.
+doc21	1	Funtzio kognitibo eta fisikoko ariketaren efektua heldu zahar instituzionalizatuetan inpresio kognitiboarekin: kritika sistematikoa
+doc21	2	Azken urteotan, adinekoen artean kognitiboen prebalentzia areagotu egin da, mendekotasuna jasateko eta instituzionalizatzeko arrazoi nagusietako bat bihurtuz.
+doc21	3	Aurretik literaturan esan da ariketak funtzio kognitibo eta fisikoa hobetzea eragiten duela helduengan inperio kognitiboa duten helduengan.
+doc21	4	Hala ere, ez dago adostu beharrik ariketa mota egokiak hobekuntza horietara hurbiltzeko.
+doc21	5	Horretarako, gaur egungo ikerketaren helburu nagusia da ariketaren ondorioei buruzko berrikuspen sistematikoa egitea helduen funtzio kognitiboaren funtzioaren inguruan.
+doc21	6	Horrez gain, beste helburu bat funtzio fisikoko ariketaren ondorioak ebaluatzea zen.
+doc21	7	Helburu hori lortzeko, epaiketa klinikoen berrikuspen sistematikoa egin zen Pubmed datu-basean.
+doc21	8	Kalitate metodologikoa PEDro eskala erabiliz ebaluatu zen.
+doc21	9	Guztira 7 ikasketa aztertu ziren.
+doc21	10	Aztertutako azterketa guztietan, esku-hartze taldeak aerobikoa edo osagai anitzeko ariketak egin zituen.
+doc21	11	Funtzio kognitiboari dagokionez, hiru ikasketetan hobekuntza esanguratsuak ikusi ziren bitartean, beste 3 ikerketetan funtzio kognitiboak ez ziren aldatu. Gainera, ikerketa batean esku-hartze taldean beherakada kognitibo bat ikusi zen.
+doc21	12	Funtzio fisikoari dagokionez, emaitza heterogeneoak izan ziren.
+doc21	13	Ariketak funtzio kognitiboaren eragin positiboa du helduengan inpresio kognitiboa duen arren, bere prestazioen proportzioan eragiten du.
+doc21	14	Era berean, ariketak funtzio fisikoa hobetzen duela dirudi, nahiz eta ikerketa gehienetan emaitza hauek ez diren estatistikoki esanguratsuak.
+doc22	1	Gernu-erretentzioan, maskuriko katerizazioan eta depresio azkarrean ez dago konplikaziorik gradualeko depresioan baino.
+doc22	2	Gernu-atxikimendu akutu bat gertatzen denean, kateterizazioa eta depresio azkarra metodo seguru, azkar eta erosoa da.
+doc22	3	Konplikazioei dagokienez, ez dago estatistikaz ezberdintasun esanguratsurik depresio azkar eta gradualaren artean.
+doc23	1	Ohiko erizain-diagnostikoak trazu bat jasan duten gaixoetan
+doc23	2	Trazua garun-funtzio baten edo gehiagoren nahasmendu zorrotz gisa definitzen da, edo iraunkor edo iragankorra, garuneko zirkulazioaren nahaste batek sortua.
+doc23	3	Gaixotasun honengatik sufritu duten askok ezintasunaren kudeaketan eta errehabilitazio prozesuan laguntza behar dute.
+doc23	4	Erizainek paper bat dute honetan jolasteko.
+doc23	5	Paper honek erizaintzako diagnostikorik ohikoenak laburbiltzen ditu, erizaintzako esku-hartzeak zuzentzen dituztenak.
+doc24	1	Coronavirus 19 Gaixotasuna: tratamendu bilaketa eta berrikuspen sistematikoa
+doc24	2	Aztertutako drogek ez dute PCRren bihurketa positibotik negatibora azeleratzen.
+doc25	1	Farmazia-hornikuntza, zein botika ordainduko da eta zein prezio?
+doc25	2	Osasun publikoko sistemaren farmazeutikak populazioaren behar klinikoak asetzen dituzten botikak barne hartzen ditu eta diru publikoak ordainduko ditu.
+doc25	3	Hegoaldeko Euskal Herrian, hainbat erakundek parte hartuko dute botika horien aukeraketan.
+doc25	4	Erakunde hauen erabakiak publikoak dira eta webgune desberdinetan online kontsulta daitezke.
+doc26	1	bakardadearen sentimenduak, kovido-19ren sintomaz haratago sufrimenduak
+doc26	2	Covid-19 lagun krudela da.
+doc26	3	Bere sintomak eta osasunaz gain, beste efektu bat du, gogorra eta sendaezina: bakardadea.
+doc26	4	Gaixoaren bakardadea eta familiaren bakardadea ezin dira pazientearengandik hurbil egon.
+doc26	5	Jende asko pasatu da bakarrik.
+doc26	6	Bakardadea ere sufritu dugu, baina zauriak sendatzeko gai izan gara.
+doc27	1	Nicolás Achúcarro Lund: lehen euskal neurozientzialariaren zirriborro biografikoa
+doc27	2	Nicolás Achúcarro Lund-en biografia labur bat idatzi genuen. Achúcarro Bilbon jaiotako medikua izan zen.
+doc27	3	Askok euskal neurozientzialaritzat jotzen dute, edo gutxienez eskualde horretako lehen neurozientzialariak nazioarteko proiekzio zabala izan du.
+doc27	4	Egunkari honetan bere bizitzako alderdi eta kapitulu desberdinetan begiratzen dugu: bere familia, bere lehen ikasketak, medikuntza-gradua, espezializazio neuropsikiatrikoa, bere eszenatoki amerikarra, Espainiara, bere gaixotasuna eta heriotzara itzultzeko profesionala eta bere aitorpen postumikoak.
+doc28	1	Nicolás Achúcarro: histopatologoa Washingtongo Saint Elizabeths ospitalean, D. C. (1908-1910)
+doc28	2	1908ko irailean, Nicolas Achúcarro neuropsikiatra euskalduna Municheko Klinika Psikiatrikotik Washingtonen, D. C.ko Gobernuaren Ospitalera joan zen, histopatologia laborategi berria antolatzeko eta burutzeko lana.
+doc28	3	Baliabide ugarirekin eta lanerako askatasun osoarekin, laborategi histopatikoa abiarazi zuen eta Ospitaleko Buletinari artikulu-sorta bat egin zion, eta horrek ospe zientifiko sendoa lortu zion.
+doc28	4	Achúcarro Washingtonen geratu zen 1910ko maiatzaren 14a arte, bere posizioa utzi eta Madrilera joan zenean, Santiago Ramón y Cajal-ekin lan egiteko bere ikerketa biologikoaren laborategian.
+doc28	5	1912ko irailean, Fordham Unibertsitateak gonbidatu zuen Medikuntza eta Nerbio-gaixotasunetan Nazioarteko Hedapen Ikastaroan irakasteko, Henry Head neurologo ingelesarekin eta Carl G. Jung psikoanalistarekin, beste pertsonaia garrantzitsuen artean.
+doc28	6	Achúcarroren idazkiak bere familiari eta denboraren prentsari buruz marraztuz, paper honek Estatu Batuetan egindako lana aztertzen du, baita neurozientziaren aldeko ekarpenak ere, 1918an hil baino lehen 37 urte zituela.
+doc29	1	Achucarro Basque Center for Neurozientzia, sendatzeko ezagutza
+doc29	2	Eusko Jaurlaritzak eta Euskal Herriko Unibertsitateak (UPV/EHU) Achucarro ikerketa-zentroa sortu zuten 2012. urtean, neurozientzien garapena sustatzeko.
+doc29	3	Bere lan nagusia burmuin osasuntsu eta gaixotuaren zelula glialen biologia ikertzea da, gaur egun oso nabarmena eta aktiboa bihurtu den gai honetan espezializatutako erakunde gutxi batzuetako bat.
+doc29	4	Zentroak enfasi sendoa du (sendatzeko ezagutza), eta bere azken helburua nerbio-sistemaren gaixotasunen tratamendu berriak aurkitzea da.
+doc30	1	Ospitaleko zaintza psikiatrikoa Bizkaian.
+doc30	2	Nuestra Señora de Gracia Ospitalea (Zaragoza) eta Bilboko kartzelatik Nicolás Achúcarro Neuropsychiatric Institutura (gaur egun Zamudio Ospitalea)
+doc30	3	Bizkaiko ospitaleko zaintza psikiatrikoko jatorri eta gorabeheren bira historikoa, XIX. mendearen hasiera eta garai hartako osasun-baldintza izugarriak abiapuntutzat hartuz.
+doc30	4	Hasieran, alientatuak Achuri Ospitale Nagusian sartu ziren eta Bilboko espetxeetako batera bidali zituzten, eskale, kriminal eta prostitutekin batera.
+doc30	5	"Gaixotasun egoerak irauten bazuen, lurraldean "eroetxe"rik ez izateak beste probintzietan ospitaleratzea behartzen zuen, familia eta lagunengandik urrun, zeinetatik lehenago edo beranduago erabat sustraitu baitzituzten egonaldi luzeak, baita hamarkadatan ere.
+doc30	6	Probintziako eroetxe bat aspirazio luze bat izan zen, azkenik bere osotasunean ez zena, 1900. urtean Bermeoko ospitalea bezalako erantzun partzialekin, edo geroago Zaldibarko espa zaharra, "behin-behinekoz" ospitaleko helburuetarako eskainitakoa.
+doc30	7	Harrezkero, hainbat saiakera egin dira probintziako eromenari buruz eztabaidatzeko, eskandalu eta kexa batzuekin, baita kanpotik ere, proposamen anitzen segida harrigarria sortuz eta XX. mendearen azken herena arte porrot egin zutenak.
+doc30	8	Beste askoren artean, anbizio handieneko proiektua 1930eko hamarkadaren hasieran sustatu zen, non makro-ospitale konplexu bat planeatu zen 1.300-1.500 paziente ongi etortzeko, eta 1951ean Bilboko apezpikuari transferitu zen, mintegirako.
+doc30	9	1960ko hamarkadaren bukaeran psikiatria kliniko berri batek materializatu zuen Bizkaiko Osasun Mentaleko Sareko Zamudio Ospitalea, Osakidetza.
+doc31	1	garuneko metastasien erradioterapia estereotaktikoa
+doc31	2	Azterketa bat burmuinaren metastasien tokiko tratamendu-modalitateez egiten da, bakuna edo aniztasuna (1 eta 4, 5 eta 10 metatasa) azken 30 urteotan egina, irrati-kirurgia estereotaktikoaren rola nabarmentzen duena, tratamendu bakarreko modalitate gisa.
+doc32	1	biriketako oligometastasoen erradioterapia estereotaktikoa (SBRT)
+doc32	2	Biriketako gaixotasun oligometastatikoaren tokiko tratamendu-aukeren berrikuspena egiten da, gaixotasunaren kontrola lokalean erradioterapia estereotaktiko estrakraniala (SBRT) erabiltzen duen zeregina nabarmenduz.
+doc33	1	Urologia: nondik gatozen eta nora goaz?
+doc33	2	Azken hamarkadetan, urologiak garrantzi handia lortu du kirurgia orokorretik kanpo.
+doc33	3	Aurrerapen hau gaixotasun urologikoen nagusitasun handiaren eta haien eragin ekonomiko eta sozial handiaren ondorio da; aldi berean, berrikuntza teknologiko nabarmenak eta sistema genitourinarioaren patologiak tratatzeko erabilitako terapia medikoak.
+doc34	1	Kardiako irudi-teknika berriak
+doc34	2	Artikulu honek hiru teknika aurreratuez hitz egiten du, arteria koronarioen eta erresonantzia magnetiko kardiakoaren tomografia axiala (KT) kalkulatuz.
+doc35	1	Kardiologia interbentzionaleko aurrerapenak
+doc35	2	Kardiologia interbentzionala subspezialitate bat da, bihotzeko gaixotasunaren diagnostikoa eta tratamendu perkutaneoa tratatzen dituena.
+doc35	3	Prozedurak teknologia aurreratuena duen gela hemodinamiko digitalizatu batean egiten dira.
+doc36	1	Urrats berriak elektrofisiologia kardiakoan
+doc36	2	Testuak elektrofisiologia kardiakoaren garapenaren arloak eztabaidatzen ditu, praktika kliniko errutinalean eragin handiena dutenak: nabigazio-sistemak eta arritmien ablazioak, sokarik gabeko estimulazio kardiakoa, bihotzeko tratamendua gailuekin, lehen mailako eta bigarren mailako heriotza prebentzioarekin, desfibrilatzaileekin eta arritmientzako kirurgiarekin.
+doc37	1	Herpe genitalen ikerketa epidemiologikoa, klinikoa eta mikrobiologikoa, Bilboko eremuan
+doc37	2	Herpe genitalak (GH) osasun publikoko arazo nagusia da.
+doc37	3	OMEren seroprebalentziaren azken estimazioen arabera, 500 milioi pertsona zeuden mundu osoan zehar, bi herpe sinplex birus (HSV) infekzio genital motarekin.
+doc37	4	Azken hamarkadetan HSV motak eragindako GH handitzea izan da, batez ere emakume gazteetan.
+doc37	5	Azterketa honen helburua HSV moten proportzioa aztertzea zen, infekzio genitaletan eta GHrekin pazienteen ezaugarri epidemiologiko, kliniko eta terapeutikoetan.
+doc37	6	Bilbo-Basurtoko GH-rekin STDko gaixo klinikoen atzera begirako ikerketak osasun-erakundea integratu zuen 2004-2015 urteetan.
+doc37	7	Lortutako emaitzen arabera, GHko pazienteen proportzioa handitu egin zen ikerketa-epealdian, batez ere HSV motako infekzio genitaletan.
+doc37	8	Infekzio hauek emakume gazteen artean altuagoak ziren, GHren lehen pasartearekin eta aurreko kontaktuarekin batera aho-laborategiko herpeekin, gizon homosexualekin eta ahozko sexuarekin.
+doc37	9	HSV motako 2 infekzioarekin lotutako sexualen portaera prostituzioa eta aurrekoa izan zen.
+doc37	10	HSV motak eragindako infekzio genitalen intzidentzia handitzea aurkitu zen, batez ere emakume gazteetan.
+doc37	11	Lortutako informazioa zabaltzeko, interesgarria izango litzateke seroprebalentzia aztertzea gure eremu geografikoan.
+doc38	1	Erpuruaren artritisaren kudeaketa kirurgikoa.
+doc38	2	Teknika desberdinen esperientzia eta ebaluazio pertsonala.
+doc38	3	Erpuruko karpometakarpoaren (CMC) osteoartritisa esku-zentro bat bisitatzeko arrazoi nagusietako bat da.
+doc38	4	Tratamendu kontserbadoreak huts egiten duen bakoitzean, kirurgiako ikuspegia eskainiko da.
+doc38	5	Tratamendu hau indibidualki adierazi behar da paziente bakoitzarentzat, adinaren faktore ezberdinen arabera, endekapen gradua, eskaera funtzionala eta abarren arabera.
+doc38	7	Gaixoen batez besteko adina 53,89 urtekoa zen, emeen nagusitasuna (%89,28).
+doc38	9	11 kasutan artroskopia artroskopikoa (ATK) egin zen, 11 pazientetan CMC fusio bat eta 5 logamentoplastia bat.
+doc38	10	112 gaixoetatik 63 paziente kontrolatu dira, batez besteko F-U-rekin 19,5 hilabetetan.
+doc38	12	Minari buruzko fokua, ikusmen- eskala analogikoak baloratuta, hobekuntza 5,62, 5,98, 6 eta 6,33 puntu izan ziren, hurrenez hurren, egoera preoperatiboaren aldean.
+doc38	13	Ondorio hauek baieztatzen dute esekitze-artroplastiaren baliagarritasuna teknika ideal gisa CMC artritisaren paziente arruntarentzat.
+doc39	7	Laguntzako ugalketa tratamendu desberdinak arautzen dituen legea BOEn argitaratutako maiatzaren 14/2006 Legea da.
+doc39	11	Ondorioztatuta dago T.R.A.ren haurdunaldi ezberdinetan zesare eta haurdunaldi anitzen ehunekoa gorago dagoela haurdunaldi naturaletan baino eta perinazio emaitzarik txarrenak 40 urtetik gorakoak direnean eta hainbat haurdunaldietan.
+doc40	1	Nola banatuko dira kanpoko desfibrilatzaile automatikoak Euskadin?
+doc40	3	Espainiar legediak zenbait tokitan gailu horiek jartzea eskatzen du, publiko ugarirekin.
+doc40	4	Gaur egungo lanarekin Euskal Herrian bere banaketa zer den aztertu nahi genuen, eta bere probintzietako biztanleriari egokitzen bazitzaion.
+doc40	5	Azterketa hau burutzeko garaian, guztira 1711 HIESak kontatu dira Euskadin, nahiz eta ez dagoen banaketa homogeneorik Bizkaian, Gipuzkoan eta Araban.
+doc41	1	Erradioterapia estereotaktikoa (SBRT) birika-kartzinoma ez-txiki lokalizatuan (CNMP).
+doc41	2	Gorputz estereotaktikoaren erradiazio terapia (SBRT) birika-minbizia ez-txikirako (NSCLC) tratamendu gisa sortu da, batez ere kirurgia-errezeta onartzeko gai ez diren gaixoentzat, eta baliteke kirurgiarako alternatiba gisa aukeratutako gaixo batzuentzat.
+doc41	3	Erretrospektiba askotako ikerketek eta saiakuntza klinikoek erakutsi dute SBRT tratamendu segurua eta eraginkorra dela, eta emaitzak erreserba kirurgikoaren emaitzak, NSCLC hasieran.
+doc42	1	Terapeuta fisikoen rol-a berpizkunde/intentsiboen zaintza unitateetan integratua dago.
+doc42	2	Herrialde garatuetako gehienetan, terapeuta fisikoek oso paper garrantzitsua jokatzen dute diziplina anitzeko unitateen (ICU) taldeetan.
+doc42	4	Hala ere, ez da Euskal Osakidetzako Zerbitzuko kasua, non ez baitago fisioterapeutarik berrerabilpen unitateetan integratua dagoenik.
+doc42	5	ICUko terapeuta fisikoen presentziaren ebidentzia sendoak daude, aireztapen mekanikoaren denbora laburtzeko eta gaixoen ospitaleko egonaldiaren ondorio zuzenak dituztenak, osasun zerbitzuen gastu ekonomikoak murriztuz.
+doc42	7	Unitate hauetako pazienteen errehabilitazioak arnas fisioterapian ezagutza oso espezifikoa eskuratzea eskatzen du, baita komunikazio trebetasun eta zorroztasun tekniko ona ere, kalitate errehabilitazio maximoa bermatzeko, beti segurtasun parametroak errespetatuz eta pazientearen autonomia-printzipioak.
+doc43	1	1918 gripearen mikrobiologia: Pfeifferren bazilotik A H1N1 birusaren berreraikuntzara permafrostoan.
+doc43	2	1918ko gripe pandemiaren 100 urteren ondoren, espainiar gripea ere deitua izan zen, eta SARS-CoV-2 Coronavirusek sortutako pandemia biriko berri baten aurrean, beharrezkoa da eta denborarekin gaixotasun handi honen mileto historikoen analisi bat egitea.
+doc43	3	1918ko gripearen pandemia eragin zuen birusaren ikerketak mikrobiologia modernoaren istorio zirraragarrienetako bat eragin du.
+doc43	4	Paper honen helburua da aurkikuntza, genoma sekuentziazio osoa eta 1918ko gripe birusaren berreraikuntza genetikoa ekarri zuen ikerketa-iraultzaren ulermen sakonagoa lortzea, gaur egungo COVID-19 pandemia ulertzeko lagungarri izan daitekeena.
+doc44	1	Euskal Herriko Gripe espainiarra eta mundua.
+doc44	1	Lehen Mundu Gerraren hasieran, 1.825.000 biztanle zituen.
+doc44	2	Espainiar gripearen pandemian (1918-1920), munduko biztanleriaren erdia gaixotu egin zen, 40 milioi pertsona hiltzearekin, munduko biztanleen %2,5a delarik.
+doc44	3	Gripearen pandemia espainiarrak, Europan, 4 milioi pertsona hil zituen, biztanleriaren % 1,1 baita.
+doc44	4	Hegoaldeko herrialdeek gehiegizko hilkortasunaren tasa handiagoak zituzten (adibidez, Italia 15,1 hildako 1000 biztanleko) kontinenteko iparraldeko herrialdeek baino (adibidez, 5,6 hildako 1000 biztanleko).
+doc44	5	Zahartzaroan, populazio talderik eraginkorrena helduak ziren.
+doc44	6	Bere 4 edo 5 olatuetatik larriena bigarrena izan zen (1918ko udazkena), hildako gehienak 1918ko urriaren eta azaroaren hilabeteetan kontzentratu ziren.
+doc45	1	Bilboko espainiar gripea.
+doc45	2	Pandemiaren analisi demografikoa eta informazio-iturri desberdinen ondorioak.
+doc45	3	Ikerketa honen helburua 1918-1920ko espainiar gripearen pandemia da Bilboko hirian.
+doc45	4	Bizkaiko hiriburua espainiar gripearen ondoriozko hilkortasun tasa altua da.
+doc45	5	Ikuspegi demografikotik, pandemiarekin zerikusia duten hainbat alderdi aztertu dira: Alde batetik, informazio-iturri desberdinak, Erregistro Zibila eta Bilboko Estatistika Buletina.
+doc45	6	Bi iturriek emandako datuak konparatu egin dira eta desberdintasunak azaldu dira.
+doc45	7	Pandemia aztertzeko metodologia posibleak ere aztertu dira: gripea, pneumonia eta bronkopneumonia eta gehiegizko hilkortasunaren azterketa.
+doc45	8	Bestalde, Bizkaiko hiriburuan espainiar gripearen populazioaren efektuak deskribatu dira, batez ere zahartzaroaren edo hildakoen sexuaren ezberdintasunak edo jaiotza-tasa gordinekiko harreman zuzena.
+doc46	1	1918ko Irungo gripe pandemikoaren bigarren uhina prentsan.
+doc46	2	Irun, 1918ko gripe epidemikoaren ondorioz izan zen.
+doc46	3	Zehazki, bigarren olatua, Frantziatik irailean iritsi zena, portugaldar soldaduen eta urtaroko langileen trafiko astunari esker.
+doc46	4	Hala ere, prentsa lokalean, hasieran gaixotasunak ez du garrantzirik, espazio minimoa eta interes gutxiagoko eremuak hartzen dituena, irailaren 21ean eta 22an.
+doc46	5	Urriaren hasieran, pandemiak arreta handiena hartzen du.
+doc46	7	Gripeari buruzko informazio lokalik ez izatea eta Irungo hiriko bere efektu izugarriak ezkutatzea.
+doc46	8	Azaroan, gizarte- eta osasun-borrokan parte hartzen duen jendeari eskerrak ematen dizkiote beren lanagatik, eta ekimenak aipatzen dira ondorioak arintzeko, baina laster epidemiaren interesa galdu zen, Lehen Mundu Gerraren amaieran prentsan sartuta.
+doc47	1	1918ko gripearen pandemia Bilboko haur populazioan.
+doc47	2	1918ko gripe pandemiak ez zuen populazio osoa berdindu.
+doc47	3	Bilboko Udal Estatistika Buletinen (1917-1920) marrazkia iturri nagusi gisa, epidemiologia-ikerketa bat egin da herri honetan haurrentzako hilkortasun tasa gordinean (CMR) geratzen den pandemiaren eragina zehazteko.
+doc47	4	Ebidentziak haurren hilkortasunaren handitze esanguratsua erakusten du.
+doc47	5	1918an bakarrik, gripearen ondoriozko CMR 1000ko 6,72koa izan zen, 1917an 0,68koarekin alderatuz.
+doc48	1	Bizkaiko farmazeutika, gripe pandemia espainiarrean.
+doc48	2	Aramburuko Farmazia Museoak 1888ko urtarrilean ireki zenetik erabilitako errezeta-liburu guztiak gordetzen ditu.
+doc48	3	Horregatik, 1918an espainiar gripearekin egindako pazienteei aplikatutako tratamendu terapeutikoen jarraipena egin ahal izan dugu.
+doc48	4	Ondorioz, medikamentuek jasandako transformazioaz jabetzen gara, hasieran farmazian sortu zena, formula magistral edo prestakuntza ofizialen forman eta gero industria-produkzioa sortuz, Europako edo Ipar Amerikako farmazeutika laborategiak sortuz: medikazio espezifikoak edo farmazeutiko espezialitateak.
+doc49	1	1918ko gripe pandemian Bilboko gizarte eta osasun laguntza.
+doc49	2	Bilboko Udalak 1918ko gripe pandemian egindako ekintzak zehaztuta daude, medikuek eta denboraren prentsak ikusi dutenez.
+doc49	3	Osasun eta gizarte laguntzak nola garatu ziren, baita higiene publikoaren neurriak eta hornidurak ere.
+doc49	4	Ez dago daturik Begoña eta Deustotik jasota, garai hartan udaletxe independenteak zirelarik.
+doc50	1	Euskal Herriko ekonomia eta osasun publikoa espainiar gripearen garaietan.
+doc50	2	Gripe pandemia espainiarrak Euskal Herriko osasun publikoaren eta babes sozialaren mugak nabarmendu zituen.
+doc50	3	Osasun liberalaren eta babes sozial sistemaren gabeziak, pandemikoak eragindako osasun eta gizarte krisialdiaren erantzun ulergarri eta eraginkor bat artikulatzea eragotzi zuten.
+doc50	4	Euskal Herriko osasun eta gizarte-babeserako testuinguru ekonomiko orokorra eta administrazio esparrua aztertzeaz gain, artikuluaren helburu nagusia euskal administrazio publikoek Espainiako gripe pandemiarako artikulatutako erantzuna aztertzea eta ebaluatzea da.
+doc50	5	Analisia Araba, Bizkaia eta Gipuzkoako lurralde artxiboetan bildutako informazioaren aurrekontuen azterketan oinarrituko da.
+doc51	1	Komunikazioak eta itsas garraioak Pandemia garaietan.
+doc51	2	Testu honek 1918ko Pandemia lotu nahi du, batez ere 1918ko udazkeneko bigarren uhina, komunikazio sarearekin.
+doc51	3	Itsas komunikazioak ez ezik, garraio sare orokorra ere aztertu genuen.
+doc51	4	Garraiobide ezberdinen trafikoaren bolumena aztertzen dugu (barkuak, trenbideak...).
+doc51	5	Bizkaiko ekonomia eta gizartearen inguruko Lehen Mundu Gerraren garapen ekonomikoaren testuinguruan aztertzen dugu.
+doc52	1	1918-20 gripe pandemiako bira laburra.
+doc52	2	Liburu hau ospatzeko modu gisa, 1918ko gripearen pandemia harrapatu zuten argazki-irudien aukeraketa erakusten da.
+doc52	3	Gaiari buruzko kritika azkarra egin gabe, gure ingurunean bildutako irudien kopuru urria nabarmentzea merezi du.
+doc52	4	Kontuan izan arren, gaur egungo kovidioaren 19 pandemiarekin bat datozen asko errepikatu direla argitalpenen aniztasunean, denboraren erreferentzia ikonografikoak bilakatuz.
+doc52	5	Era berean, erraza da haien artean beste irudi batzuk faltsuki egotzita aurkitzea.
+doc53	1	Egokia ez den errezeta, kronika eta eskaera, ≥65 adineko gaixo pluripatologikoetan, STOPP-START irizpideen arabera.
+doc53	2	Gaixo kroniko pluripatologikoek, populazioaren ehuneko txikiak, osasun-baliabideen ehuneko altua eta bere gastua, polimedikazioan eta horrekin lotutako arazoetan eragina dute.
+doc53	3	Helburua: Ezaugarri eta elkartea aztertzea, beste gizarte-demografia eta klinika batzuekin eta preskripzio ezegokiaren (IP) aldagai klinikoekin, ≥65 adineko gaixo pluripatologikoetan, Osasun Zentro batean, STOPP-START irizpideak eta Proton-Pump Inhibitors-en (PPI) jarraibideak erabiliz.
+doc53	4	Metodoak: Medikamendu kronikoaren eta eskaeren gaineko zeharkako azterketa (STOPP-START irizpideak eta PPIS gidalerroak kontuan hartuz), Osasun Zentro bateko gaixoen gaixoak gaixo pluripatologikoentzako programa instituzionalean sartu ziren.
+doc53	5	Kaiserren Piramidean oinarritutako konplexutasun-indize prediktiboaren arabera, eta aurreko urtean "Ollero irizpideak" eta ≥1 ospitalerako sarbide berria gehituz.
+doc53	6	Aldagai osagarriak soziodemografikoak (generoa, adina), klinikoak (Charlson komorbiditate indizea, drogen zenbaki/karakteristikoak) eta funtzionalak (Barthel Index).
+doc53	7	Emaitzak: Pazienteen %85ak (>4 drogarekin) ≥1 STOPP edo START irizpideak (2015 bertsioa) eta % 29,1 PPIak kontuan hartzen ditu.
+doc53	8	STOPPP irizpide gehienek aldosterona antagonistak izan zituzten potasio maila (% 11,5), NSAIDak bihotzeko hutsegitean (% 10,6), eta ≥2 antimuskarinikoa/antikolinergikoa (%8,7).
+doc53	9	Gainera, START pneumokozikoa (67ko %37,3) eta gripea (%23,9) txertoa.
+doc53	10	2009ko irizpideetan, STOPPP ohikoenak NSAIDak izan ziren bihotzeko hutsegitea eta bentzodiazepinak (64ko % 17,2) eta bikoiztasuna (%7,8), eta START ez-preskribatzaileen estatistikak (%26koa).
+doc53	11	STOPPP irizpide bat edukitzea Barthelen puntuazio baxuagoarekin lotua izan zen, eta medikazio kopuru osoarekin (p= 0,02).
+doc53	12	Ondorioak: STOPP-START irizpideak erabilgarriak dira IP-a analizatzeko.
+doc53	13	Aldaketa kualitatibo eta gaitasun handiagoa dago IP irizpide berriarekin (2015).
+doc54	1	Chagas: gaixotasun sortzaile bat.
+doc54	2	Chagasko gaixotasuna edo tripanosomiasia amerikarra, erroreek transmititzen dutena, gaixotasun parasitarioa da, Amerikako morbi hilezkortasunaren zapore altuagoekin.
+doc54	3	Migrazio dinamikaren handitzeagatik, gaixotasuna eremu endemikoetara hedatu da.
+doc54	4	Ikerketa honen helburua da Euskal Herriko Chagas gaixotasunaren ikuspegi eguneratua eta osasun arazo honen baliabideen kontsumoa aztertzea.
+doc54	5	Behaketa, deskribapen eta atzera begirako azterketa.
+doc54	6	Datuak gutxieneko oinarrizko datu-multzotik lortu dira (MBDS).
+doc54	7	2010etik 2015era ospitaleko sarbideak bildu ziren, Tripanosoma Cruziren infekzioaren diagnostikoarekin Euskal Herriko ospitale publikoetan.
+doc54	8	Ikasketa-populazioa 104 paziente izan ziren, guztira 140 sarbide.
+doc54	9	Ikertutako aldagaiak dira diagnostiko nagusia eta bigarren mailakoak, sexua, adina, jaiotza eta probintzia eta ospitaleko onarpen atala.
+doc54	10	diagnostikoari dagokionez, 82k ez du organorik inplikatzen, 15 kardiako inplikazioa dute; 5k beste organo bat du eta 2k kardiakoa eta beste organo batzuk parte hartzen dute.
+doc54	11	Chagasen gaixotasuna 10 pazientetan baino ez zen diagnostiko nagusia.
+doc54	12	31 emakumetan onarpen atala Ginekologia eta Obstetrika izan zen.
+doc54	13	Sexuen arteko ezberdintasun estatistikoa da (85 emakume eta 19 gizon).
+doc54	14	Ez dago sexu eta Chagas gaixotasunen arteko elkartzerik inplikazio organikoarekin.
+doc54	15	68 paziente daude 30-49 urterekin.
+doc54	16	Bolivia 63 pazienteren jatorria da.
+doc54	17	Diru-sarreren kostu osoa 761,636€ da.
+doc54	18	Chagas-en gaixotasuna osasun-arazo globala da, gure ingurunean behar adina garrantzia lortu duena.
+doc54	19	Horregatik, arreta estrategiak egin behar dira kasu berriak detektatzeko eta diagnostikatutako kasuen kontrola eta jarraipena egiteko.
+doc55	1	Arreta izpirituala bizitzaren amaieran.
+doc55	2	Osasun profesionalen esku-hartzea.
+doc55	3	Artikulu hau bizitzaren bukaeran zainketa izpiritualari buruzkoa da, arreta palatiboz hornitua.
+doc55	4	Eremu espirituala garrantzitsua da biografia osoan, bizitzaren esanahiaren sortzetiko eta beharrezko bilaketa suposatzen duelako.
+doc55	5	Hala ere, bereziki garrantzizkoa da heriotza hurbil eta zail gertatzen denean.
+doc55	6	Helburu nagusia esfera espiritualaren garrantzia azpimarratzea da, bizitzaren amaieran eta sufrimendu espiritualaren ebaluazio eta tratamendurako tresnak ezagutzea.
+doc55	7	Berrikuspen bibliografiko bat datu-base zientifiko desberdinetan (PubMed, ScienceDirect) egin zen honako gai hauei buruz: Heriotza gizarte errealean eta medikuntzan, espiritualak bizitzaren amaieran, erremintak detektatzeko eta tratatzeko.
+doc55	8	Tresna asko garatu dira espiritualen beharrak detektatzeko, ebaluatzeko eta tratatzeko, baina profesionalen artean hezkuntza eta kontzientzia behar dira.
+doc55	9	Tresna horien artean GESek proposatutakoa agertzen da.
+doc55	10	Esfera espirituala ebaluatzeko inkesta sinplea da, laburra eta sentikorra. Erabilera terapeutikoa ere badu.
+doc55	11	Eremu honetan lan egitea onuragarria da pazientearentzat, indibidualizatuta egiten bada.
+doc55	12	Nabarmena gizarte errealean hiltzearen prozesuan lan egitea da, eta bizitzaren amaieran eragin zuzena du.
+doc55	13	Azken fase honetan agertzen diren behar espiritualak kontuan hartuta, laguntza integrala eskaini behar da.
+doc55	14	Prozesu honetan hezkuntza behar da.
+doc56	1	Kannabisen deribatuen erabilera medizinalaren kotizazioa: eraginkortasun kliniko eta arrisku potentzialaren berrikuspena.
+doc56	2	Kannabisen deribatuak erabiltzea agente terapeutiko gisa gaur egun eztabaida zientifiko eta sozial zabal bat sortzen da.
+doc56	3	Badira kannabis sintetiko batzuen deribatuak, droga-agentzia erregularrek onetsitakoak, nazkatu eta minbiziaren pazienteetan gora egiten duten adierazpen klinikoekin, edo minaren tratamendua garrantzitsuenen artean.
+doc56	4	Lanaren helburua gaur egungo zientziaren ezagutzan oinarritutako berrikuspena da, erabilera terapeutiko potentzialarena, eraginkortasun klinikoaren eta segurtasunaren arabera, kannabisaren deribatuak egoera klinikoetan, batez ere min, tratamendu oinarrizkoa eta / edo koadjubatzailea minbiziaren prozesuetan eta gaixotasun neurologiko eta psikiatrikoen tratamenduarekin.
+doc56	5	Eremu hauetan, gaur egun, kanabis naturalaren edo sintetikoaren deribatuen erabilerari buruzko ikerketa klinikoa urria da, beraz, gomendagarria da ikerketa kliniko kontrolatuekin sustatzea nazioarteko droga-agentzia arautzaileen arauen arabera.
+doc56	6	Produktu horien eraginkortasuna eta segurtasuna ezagutzeaz gain, erabilera terapeutikoaren administrazio forma eraginkorrena frogatu behar da, osagai aktibo egokienak (Delta-9-tetrahidrocannabinol, cannabidiol) eta beste botika batzuekin elkartzearen eragin klinikoa.
+doc56	7	Ondorioz, kannabisen deribatuen propietate terapeutikoen ezagutza zientifikoa areagotzeak bakarrik lagundu diezaieke beren legalizazioa medikuntza helburuetarako.
+doc57	1	2006-2011 denboraldian Euskal Herriko errezeta antibiotikoen bilakaera
+doc57	2	Azterketaren helburua Euskal Herrian 2006-2011 denboraldian erabilpen sistemikorako errezeta antibiotikoen bilakaera aztertzea da.
+doc57	4	Farmazietan egindako errezeta guztiak sartu genituen 2006tik 2011ra.
+doc57	6	EAEko DHDaren antibiotikoa 2006tik 2011ra % 1,08 hazi zen.
+doc57	7	DHDren bilakaerak ikastaro mugikor bat aurkeztu du, lehen urtean gorakada markatu batekin, 2010. urtera arte, non maila baxuenera iristen den eta handik behera.
+doc57	8	Penizilinaren azpitaldea da preskribatuena, makrolidoak ez dira aldatu eta kuinolonak handitu dira.
+doc57	9	Emaitzak beste ikasketen antzekoak dira, gure ingurunean antibiotikoen erabilera deskribatzen dutenak, eta azken urteotan gutxiago erabili izan direnak.
+doc58	1	Praktikante orokorren prestakuntza eta iritzia (IKERPAL Study)
+doc58	2	Gaur egun, zaintza planak inplementatzen ari dira.
+doc58	3	Bere beharrizanak %50 eta %89a dira.
+doc58	4	Helburua: jakintza, trebakuntza, jarrera eta iritzia Praktikante Orokorren (GP) arduradunen erabilerari buruz.
+doc58	5	Metodoak: Bi Osasun Erakunde Integratuen GP guztien deskribapen-azterketa deskribatzailea.
+doc58	6	Auto-osatutako galdeketa bat erabiltzen zen itxita eta anonimoki.
+doc58	7	Aldagaiak: soziodemografikoa.
+doc58	8	Kudeaketari buruzko gaitasunak eta jarrerak.
+doc58	9	Baliabideen eta legediaren esperientzia, prestakuntza eta ezagutza.
+doc58	10	Likert eskala gehienbat 1 izan zen eta gehienez 5.
+doc58	11	Emaitzak: 201 GPk erantzun zuten (% 17k ez zuen erantzun) batez beste 51,9 urtekoa, %68 emakume.
+doc58	12	Sintomak kudeatzeko gaitasunak: mina, nazioa, konstipazioa, diarrea, antsietatea/depresioa, dispnea, insomnioa 4; anorexia, astenia eta deliruma 3 ziren.
+doc58	13	Drogen erabilera ezagutzea: opioideak, ko-analgesikoak, antidepresiboak, antiemetika, antsiolitika eta laxatiboak 4; 3 antipsikotikoa.
+doc58	14	Ahaideentzako pronostika medikoa erabili eta laguntzeko aditua 4 zen eta arreta palatiboa eskaintzea, premia espiritualak identifikatzea, medikuntza pronostikoa pazientearentzat komunikatzea eta palentziazko sedazioa kudeatzea 3 zen.
+doc58	15	Hegazkin emozionala eta espirituala hiru ziren profesionalki heriotzari aurre egiteko aditua.
+doc58	16	Gaixo hauekin harremanetan jartzea eta terapia erosoa izatea %98 izan zen.
+doc58	17	%99k esan zuen familia-medikuak izan behar zuela zainketa palatiboa emateko.
+doc58	18	Prestakuntza jasotzea %3 aurreratua zen eta azken 3 urteotan artikuluak irakurtzeko medianoa 3 izan zen.
+doc58	19	%97k Palliative Care Unitateak onartu zituen, San Juan de Dios (% 74).
+doc58	20	Legezko ezagutzari buruzko bi galderak %60 eta %80 izan ziren.
+doc58	21	Konklusioak: Inguruneko GP-ak kualifikatuta sentitzen dira eta uste dute ardura palatiboa lehen mailako arreta dela.
+doc58	22	Punturik ahulena izatea antipsikotiko, komunikazio eta legeen ezagutzaren kudeaketa.
+doc59	1	Neurozistizerkosia: hidrozefaliaren kasua
+doc59	2	Zistizerkosia Taenia solium parasitoak sortutako entitate klinikoa da.
+doc60	1	Eutanasiako Lege Organikoaren Legeari buruzko lana, Alderdi Sozialistaren Parlamentuko Talde Parlamentarioak aurkeztu zuena eta Espainiako Parlamentuko Aldizkari Ofizialean argitaratu zena 2018ko maiatzaren 21ean
+doc60	2	Gaur egun Eutanasiako Araudi Organikoaren Legea kontsideratzen dugu, Alderdi Sozialistaren Alderdi Sozialistaren Talde Parlamentarioak aurreratu eta 2018ko maiatzaren 21ean Espainiako Parlamentuko Aldizkari Ofizialean argitaratua izan zena, oso-osorik dagoena, gure kultur inguruneko herrialdeen esperientzian, non hilzorian dagoen mediku-laguntzari buruzko legeria onartu den.
+doc60	3	Horrez gain, gaiaren zenbait alderditara hurbiltzea zuzentzat jotzen dugu, legeak betetzean aipaturiko herrialdeetan gertatzen diren arazoak saihesteko.
+doc60	4	Hala ere, terminologiari objekzio batzuk egiten dizkiogu, eta prozedura arazo bat zuzendu behar zaio.
+doc61	1	Azido butirikoaren rola elikagaietan eta hesteetako osasunean
+doc61	2	Azido butirikoa 6 karbono atomo dituen azido kate motz bat da.
+doc61	3	Berez, digestio-traktuan eta hesteetako inplikazioa duten patologietan erabiltzen da.
+doc61	4	Enterozitoaren energia substratu nagusia da eta hesteetako zeluletan sodio eta uraren absortzioa xurgatzen du.
+doc61	5	Bere propietateak eta traktu gastrointestinalean jokatzen duen rola antzinako garaietatik ezagutzen dira; hala ere, azken ikerketek erakusten dute molekula handia dela potentzial handiarekin.
+doc62	1	Jateko nahasmenduen unitate desberdinetan elikadura-tratamenduaren garrantzia.
+doc62	2	Jateko nahasmenduak buruko arazoak dira, batez ere janariaren bidez agertzen dira.
+doc62	3	Anorexia Nervosa eta Bulimia Nervosa bezalako nahasmenduak jateak alarma eta kezka eragin ditu azken urteotan, eta horregatik Osasun Erakundeak lehentasun mentaleko gaixotasunen artean jarri ditu jateko nahasmenduak, osasun-arriskua ezarriz.
+doc62	4	Gaixotasun horien tratamendua diziplina anitzeko taldeen parte-hartze koordinatuan oinarritzen da, non dietiziano-nutrizionistek egindako elikadura-tratamenduak zeregin garrantzitsua duen.
+doc62	5	Tratamendu hau hiru unitatetan egiten da: pazientea, eguneko ospitalea eta ospitalea.
+doc62	6	Gaixoaren egoeraren arabera, tratamendua unitate batean edo bestean egingo da.
+doc62	7	Malnutrizioa edo malnutrizio larria duten pazienteek sindromea elikatzeko arriskua dute; beraz, dietiziano-nutrizionistak paziente hauek arreta bereziarekin tratatu behar ditu.
+doc62	8	Unibertsitatetik gaixotasun hauen tratamenduan dietika eta elikadura profesionaletara hezkuntzak bizi-kalitatea eta paziente horien etorkizuna hobetu ditzake.
+doc63	1	azkazaleko lesio kirurgikoak kudeatzea
+doc63	2	Larrialdietako departamentuetan (A&E) ezezaguna eta gutxietsia izaten da azkazaleko anatomiaren ezagutzarik ezagatik.
+doc63	3	Hala ere, "minor" zauri horiek sekuela funtzional eta estetiko baten iturria izan daitezke.
+doc63	4	Egunkari honetan anatomia, patofisiologia eta iltze-lesiorik arruntenetako batzuen tratamendua deskribatzen da.
+doc64	1	Bronkiolitis arnas-asoziazioa-Asoziatutako Biriketako Gaixotasun Interstiziala, tuberkulosi militarraren eredu erradiologikoa simulatuz eta anemia hemolitiko hotzarekin lotuak
+doc64	2	Bronkiolitis arnas-gaixotasuna (biriketako gaixotasun interstizial elkartua) gaixotasun arraro bat da, tuberkulosi militarraren eredu erradiologikoa mimikatzen duena.
+doc64	3	Biriketako biopsia transbronkiala erabilgarria izan daiteke diagnostikatzeko.
+doc65	1	Bat-batean heriotza berreskuratu zen duela 9 hilabete jaio zen emakume batean.
+doc65	3	4 patologia nagusi daude bat-bateko heriotzara eraman dezaketenak, egiturazko aldaketa kardiakorik gabe: QT sindrome luzea, QT sindromea, Brugada sindromea eta takikardia bentrikular katekolaminergikoa.
+doc65	4	ICDa prebentzio primario eta sekundariorako erabiltzen den gailu nagusia da.
+doc65	5	Nahiz eta kardioverter-desfibrilatzaileen larrialdien intzidentzia urria izan, kudeaketa eraginkorra ezinbestekoa da pazientearen eboluzio onerako.
+doc66	1	Sindrome koronario akutua, ahaide baten heriotzaren ondoren
+doc66	2	Takotsubo sindromea estresak eragindako kardiomiopatia bezala ere ezagutzen da.
+doc66	6	Sintoma nagusiak bularreko mina (% 75), dispnea (%47) eta sinkopioa (% 7).
+doc66	7	Gaixotasuna onbera izaten da normalean, eta gehienetan epe luzeko pronostiko batera eramaten du.
+doc67	1	Medikamentuei atxikitzea
+doc67	2	Tratamenduarekin atxikitzea edo betetzea bultzatu beharko litzateke, garapen bidean dauden herrialdeetan erdiak ez baititu behar bezala hartzen edo ez baitu hartzen.
+doc67	6	Ekitaldietan pazienteekin ados egon behar da beti.
+doc68	1	decubituseko edo klinostatikoko eta ortopneoko dispnea
+doc68	2	Sarritan ortopnea definitzen da dispnea gisa supinean, pronoan edo klinostatikoan etzaten den bitartean, autoreek badakiten zerbait definizio estandarra dela, baina azkenik okertzat jotzen dute.
+doc69	1	Scheuermann-en gaixotasuna
+doc69	2	Scheuermannen gaixotasuna hiperkifosi torazikoaren eta gazteen dorsalgia azpiakutuaren kausa da.
+doc69	3	Bere kausa idiopatikoa da, baina ikuspegi zabala da faktore genetikoak egon daitezkeela.
+doc69	4	X izpien probak ornodunen ezteiak eta sintoma bateragarriek lagundutako bizkarrezur torazikoaren angulazio zifotikoa erakusten dituzte, normalean nahikoa nabaria da diagnostikoa formulatzeko.
+doc70	1	Charles Bonnet-en sindromea; kasu bat
+doc70	2	98 urteko emakumezko gaixo baten kasuan gure osasun-zentroan tratatu genuen, zeinaren sintoma nagusia ikusmen-haluzinazioen presentzia zen.
+doc70	3	Gaixoak bere sintomak gorde zituen hasi zirenetik, bere irrealitateaz kontziente izanez, baina ikusmendutako pertsonen aurpegieraz eta bere jantziez erabat zehaztasunez deskribatu ahal izan zituen.
+doc70	5	Dementia sindromea gobernatu zen, eta Charles Bonnet Sindromea, ikusmen-gaitasun larriaren bigarren mailako haluzinazioak agertzea izan zen, horren ordez.
+doc70	6	Horrek Charles Bonnet Sindromeari begiratzeko beharra erakusten du lehen mailako osasun-arreta duten gaixoen haluzinazio bisualen diagnostiko diferentzialean eta azterketa osagarrien egokitzapenean.
+doc71	1	Gobernuaren erronka handia Mexikoko osasun publikoan: nefropatia diabetikoa giltzurrun-gaixotasun kronikoaren kausa nagusi gisa
+doc71	2	Diabetes Mellitus eta nefropatia diabetikoa oso arazo garrantzitsua da Mexikoko osasun publikoarentzat.
+doc71	6	Hala ere, beste herrialde batzuetan gertatzen denaren antzera, Mexikon gaixotasun honen diagnostikoa, tratamendua eta monitorizazioa onartzen duten medikuntzako ikerketa genomikoetan inbertitu eta integratu behar da.
+doc72	1	Kontrastea hobetutako ultrasoinua, giltzurrun-gutxieneko lesio kistikoetan, ultrasoinuak edo tomografia kalkulatuak (CT)
+doc72	2	Kontraste hobetutako ultrasoinuaren (CEUS) diagnostikoaren zehaztasuna ebaluatzea, giltzurruneko lesio kistikoen kudeaketan, ultrasoinuak edo Tomografia Konputatuak (KT).
+doc72	4	Guztiek CEUS gehigarria jasan zuten.
+doc72	5	Bosniakoen sailkapen-sistemaren parametroak grabatu ziren, lesioak onberan sailkatuz (Bosniak I, II, IIF) edo gaizki (III, IV, lesio solidoak).
+doc72	6	Teknika bakoitzaren (sentikortasun (TPR), espezifikotasuna (TNR), positiboa (PPV) eta balio iragarle negatiboak (NPV) kalkulatu ziren, P<0.05 aukeratzea esangurazko muga gisa.
+doc72	8	Hobetu gabeko ultrasoinuak TPR 60%, TNR 80%, PPV 55,4% y NPV 82,8 balioak erakutsi zituen.
+doc72	9	Kontrastea hobetutako ultrasoinuak % 94 TPR, TNR 97,6%, PPV 99,5 eta NPV 77,6 balioak aurkeztu zituen.
+doc72	10	CEUS taldearen analisi gisa <3cm (n=34) TPR %100 eta TNR %100 lortu zituen.
+doc72	11	>=3cm-ko azpitaldean (n=24), ECCk % 75 TPR eta TNR E95 izan zituen %86'1 eta %90eko NPParekin.
+doc72	12	58ko giltzurruneko lesio kistiko zehazgabeak aztertu zituen, %41 (%70,7) onberak izan ziren 17 (% 29,3) giltzurruneko tumoreak izan zirenean.
+doc72	13	CEUS teknika zehatz eta baliagarria da CTk edo Ultrasoinuak identifikatutako lesio kistiko zehazgabeetan.
+doc72	14	Lesio kistiko konplexuen emaitzak 3 cm-koak baino txikiagoak dira eta gaixo hauetan baliagarritasun handiagoa erakuts dezakete, nahiz eta ikerketa gehiago behar izan.
+doc73	1	Amerikako erizaintza militarraren historia Bigarren Mundu Gerran
+doc73	2	Adintsu, zauritu eta gaixotuen zainketa emakumeek eraman dute gizateriaren egunsentitik.
+doc73	3	Historia osoan zehar eboluzio bat egon da osasun-gaixotasunaren kontzeptuan eta zaintzaile-baldintzetan.
+doc73	4	Garapen honetarako gerrek funtsezko zeregina izan dute, familiatik militarrera emakumeen laguntza handituz.
+doc74	1	Bizkaiko kirurgia plastikoaren hasiera eta garapena (1960-82)
+doc75	1	Quervain ́s tiroiditis jatorri ezezagunaren sukar gisa
+doc75	2	Infekzioak, tumoreak edo inflamazioak jatorri ezezagunaren sukar nagusiak dira (FUO).
+doc75	3	Quervain ́s subacute tiroiditis sukarrarekin bakarrik hasi daiteke, tokiko inflamatorio sintomarik gabe (goiter).
+doc75	4	44 urteko gizona, Ospitalean 38oC baino tenperatura handiagoa zuena azken 3 asteetan, eztul ezproduktiboa, eztula, buruko mina eta pisua galdu zituena.
+doc75	6	Bost egunen buruan, aurreko min zerbikalarekin hasi zen, erosotasun mandibularra eta bihotzeko palpitazioak.
+doc75	7	TSH baxua zen eta T3 eta T4 odol analisi handiak ziren.
+doc75	8	Horrela, tiroiditis azpiakutua susmatu eta baieztatu zen gammagrafiaren bidez.
+doc75	9	Nahiz eta tiroiditis azpiakutua tokiko sintomarik gabe, FUOren diagnostiko diferentzialean kontuan hartu behar da.
+doc76	1	hezur metatasetako erradioterapia estereotaktiko estrakranial
+doc76	2	Hezur metastasi kopuru mugatua duten paziente onkologikoek, erradioterapia estereotaktiko estrakranialarekin (SBRT) tratamendutik onura atera dezakete, efikazia eta tumorearen erantzuna hobetuz, ohiko erradioterapiarekin alderatuz.
+doc76	3	Zehaztasun handiko erradioterapiaren teknika berritzaile honek albo-efektu gutxiago eta erosotasun handiagoa dakar bere administrazioan, tratamendu-saioen kopurua murriztu egiten baita.
