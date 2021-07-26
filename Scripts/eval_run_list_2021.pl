@@ -3,7 +3,7 @@
 use strict;
 use vars qw ();
 
-my $data_d = "/Users/david/Projects/WMT-Basque/2021";
+my $data_d = "/home/davidm/Projects/WMT-Basque/2021";
 my $gold_f = "$data_d/Gold/icd_codes_test_eu_2021.eu";
 
 opendir(D,"$data_d/Participants-terms")||die "$data_d/Participants-terms";
@@ -13,8 +13,8 @@ closedir(D);
 undef my %H;
 undef my %B;
 foreach my $f (@Files) {
-    $_ = `./eval_run_tokens.pl $data_d/Participants-terms/$f $gold_f`;
-    #    $_ = `./eval_run.pl $data_d/Participants-terms/$f $gold_f`;
+    #$_ = `./eval_run_tokens.pl $data_d/Participants-terms/$f $gold_f`;
+    $_ = `./eval_run.pl $data_d/Participants-terms/$f $gold_f`;
     #$_ = `./eval_run_nospace.pl $data_d/Participants-terms/$f $gold_f`;
     chomp;
     m /ACC\: (.*?)$/;
