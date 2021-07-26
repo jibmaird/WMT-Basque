@@ -21,6 +21,10 @@ while(<I>) {
     my $p = lc($_);
     my $g = <G>;
     chomp($g);
+
+    $p =~s /^.*?\t//;
+    $g =~s /^.*?\t//;
+    
     $g = lc($g);
     if ($p eq $g) {
 	$ok++;
