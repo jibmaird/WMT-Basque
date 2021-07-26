@@ -1,0 +1,2736 @@
+S52399A	erradioaren diafisiko beste haustura batzuk, beso zehaztugabea, hasierako harremana haustura itxiagatik
+Z654	krimen eta terrorismoaren biktima
+M060	artritis erreumatoidea, faktore erreumatoiderik gabe
+W458	larruazalean sartzen den beste gorputz arrotz edo objektu batzuk
+O071	haurdunaldia bajatzen saiatutako hutsegite baten ondoren gehiegizko odoljarioa edo gehiegizko odoljarioa
+V380	hiru gurpileko ibilgailu motorduneko lesionatutako gidaria, trafikokoa ez den istripu batean lesionatutako garraio-istripu batean
+O252	malnutrizioa erditzean
+Y842	prozedura erradiologikoa eta erradioterapia pazientearen erreakzio anormalaren edo beranduagoko konplikazioaren kausa bezala, prozeduraren garaian ezbeharraren aipamenik egin gabe
+Z308	harremana beste kudeaketa kontrazeptibo batentzat
+M451	okzipito-axial-eskualdeko espondilitis ankilosatzaile
+Z304	harremana kontrazeptiboen zaintzarako
+R268	ibileraren eta mugikortasunaren beste anormalitate batzuk
+W184	irristatu, tripatu eta estropozo egin erori gabe
+T519	alkohol zehaztugabearen efektu toxiko
+S131	orno zerbikaleko subluxazioa eta lokadura
+V972	istripu parakutista
+O9A5	abusu psikologikoa, haurdunaldia, erditzea eta erdiberriaroa konplikatzen dituena
+T861	giltzurruneko transplanteko konplikazioak
+O031	berezko abortu osatugabearen segidako odoljario atzeratua edo gehiegizkoa
+S962	muskulu intrintseko eta tendoiko lesio traumatikoa, orkatila eta oina
+S898	hankaren behealdeko beste lesio traumatiko zehatz batzuk
+T444	pozoidura, nagusiki hartzaile alfa-adrenergikoen agonisten kontrako efektua eta infradosifikazioa
+S134	bizkarrezur zerbikaleko lotailuetako bihurritu
+S001	betazaleko eta betazaleko kontusio
+S162	muskuluaren, fasziako eta tendoiko urratua, lepoa
+Y771	gailu oftalmiko errehabilitatiboak (kirurgikoak ez direnak) eta errehabilitatzaileak, kontrako intzidentziekin lotuak
+Y831	operazio kirurgikoa, barneko gailu artifizialaren inplantearekin, pazientearen erreakzio anormalaren edo beranduagoko konplikazioaren kausa bezala, prozeduraren garaian zorigaiztoko abentura aipatu gabe
+M263	hortz-posizioko anomaliak, hortz edo hortz guztiz eruptatuen posizioa
+Y790	gailu ortopedikoak diagnostiko eta monitorizatzea, kontrako intzidentziekin lotuak
+V304XXA	hiru gurpileko ibilgailu batera igotzen edo hortik jaisten ari den lesionatutako pertsona, oinezko edo animalia batekin talka egiteagatik, hasierako harremana
+T263	begiko eta anexuetako beste zati zehatz batzuetako erredura
+W932	esposizio luzea izoztutako unitate sakonean edo hozkailuan
+T348	orkatila, oin eta behatz lodietako ehunetako nekrosiarekin
+X034	objektuaren bidez, kontrolatutako suaren ondorioz, ez eraikinean edo egituran
+T199XXS	gorputz arrotza traktu genitourinarioan, zehaztugabeko zati batean, sekuela
+Y938	jarduerak, beste zehaztu batzuk
+Z554	hezkuntzako gaiztakeria eta diskordioa irakasleekin eta ikaskideekin
+W613	kontaktua oilaskoarekin
+Z181	metalezko zatiak gordeta
+Z807	ehun linfoide, hematopoietiko eta erlazionatutako ehunetako beste neoplasia gaiztoetako historia familiar
+P749	jaioberriaren nahasmendu metabolikoa, zehaztugabea
+N004	sindrome nefritiko akutua, glomerulonefritis endokapilar hedatsuarekin
+T24111A	eskuineko izterreko lehen mailako erredura, hasierako harremana
+V882	automobil baten eta kamioneta baten arteko talkan lesionatutako pertsona, trafikokoa ez den istripua
+S110	laringeko eta trakeako zauri ireki
+T386	pozoidura, antigonadotrofinen, antiestrogenoen, antiandrogenoen kontrako efektuak eta infradosifikazioak eragindakoa, beste kontzeptu batean sailkatu gabeak
+S62209G	lehen hezur metakarpianoko haustura zehaztugabea, esku zehaztugabea, segidako harremana hausturaren finkapena atzeratu delako
+M768	beheko gorputz-adarreko beste entesopatia zehatz batzuk, oina kanpo
+T378	pozoidura, infekzioen eta parasitoen kontrako beste kontrako efektuak eta infradosifikazioak eragindakoa
+K437	beste eta zehaztugabeko hernia bentral batzuk, gangrenarekin
+O910	haurdunaldiarekin, erdiberriaroarekin eta erdiberriaroarekin lotutako titiburuetako infekzio
+Z136	harremana nahasmendu kardiobaskularren bila joateko
+L978	hankaren behealdeko beste zati bateko presiorik gabeko ultzera kroniko
+P773	3. etapa, jaioberriaren enterokolitis nekrotizatzailea
+R870	emakumezkoen organo genitaletako entzimen-maila anormala
+Z877	sortzetiko malformazioen historia pertsonal
+T415	pozoidura, gas terapeutikoen kontrako efektua eta infradosifikazioa
+O601	erditze pretermikoa pretermioarekin
+O432	plazenta morbide
+Z382	jaioberriaren haur bakarra, jaiotzako toki zehaztugabea
+T565	zinkaren eta bere konposatuen efektu toxikoak
+S62202D	lehen hezur metakarpianoko haustura zehaztugabea, ezkerreko eskua, segidako harremana hausturaren errutinazko sendaketak direla medio
+M276	hortzetako inplante endosseosoen hutsegitea
+O906	erditze-osteko umorearen nahasmendu
+Y751	gailu neurologiko errehabilitatiboak (kirurgikoak ez direnak) eta errehabilitatiboak, kontrako intzidentziekin lotuak
+N611	bularreko eta titiburuko abszesu
+M215	atzapar hartua, eskumuturra, atzapar oina eta oina
+V698	garraio astuneko ibilgailuko okupatzailea (gidaria), zehaztutako beste garraio-istripu batzuetan lesionatutakoa
+S968	beste muskulu eta tendoi zehatz batzuetako lesio traumatikoa, orkatila eta oina
+T346	aldakako eta izterreko izoztea, ehunetako nekrosiarekin
+N522	botikek eragindako disfuntzioa
+Y728	gailu otorrinolaringologiko miszelaneoak, kontrako intzidentziekin lotuak, beste kontzeptu batean sailkatu gabeak
+T441	pozoidura, beste parasinpatomimetiko batzuen kontrako efektuak eta infradosifikazioak eragindakoa
+Z762	harremana haur osasuntsu eta haur osasuntsu baten gainbegiratzea eta zaintzeagatik
+S661	muskulu flexoreko lesio traumatikoa, faszia eta tendoia, eskumuturra eta eskua
+T22121D	eskuineko ukondoko lehen mailako erredura, segidako harremana
+T855	dispositibo protestinal gastrointestinalen konplikazio mekanikoa, inplanteak eta mentuak
+V489	trafiko-istripu batean lesionatutako auto-okupatzaile zehaztugabe
+W621	kontaktua apatx ez-pozoitsuekin
+X991	erasoa labanaren arabera
+Z478	harremana beste arreta ortopediko batentzat
+S26021S	bihotzeko urratu moderatua, hemoperikardioarekin, sekuela
+X730	intentziozko auto-kaltea, eskopeta-kargaren bidez
+S958	beste odol-hodi batzuetako lesio traumatikoa, orkatila eta oina
+Q729	beheko gorputz-adarraren murrizketa-akats zehaztugabe
+T871	beheko gorputz-adarreko (zatia) erantsiko konplikazioak
+L894	atzealdeko toki kontiguoko presio-ultzera, ipurmasaila eta aldaka
+Q955	indibiduala toki autosomalarekin
+T848	barruko protesi-gailu ortopedikoetako beste konplikazio zehatz batzuk, inplanteak eta mentuak
+M638	muskuluetako nahasmenduak, beste kontzeptu baten azpian sailkatutako gaixotasunetan
+Y846	gernu-kateterizazioa pazientearen erreakzio anormalaren edo beranduago konplikazioaren kausa bezala, prozeduraren garaian ezbeharraren aipamenik egin gabe
+T835	gernu-sistemako infekzio eta inflamatorio-erreakzioa, protesi-gailua, inplantea eta mentuak sortua
+N486	indurazioko penis plastikoa
+Z013	harremana odol-presioa aztertzeko
+Z053	jaioberriaren behaketa eta ebaluazioa susmagarrizko arnas-baldintza batentzako
+T231	eskumuturreko eta eskuko lehen mailako erredura
+W370	bizikleta-gurpileko leherketa
+T335	eskumuturreko, eskuko eta hatzetako azaleko izozte
+X131	beste kontaktu bat lurrinarekin eta beste lurrun beroekin
+W941	aire baxuko presioa luzatzearen eraginpean egote
+M970	haustura periprostetikoa barneko aldaka protesikoaren inguruan
+W931	kontaktua aire likidoko inhalazioarekin
+T199XXA	gorputz arrotza traktu genitourinarioan, zehaztugabeko zati batean, hasierako harremana
+Y386	arma biologikoek eragindako terrorismo
+Q826	sortzetiko sakroko dimplea
+S605	eskuko azaleko beste lesio traumatiko batzuk
+R297	Osasun Trazuaren Institutu Nazionalak (NIHSS) puntuazioa
+T2027XS	lepoko bigarren mailako erredura, sekuela
+W169	salto egitea edo urperatzea ur zehaztugabean
+S55909D	zehaztugabeko odol-hodi bateko lesio traumatiko zehaztugabea, besaurrea, beso zehaztugabea, segidako harremana
+O440	plazenta prebia NOS edo odoljariorik gabe
+Z622	gurasoetatik urruntzen
+M625	muskuluak alferrik galtzea eta atrofia, beste kontzeptu batean sailkatu gabea
+K829	behazun-maskuriko gaixotasuna, zehaztugabea
+T25222S	ezkerreko oineko bigarren mailako erredura, sekuela
+R279	koordinazio falta zehaztugabe
+Q878	sortzetiko beste malformazio-sindrome zehatz batzuk, beste kontzeptu batean sailkatu gabeak
+V799	zehaztugabeko trafiko-istripu batean lesionatutako autobus-okupatzailea (gidaria)
+Y770	gailu diagnostiko eta monitorizatzaileak, kontrako intzidentziekin lotuak
+Z626	gurasoen presio ezegokia (gehiegizkoa)
+O074	huts egin du haurdunaldia bajatzen saiatzean konplikaziorik gabe
+L499	gorputz-azalaren ehuneko 90 edo gehiagoko afekzio eritematikoek sortutako esfolazioa
+X374	tidalwave
+T23272A	ezkerreko eskumuturreko bigarren mailako erredura, hasierako harremana
+T596	hidrogeno sulfuroaren efektu toxiko
+T269	begiko eta anexuetako higadura, zehaztugabeko zati batekoa
+V938	beste lesio traumatiko batzuk, beste istripu batek sortuak
+T243	beheko gorputz-adarreko hirugarren mailako erredura, orkatila eta oina
+N029	hematuria errepikatu eta iraunkorra, aldaketa morfologiko zehaztugabeekin
+S665	muskulu intrintseko, fasziako eta tendoiko lesio traumatikoa, beste eta zehaztugabeko hatz batekoa, eskumuturra eta eskua
+Y922	eskola, beste instituzio eta administrazio eremu publiko bat kanpoko kausaren gertaleku gisa
+R438	usainaren eta zaporearen beste nahasmendu batzuk
+P040	amaren anestesiak eta analgesiak afektatutako jaioberria, haurdunaldian, erditzean
+T374	pozoidura, antelmintikoen kontrako efektua eta infradosifikazioa
+Q418	heste meharreko beste zati zehatz batzuetako sortzetiko absentzia, atresia eta estenosi
+T316	60-69 bitarteko erredurak
+X102	kontaktua gantzekin eta olioekin
+Y939	jarduera, zehaztugabea
+S591	erradioaren goiko muturreko haustura fisal
+M128	beste artropatia espezifiko batzuk, beste kontzeptu batean sailkatu gabeak
+Z518	harremana beste arreta zehatz batentzat
+S025	hortzeko haustura (traumatikoa)
+L729	larruazaleko eta larruazaleko ehuneko kiste folikularra, zehaztugabea
+Y041	erasoa, giza hozkadaren arabera
+V599	kamionetako edo furgonetako okupatzailea (gidaria) (bidaiaria) edo furgoneta baten istripuan lesionatutakoa
+P029	mintzen anormaltasunak afektatutako jaioberria, zehaztugabea
+Z650	presondegirik gabeko prozedura zibil eta kriminaletan
+M513	beste disko toraziko, torakolu-barra eta gernu-ornoarteko endekapen toraziko batzuk
+Z983	biriketako egoeraren kolapso terapeutiko
+M01X	giltzadurako infekzio zuzena, beste kontzeptu baten azpian sailkatutako gaixotasun infekziosoetan eta parasitoetan
+T222	sorbaldako eta goiko gorputz-adarreko bigarren mailako erredura, eskumuturra eta eskua
+S655	beste eta zehaztugabeko hatz bateko odol-hodiko lesio traumatiko
+M800	adinarekin lotutako osteoporosia, egungo haustura patologikoarekin
+Y929	leku zehaztugabea edo ez da aplikatu
+O112	hipertentsio pre-existentea preeklanpsiarekin, bigarren hiruhilekoa
+V833	trafiko-istripu batean lesionatutako industria-ibilgailu bereziko okupatzaile zehaztugabe
+T455	pozoidura, antikoagulatzaileen eta botika antitronbotikoen kontrako efektuak eta infradosifikazioak eragindakoa
+P049	amaren substantzia noxiosoak afektatutako jaioberria, zehaztugabea
+X140	aire eta gas beroen inhalazioa
+S55202D	bena bateko lesio traumatiko zehaztugabea, besaurrea, ezkerreko besoa, segidako harremana
+Q552	hesteetako eta eskrotoko sortzetiko beste eta zehaztugabeko malformazio batzuk
+Y761	gailu obstetriko eta ginekologiko errehabilitatiboak, kontrako intzidentziekin lotuak
+P926	huts egin du jaioberrian irabaztean
+W230	mugimendu-objektuen artean harrapatu, zapaldu, zapaldu, txikitu edo txikituta
+T50A	bakterio-toxinekin egindako pozoidura, kontrako efektua eta infradosifikazioa
+T2124XD	bizkarraren behealdeko bigarren mailako erredura, segidako harremana
+T449	pozoidura, nagusiki nerbio-sistema autonomoari eragiten dioten beste eta zehaztugabeko botika batzuen kontrako efektua eta infradosifikazioa
+O602	erditze-epea, preterm laborearekin
+X772	intentziozko auto-kaltea, beste fluido beroek sortua
+S381	abdomeneko, bizkarraren behealdeko eta pelbiseko zapaltze-lesio
+V942	beste ur-ontzi batzuek jotako ur-ontzi ez-potentziadun gidari
+Z340	harremana lehen haurdunaldia normala gainbegiratzeko
+T368	pozoidura, beste antibiotiko sistemiko batzuen kontrako efektua eta infradosifikazioa
+Q713	eskuko eta hatz bateko sortzetiko absentziak
+Z751	beste nonbait instalazio egokiaren zain dagoen pertsona
+R730	glukosa anormala
+Z134	harremana haurtzaroko garapen-nahasmendu batzuen bilaketarako
+V933	itsasontzira erortzen
+M79A	sindrome konpartimental ez-traumatiko
+L495	gorputz-azalaren ehuneko 50-59ko afekzio eritematikoek sortutako esfoliazioa
+K851	pankreatitis akutu biliarra
+N771	baginitisa, ulbitis eta bulbobaginitisa, beste kontzeptu baten azpian sailkatutako gaixotasunetan
+N065	proteinuria isolatua, mesangiokapilarreko glomerulonefritis hedatsuarekin
+T2123XD	bizkarraren goialdeko bigarren mailako erredura, segidako harremana
+V879	beste ibilgailu motorgabe bati dagozkion garraio-istripu zehatz batzuetan lesionatutako pertsona, (koltsiorik gabekoa)(garraio-istripu motorgabeak)
+M489	espondilopatia, zehaztugabea
+N032	sindrome nefritiko kronikoa, mintz glomerulonefritis hedatsuarekin
+T379	pozoidura, infekzioen eta parasitoen kontrako efektuak eta infradosifikazioak eragindakoa
+X038	beste sute kontrolatuaren eraginpean egotea, ez eraikinean edo egituran
+W302	kontaktua belatz-edarikoarekin
+Y219	itotzea eta urperatzea, intentzio zehaztugabea
+Z392	harremana partum osteko errutinazko jarraipena egiteko
+S630	eskumuturreko eta eskuko giltzaduretako subluxazioa eta lokadura
+Q910	trisomia 18, ez-mosaizismoa (disjuntzio meiotikoa)
+Z170	estrogeno-hartzaile positiboa [ER+]
+T506	pozoidura, antidotoen eta agente aglutinatzaileen kontrako efektua eta infradosifikazioa
+Y998	Kanpoko beste kausa-egoera batzuk
+V680	garraio astuneko ibilgailuko lesionatutako gidaria, trafikokoa ez den istripu batean
+Z413	harremana belarriko zulatzerako
+Y380	terrorismoa, itsas armak eztanda egiteagatik
+N060	proteinuria isolatua, anormaltasun glomerular txikiarekin
+N477	prepuzioaren beste gaixotasun inflamatorio batzuk
+Z002	harremana haurtzaroko hazkunde azkarraren epea aztertzeko
+W320	istripuzko pistola-diskarga
+Y271	kontaktua ur beroarekin, intentzio zehaztugabea
+Y93F	arreta-emaileari dagozkion jarduerak
+R220	handitze lokalizatua, masa eta koskorra, burua
+T232	eskumuturreko eta eskuko bigarren mailako erredura
+S009	buruko zati zehaztugabearen azaleko lesio traumatiko
+T467	hodi-dilatatzaile periferikoek eragindako pozoidura, kontrako efektua eta infradosifikazioa
+V482	auto baten kanpoan dagoen lesionatutako pertsona, trafikokoa ez den istripu batean
+T69019S	immertsio-eskua, esku zehaztugabea, sekuela
+N523	prozedura-osteko disfuntzioa
+V793	trafikokoa ez den istripu batean lesionatutako autobus-okupatzailea (gidaria)
+T2132XS	abdomen-paretako hirugarren mailako erredura, sekuela
+K913	prozedura-osteko hesteetako buxadura
+S58129S	anputazio traumatiko partziala, ukondoaren eta eskumuturraren artean, beso zehaztugabea, sekuela
+Y281	kontaktua labanarekin, intentzio zehaztugabea
+N022	hematuria errepikatu eta iraunkorra, mintz glomerulonefritis hedatsuarekin
+K508	heste meharreko eta txikiko koroaren gaixotasun
+Y936	beste kirol eta atletismo batzuei dagozkien jarduerak talde edo talde gisa jokatu
+S214	toraxeko atzeko hormako zauri irekia, barrunbe torazikoan sartuta
+R970	antigeno kartzinobrioniko altua [CEA]
+Z743	gainbegiratze jarraitua behar da
+T461	kaltzio kanalen blokeatzaileek eragindako pozoidura, kontrako efektua eta infradosifikazioa
+T383	pozoidura, intsulinaren eta ahoko hipogluzemikoen kontrako efektuak eta infradosifikazioak eragindakoa
+T869	zehaztugabeko organo eta ehuneko konplikazioak
+Z620	gurasoen gainbegiratze eta kontrol ezegokia
+P614	sortzetiko beste anemia batzuk, beste kontzeptu batean sailkatu gabeak
+W228	beste objektu batzuek jotako edo jotako kolpean
+Z899	gorputz-adarraren absentzia hartua, zehaztugabea
+Z715	botiken abusua aholkularitza eta zaintza
+W541	txakurrak jota
+N000	sindrome nefritiko akutua, anormaltasun glomerular txikiarekin
+X719	intentziozko auto-kaltea, itotzearen eta urperatzearen bidez, zehaztugabea
+M053	bihotzeko gaixotasun erreumatoidea, artritis erreumatoidearekin
+M166	aldakako beste osteoartritis aldebiko sekundario batzuk
+Z671	A odol mota
+S868	beste muskulu eta tendoi batzuetako lesio traumatikoa, hankaren behealdea
+Z674	O odol mota
+R833	substantzien maila anormala, nagusiki ez-medizinala, fluido zerebrospinalean iturburu izateko
+R561	post traumatiko
+T22351S	eskuineko sorbaldako hirugarren mailako erredura, sekuela
+Z041	harremana garraio-istripu baten ondoren azterketa eta behaketa egiteko
+W273	kontaktua orratzarekin (josten)
+Y847	odolaren laginketa pazientearen erreakzio anormalaren edo beranduago konplikazioaren kausa bezala, prozeduraren garaian ezbeharraren aipamenik egin gabe
+Y702	protesiak eta beste inplante batzuk, materialak eta anestesiologia erabilerrazak, kontrako gertaerekin lotuak
+T2111XA	bular-paretako lehen mailako erredura, hasierako harremana
+Z729	bizimoduarekin lotutako arazoa, zehaztugabea
+L494	gorputz-azalaren ehuneko 40-49ko afekzio eritematikoek sortutako esfolia
+T22131D	eskuineko besoaren goialdeko lehen mailako erredura, segidako harremana
+K629	uzkiko eta ondesteko gaixotasuna, zehaztugabea
+P722	tiroide-funtzioaren beste nahasmendu iragankor batzuk, beste kontzeptu batean sailkatu gabeak
+M268	beste anomalia dentofazial batzuk
+N849	emakumezkoen traktu genitaleko polipoa, zehaztugabea
+T601	intsektizida halogenatuen efektu toxiko
+N448	hesteetako beste nahasmendu ez-inflamatorio batzuk
+Z138	harremana zehaztutako beste gaixotasun eta nahasmendu batzuen bilaketarako
+T215	enborraren lehen mailako higadura
+V314XXD	hiru gurpileko ibilgailu batera igotzen edo hortik jaisten ari den lesionatutako pertsona, bizikleta batekin talka egiteagatik, segidako harremana
+L972	zaldiko presiorik gabeko ultzera kroniko
+Z954	bihotzeko balbularen beste ordezko baten presentzia
+P044	amaren botiken erabilerak afektatutako jaioberri
+K654	mesenteritis eskleroso
+V293	trafikokoa ez den istripu batean lesionatutako motozikleta-gidaria (gidaria) (bidaiaria)
+T751	itotzearen eta urperatze ez-fatalaren efektu zehaztugabe
+T442	pozoidura, botika gongoil-bokeatzaileen kontrako efektua eta infradosifikazioa
+S281	toraxeko zati bateko anputazio traumatikoa, bularra izan ezik
+T253	orkatilako eta oineko hirugarren mailako erredura
+Q720	beheko gorputz-adarraren sortzetiko absentzia osoa
+Z733	estresa, beste kontzeptu batean sailkatu gabea
+Z282	immunizazioa ez da egina, beste eta zehaztugabeko arrazoi baten erabakiaren ondorioz
+W563	kontaktua beste itsas ugaztun batzuekin
+N982	obulu ernaldu baten sarrera saiakerako konplikazioak, vitro-ernalketaren ondoren
+P070	jaioberriaren pisu oso baxua jaioberri
+L029	larruazaleko abzesua, furunkulua eta karbunkulua, zehaztugabea
+T252	orkatilako eta oineko bigarren mailako erredura
+T22231S	eskuineko besoaren goialdeko bigarren mailako erredura, sekuela
+O084	giltzurrun-gutxiegitasuna, haurdunaldi ektopiko eta molarraren ondoren
+M405	lordosia, zehaztugabea
+V385	hiru gurpileko ibilgailu motorduneko lesionatutako gidaria, garraio-istripu batean trafiko-istripu batean
+Y833	kanpoko urdailaren eraketarekin eragiketa kirurgikoa, pazientearen erreakzio anormalaren edo beranduagoko konplikazioaren kausa bezala, prozeduraren garaian ezbeharraren aipamenik egin gabe
+S52392Q	erradioaren diafisiko beste haustura batzuk, ezkerreko besoa, segidako harremana I edo II motako haustura irekiaren batura txarra dela medio
+Q372	ezkerreko ahosabai biguna, aldebiko ezpainarekin
+N044	sindrome nefrotikoa, glomerulonefritis endokapilar hedatsuarekin
+T598	beste gas zehatz batzuen efektu toxikoa, keak eta lurrunak
+S149	lepoko nerbio zehaztugabeetako lesio traumatiko
+W092	gimnasioan edo oihanetik erortzen
+S905	orkatilako azaleko beste lesio traumatiko batzuk
+S892	peronearen goiko muturreko haustura fiseo
+T650	zianideen efektu toxiko
+Z911	tratamendu medikoa eta erregimenarekin bateraezina
+S239	toraxeko zati zehaztugabeetako bihurritu
+T63894A	beste animalia pozoitsu batzuekiko kontaktuaren efektu toxikoa, zehaztugabea, hasierako harremana
+T6594XD	zehaztugabeko substantzia baten efektu toxikoa, zehaztugabea, segidako harremana
+S853	bena safeno handiagoko lesio traumatikoa, hankaren behealdea
+R651	jatorri ez infekziosoaren sindrome inflamatorio sistemikoaren sindrome
+Y838	beste prozedura kirurgiko batzuk, pazientearen erreakzio anormalaren edo beranduago konplikazioaren kausa bezala, prozeduraren garaian ezbeharren aipamenik egin gabe
+S029	garezur eta aurpegiko hezur zehaztugabeetako haustura
+Q161	entzunezko kanaleko sortzetiko absentzia, atresia eta estriktura (kanpokoa)
+R874	emakumezkoen organo genitaletako laginetan aurkikuntza immunologiko anormalak
+N183	giltzurrun-gaixotasun kronikoa, 3. etapa (moderatua)
+Y931	ura eta ur-ontziak eragindako jarduerak
+N018	sindrome nefritiko azkar progresiboa beste aldaketa morfologiko batzuekin
+M148	artropatiak beste kontzeptu baten azpian sailkatutako gaixotasun zehatz batzuetan
+V485	trafiko-istripu batean lesionatutako auto-gidaria.
+X983	etxetresna beroen erasoa
+K869	pankreako gaixotasuna, zehaztugabea
+Y720	gailu otorrinolaringologiko diagnostiko eta monitorizatzaileak, kontrako intzidentziekin lotuak
+W318	kontaktua zehaztutako beste makina batzuekin
+Z967	beste hezur eta tendoi-inplante batzuen presentzia
+Z764	beste ostalari batzuk osasun-asistentzia errazteko
+T632	eskorpioiaren pozoiaren efektu toxiko
+K579	hesteetako gaixotasun dibertikularra, zehaztugabeko zatia, zulaketa edo abszesurik gabe
+O749	erditze-lanetan eta erditzean anestesiak eragindako konplikazioa, zehaztugabea
+X024	objektuaren bidez kolpatu eraikinetik edo egituratik su kontrolatuan
+S62291G	lehen hezur metakarpianoko beste haustura batzuk, eskuineko eskua, segidako harremana hausturaren finkapena atzeratu delako
+T618	beste itsas elikagai batzuen efektu toxiko
+W218	beste kirol ekipamendu batzuek jotako edo jotako kolpean
+T367	onddoen kontrako antibiotikoek eragindako pozoidura, sistemikoki erabilia
+K578	hesteetako dibertikulitisa, zehaztugabea, zulaketa eta abzesuarekin
+T80A	aBO bateraezintasun-erreakzioa, odolaren edo odol-produktuen transfusioak sortua
+R251	tremorra, zehaztugabea
+R865	emaitza mikrobiologiko anormalak gizonezkoen organo genitaletako laginetan
+T543	alkalis korrosiboen eta alkali- antzeko substantzien efektu toxikoak
+W553	kontaktua beste apatz sorta batekin
+S379	gernu-organo eta pelbiseko zehaztugabeko lesio traumatiko
+V921	itotzea eta urperatzea, ur-ontziaren mugimenduak gainezka egiteagatik
+K515	ezkerreko kolitis
+T567	berilioko eta bere konposatuen efektu toxikoak
+V344XXD	hiru gurpileko ibilgailu batera igotzen edo hortik jaisten ari den lesionatutako pertsona, garraio astuneko ibilgailu edo autobus batekin talka egiteagatik, segidako harremana
+Y288	kontaktua beste objektu zorrotz batekin, intentzio zehaztugabea
+Z209	kontaktua gaixotasun komunikagarri zehaztugabearen eraginpean eta (susmatua)
+T851	nerbio-sistemako estimulatzaile elektroniko inplantatuaren konplikazio mekaniko
+Z139	harremana pantailarako, zehaztugabea
+V699	garraio astuneko ibilgailuko okupatzailea (gidaria) (bidaiaria) zehaztugabeko trafiko-istripu batean lesionatutakoa
+T326	60-69 arteko higadurak
+N181	giltzurruneko gaixotasun kronikoa, 1. etapa.
+O094	haurdunaldiaren gainbegiratzea anizkoitzarekin
+Z006	harremana konparazio normala aztertzeko eta kontrolatzeko ikerketa klinikoko programan
+N062	proteinuria isolatua, mintz glomerulonefritis hedatsuarekin
+Y803	instrumentu kirurgikoak, materialak eta medikuntzako gailu fisikoak (suturak barne) kontrako intzidentziekin lotuak
+R330	botikek eragindako gernu-atentzioa
+T456	fibrinolisiari eragiten dioten botikek eragindako pozoidura, kontrako efektua eta infradosifikazioa
+T2122XA	abdomen-paretako bigarren mailako erredura, hasierako harremana
+K642	hirugarren mailako odoljarioak
+R876	emakumezkoen organo genitaletako laginetan aurkikuntza zitologiko anormalak
+R162	hepatomegalia, esplenomegaliarekin, beste kontzeptu batean sailkatu gabea
+K598	beste hesteetako nahasmendu funtzional zehatz batzuk
+M175	alde bakarreko belauneko beste osteoartritis sekundario batzuk
+Y210	itotzea eta urperatzea bainuontzian, intentzio zehaztugabea
+T732	akidura, esposizioak sortua
+S959	zehaztugabeko odol-hodi bateko lesio traumatikoa, orkatila eta oina
+N528	gizonezkoen beste disfuntzio erektibo batzuk
+R863	substantzien maila anormala, nagusiki ez-medizinala, gizonezkoen organo genitaletako aleak iturburu
+N074	nefropatia hereditarioa, beste kontzeptu batean sailkatu gabea, glomerulonefritis endokapilar hedatsuarekin
+Z959	inplante kardiako eta baskularraren presentzia, zehaztugabea
+S901	behatz bateko kontusioa, iltzeari kalterik egin gabe
+W011	maila berean erortzea, irristakortzea, tripatzea eta estropezu egitea, segidako objektuaren aurkako jotzearekin
+S055	zauri sarkorra, betazaleko gorputz arrotzarekin
+W174	atrakatik erortzen
+Z161	beta lactam antibiotikoen erresistentzia
+N735	emakumezko pelbiseko peritonitisa, zehaztugabea
+T886	erreakzio anafilaktikoa, droga zuzenaren edo medikamentuaren kontrako efektuak sortua
+T619	zehaztugabeko itsasoko efektu toxiko
+T24231A	eskuineko hankaren behealdeko bigarren mailako erredura, hasierako harremana
+R439	usaineko eta zaporeko nahasmendu zehaztugabe
+N829	emakumezkoen traktu genitalaren fistula, zehaztugabea
+S458	beste odol-hodi zehatz batzuetako lesio traumatikoa, sorbalda eta besoaren goialdea
+N021	hematuria errepikatu eta iraunkorra, lesio fokal eta segmental glomerularrekin
+X101	kontaktua janari beroarekin
+T320	10 baino gutxiagoko higadurak
+Q647	maskuriko eta uretrako sortzetiko beste eta zehaztugabeko malformazio batzuk
+S316	abdomen-paretako zauri irekia, barrunbe peritonealean sartzearekin
+O442	plazenta prebio partziala, odoljariorik gabe
+N971	jatorri tubaleko emakumezko antzutasuna
+T562	kromoko eta bere konposatuen efektu toxikoak
+S762	izterreko muskulu, fasziako eta tendoiko lesio traumatiko
+N983	enbrioiaren sarrera saiakerako konplikazioak, enbrioi-transferentzian
+N311	maskuriko erreflexu neuropatikoa, beste kontzeptu batean sailkatu gabea
+Z408	harremana beste kirurgia profilatiko batentzat
+S145	nerbio sinpatikoetako lesio traumatiko
+O359	amaren arreta, fetuaren anormalitatea eta kaltea dela medio, zehaztugabea
+Z022	harremana egoitzako erakundeari azterketa egiteko
+T247	beheko gorputz-adarreko hirugarren mailako higadura, orkatila eta oina
+V0591XS	lesionatutako oinezkoa patinetan, tren batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, sekuela
+W275	kontaktua paper-ebakitzailearekin
+O903	peripartum kardiomiopatia
+T809	infusio, transfusio eta injekzio terapeutikoaren segidako konplikazio zehaztugabe
+T537	hidrokarburo aromatikoen beste halogeno deribatuetako efektu toxiko
+K901	tropikal
+Z438	harremana beste irekidura artifizial batzuei arreta jartzeko
+P502	intrauterinaren (fetalaren) odol-galerak afektatutako jaioberri
+Z798	beste termino luze (gaur egungo) botika-terapia batzuk
+V393	hiru gurpileko ibilgailu motorduneko okupatzailea (gidaria) (bidaiaria), trafikokoa ez den istripu batean lesionatutakoa
+O240	1 motako diabetes mellitusa, haurdunaldian, erditzean eta erdiberriaroan
+W560	kontaktua dolphinarekin
+N365	uretrako pasabide faltsua
+Z188	beste gorputz arrotz zehatz batzuk
+S461	bizeseko buru luzeko muskulu, fasziako eta tendoiko lesio traumatiko
+X118	kontaktua beste ur beroarekin
+R449	sentipen eta pertzepzio orokorrei dagozkien sintoma eta zeinu zehaztugabe
+S562	beste muskulu flexore, faszia eta tendoi bateko lesio traumatikoa, besaurrea
+R834	emaitza immunologiko anormalak fluido zerebrospinalean
+T570	arseniko eta bere konposatuen efektu toxiko
+M435	beste orno-lokadura errepikatu batzuk
+S248	toraxeko beste nerbio zehatz batzuetako lesio traumatiko
+S002	betazaleko eta betazaleko beste eta zehaztugabeko lesio traumatiko batzuk
+Z111	harremana arnas tuberkulosirako prestaketarako
+Y730	gastroenterologia eta urologiako gailu diagnostikoak eta monitorizatuak, kontrako intzidentziekin lotuak
+V0490XD	oinez doan lesionatutako pertsona, garraio astuneko ibilgailu edo autobus batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, segidako harremana
+T271	laringe eta trakeak eragindako erredura, birikarekin
+L761	larruazaleko eta larruazaleko ehuneko istripuzko ziztada eta urratua, prozedura batean
+V493	trafikokoa ez den istripu batean lesionatutako auto-okupatzailea (gidaria)
+N053	sindrome nefritiko zehaztugabea, mesangiako proliferazio glomerulonefritis hedatsuarekin
+T609	zehaztugabeko pestizida baten efektu toxiko
+S861	atzeko muskulu-taldeko beste muskulu eta tendoi batzuetako lesio traumatikoa, hankaren behealdea
+V185	trafiko-istripu batean lesionatutako bizikleta-bidaiaria.
+V189	lesionatutako txirrindulari zehaztugabea, garraio astuneko istripu batean lesionatutakoa
+Z400	harremana neoplasia gaiztoekin lotutako arrisku-faktoreen kirurgia profilatikoagatik
+Z317	harremana kudeaketa prokreatiboaren eta aholkularitza gestazionalarentzat
+Z206	kontaktua giza immunoeskasiaren birusarekin eta (susmatua) esposizioarekin [HIV]
+Z314	harremana ikerketa prokreatiboaren eta probarentzat
+T884	huts egin du edo intubazio zaila
+L919	larruazaleko nahasmendu hipertrofikoa, zehaztugabea
+X990	erasoa, beira zorrotzaren arabera
+S638	eskumuturreko eta eskuko beste zati bateko bihurritu
+W340	bestelako eta zehaztugabeko su-arma eta pistola batzuetako istripuzko deskarga
+R900	nerbio-sistema zentraleko irudi diagnostikoan aurkitutako espazio-okupatutako lesioa
+K600	uzki-fustura akutu
+R897	emaitza histologiko anormalak beste organo batzuetako, sistemen eta ehunetan
+W369	gas zilindro zehaztugabearen leherketa eta haustura
+S621	beste eta zehaztugabeko karpo-hezurretako haustura
+Q412	ileoko sortzetiko absentzia, atresia eta estenosi
+O161	amaren hipertentsio zehaztugabea, lehenengo hiruhilekoa
+S530	buru erradialeko subluxazioa eta lokadura
+T201	buruko lehen mailako erredura, aurpegia eta lepoa
+W166	ur-gorputz naturalean jauzi egitea edo urperatzea
+R847	emaitza histologiko anormalak arnas organoetako eta toraxeko laginetan
+V364XXD	hiru gurpileko ibilgailu batera igotzen edo hortik jaisten ari den lesionatutako pertsona, beste ibilgailu motorgabe batekin talka egiteagatik, segidako harremana
+S702	aldakako azaleko beste lesio traumatiko batzuk
+N364	uretrako nahasmendu funtzional eta muskularrak
+O369	amaren arreta, fetu-arazoa dela medio, zehaztugabea
+Y372	beste leherketa eta zati batzuetako eragiketa militarrak
+T1502XD	gorputz arrotza kornean, ezkerreko begia, segidako harremana
+S62209S	lehen hezur metakarpianoko haustura zehaztugabea, esku zehaztugabea, sekuela
+O911	bularreko abszesua, haurdunaldia, erdiberriaroa eta urratsarekin lotuak
+T836	infekzioa eta inflamatorioa, gailu protestikoek sortua, inplantea eta mentua traktu genitalean
+M453	eskualde zerbikotorazikoko espondilitis ankilosatzaile
+T412	pozoidura, beste eta zehaztugabeko anestesiko orokor batzuen kontrako efektua eta infradosifikazioa
+S52392M	erradioaren diafisiko beste haustura batzuk, ezkerreko besoa, segidako harremana I edo II motako haustura irekiaren kontsolidazio-falta dela medio
+T325	50-59 arteko higadurak
+S763	atzeko muskulu, fasziako eta tendoiko lesio traumatikoa, izterra
+T241	beheko gorputz-adarreko lehen mailako erredura, orkatila eta oina
+R299	nerbio- eta muskulo-eskeleto-sistemei dagozkien sintoma eta zeinu zehaztugabe
+W291	kontaktua labana elektrikoarekin
+T582	karbono monoxidoaren efektu toxikoa, beste etxe-erregai batzuen konbustio osatugabetik
+M796	mina gorputz-adarrean, eskuan, oina, hatzak eta behatzak
+S52391G	erradioaren diafisiko beste haustura batzuk, eskuineko besoa, segidako harremana haustura itxiaren kontsolidazioa atzeratu delako
+S234	saihets-hezurretako eta esternoko bihurritu
+Z726	Jokoa eta apustua
+T317	70-79 erredurak
+V953	okupatzailearen lesioa sortzen duen aireontzi finkoko istripu
+M1A4	beste hezueri kroniko sekundario batzuk
+Q669	oineko sortzetiko deformitatea, zehaztugabea
+T25312A	ezkerreko orkatilako hirugarren mailako erredura, hasierako harremana
+Z551	eskola eskuragaitza eta eskuraezina
+W298	kontaktua beste esku indartsuko tresnekin eta etxeko makineriarekin
+M769	entesopatia zehaztugabea, beheko gorputz-adarra, oina
+Z459	harremana inplantedun gailu baten doikuntza eta kudeaketarako
+S169	muskuluaren, fasziako eta tendoiko lesio traumatiko zehaztugabea, lepoa
+W341	bestelako eta zehaztugabeko su-arma eta pistola batzuetako istripuzko funtzioa
+S9492XA	zehaztugabeko nerbio bateko lesio traumatikoa, orkatila eta oina, ezkerreko hanka, hasierako harremana
+N531	eiakulazio-disfuntzioa
+O313	haurdunaldia jarraitzea, fetu baten edo gehiagoren fetu-murriztapenaren ondoren
+V153XXD	bizikleta batera igotzen edo hortik jaisten ari den lesionatutako pertsona, tren batekin talka egiteagatik, segidako harremana
+V902	itotzea eta urperatzea, erortzeak edo salto egiteagatik ur-ontzi erretik
+S982	behatz bi edo gehiagoren anputazio traumatiko
+O669	distozia, zehaztugabea
+Z148	beste gaixotasun batzuen eramaile genetikoa
+S212	toraxeko atzeko hormako zauri irekia, barrunbe torazikoan sartu gabe
+W943	aldaketa azkarren eraginpean airearen presioan beheranzkoan
+S471	eskuineko sorbaldako eta besoaren goialdeko zapaltze-lesio
+V865	trafikokoa ez den istripu batean lesionatutako tren bereziko edo beste ibilgailu motordun bateko gidari
+Y376	arma biologikoei dagozkien eragiketa militarrak
+K760	gibeleko gantza (aldaketa), beste kontzeptu batean sailkatu gabea
+M972	haustura periprostetikoa barneko orkatila protesikoaren giltzaduraren inguruan
+S52391E	erradioaren diafisiko beste haustura batzuk, eskuineko besoa, segidako harremana I edo II motako haustura irekiaren errutinazko sendaketak direla medio
+S432	giltzadura esternoklabikularreko subluxazioa eta lokadura
+W200	kobazuloan eroritako objektuak jota
+T841	gorputz-adarraren barruko fixazio-gailuaren konplikazio mekaniko
+T579	zehaztugabeko substantzia ez-organiko baten efektu toxiko
+S329	bizkarrezur lumbosakraleko eta pelbiseko zati zehaztugabeetako haustura
+N998	sistema genito-urinarioaren barneko eta prozedura-osteko beste konplikazio eta nahasmendu batzuk
+T433	pozoidura, fenoatiazinaren antipsikotikoen eta neuroleptikoen kontrako efektua eta infradosifikazioa
+Z205	kontaktua hepatitis biriko baten eraginpean egote
+N970	emakumearen antzutasuna anobulazio batekin lotua
+M319	baskulopatia nekrotizatzea, zehaztugabea
+T818	prozeduretako beste konplikazio batzuk, beste kontzeptu batean sailkatu gabeak
+R840	entzimen-maila anormala, arnas organoetako eta toraxeko laginetan
+S55009S	arteria kubitaleko lesio traumatiko zehaztugabea, besaurrea, beso zehaztugabea, sekuela
+T769	maltratu zehaztugabea, susmatua
+T459	pozoidura, agente sistemiko eta hematologiko zehaztugabearen kontrako efektua eta infradosifikazioa
+T369	pozoidura, antibiotiko sistemiko zehaztugabearen kontrako efektua eta infradosifikazioa
+T498	pozoidura, beste agente topiko batzuen kontrako efektua eta infradosifikazioa
+X013	sute kontrolatugabeagatik erortzea, ez eraikinean edo egituran
+Z229	gaixotasun infekziosoaren garraiatzailea, zehaztugabea
+S52391K	erradioaren diafisiko beste haustura batzuk, eskuineko besoa, segidako harremana haustura itxiaren kontsolidazio-falta dela medio
+X749	intentziozko auto-kaltea, su-arma-tratu zehaztugabeak sortua
+K551	hesteetako nahasmendu baskular kroniko
+V263XXA	motozikleta batera igotzen edo hortik jaisten ari den lesionatutako pertsona, beste ibilgailu motorgabe batekin talka egiteagatik, hasierako harremana
+Z036	harremana susmagarri toxikoaren efektua behatzeko, ingestatutako substantziak agindua
+V693	garraio astuneko ibilgailuko okupatzailea (gidaria) (bidaiaria) zehaztugabea, trafikokoa ez den istripu batean
+R620	haurtzaroko milia-harri atzeratua
+Z120	harremana urdaileko neoplasia gaiztoaren prestakuntzarako
+P504	amaren zirkulazioan odoljarioak afektatutako jaioberri
+X779	intentziozko auto-kaltea, objektu bero zehaztugabeek sortua
+Z046	harremana agintaritzak eskatutako azterketa psikiatriko orokorrarentzat
+X004	objektuaren bidez kolpatu eraikinetik edo egituraz kontrolatu gabeko suan
+X920	erasoa, bainuontziko itotzearen eta urperatzearen bidez
+Z790	termino luzea (korrontea) antioagulatzaileen eta antitronbotika/antiplateleten erabilpena
+Y282	kontaktua ezpata edo sastakaiarekin, intentzio zehaztugabea
+Q209	bihotzeko ganberetako eta konexioetako sortzetiko malformazioa, zehaztugabea
+K912	malabsortzio posturgikoa, beste kontzeptu batean sailkatu gabea
+X014	objektuaren bidez, kontrolatu gabeko suaren ondorioz, ez eraikinean edo egituran
+S62101G	karpo-hezur zehaztugabearen haustura, eskuineko eskumuturra, segidako harremana hausturaren finkapena atzeratu delako
+N351	uretrako estutura postinfekziosoa, beste kontzeptu batean sailkatu gabea
+W891	ohea ukitzearen eraginpean egote
+Z000	harremana helduen azterketa mediko orokorrarentzat
+Z012	harremana hortz-azterketa eta garbiketarako
+T24122A	ezkerreko belauneko lehen mailako erredura, hasierako harremana
+H8141	jatorri zentraleko bertigo, eskuineko belarria
+T24331D	eskuineko hankaren behealdeko hirugarren mailako erredura, segidako harremana
+T511	metanolaren efektu toxiko
+Z024	harremana gidatzeko lizentzia aztertzeko
+L762	larruazaleko eta larruazaleko ehuneko prozedura-osteko odoljarioa, prozedura baten ondoren
+R892	beste botika, medikamentu eta substantzia biologiko batzuen maila anormala, beste organo, sistema eta ehunetako aleak direla medio
+T210	enborraren gradu zehaztugabeko erredura
+W938	jatorrizko gizonaren gehiegizko beste hotzaren eraginpean egote
+T629	zehaztugabeko substantzia noxio baten efektu toxikoa, elikadura gisa jana
+S824	peronearen diafisiko haustura
+P789	jaioberriaren digestio-nahasmendua, zehaztugabea
+K768	gibeleko beste gaixotasun zehatz batzuk
+S548X9D	beste nerbio batzuetako lesio traumatikoa, besaurrea, beso zehaztugabea, segidako harremana
+T865	zelula zelulen transplantearen konplikazioak
+O165	amaren hipertentsio zehaztugabea, erdiberriaroa konplikatzen duena
+W100	erori (on)( from) eskalatzailea
+S219	toraxeko zati zehaztugabearen zauri ireki
+R740	transaminasaren eta azido laktikoaren dehidrogenasaren maila ez-espezifikoa [LDH]
+X738	intentziozko auto-kaltea, beste su-arma handiago batek eragindakoa
+T407	pozoidura, kanabisaren kontrako efektuak eta infradosifikazioak eragindakoa (deribatuak)
+N020	hematuria errepikatu eta iraunkorra, anormaltasun glomerular txikiarekin
+T741	abusu fisikoa, baieztatua
+Y813	kirurgia-tresnak, materialak eta orokor- eta plastiko-kirurgiako gailuak (suturak barne) kontrako intzidentziekin lotuak
+Z3A0	haurdunaldiaren gestazio-asteak, 10 aste baino gutxiago edo gutxiagokoak
+S631	erpuruko subluxazioa eta lokadura
+S931	behatz lokadura eta subluxazioa
+S346	nerbio periferikoetako lesio traumatikoa, abdomen, bizkarreko eta pelbiseko maila
+Y383	terrorismoa, suak, konflagrazioa eta substantzia beroak erabiliz
+N312	maskuriko neuropatiko flazidoa, beste kontzeptu batean sailkatu gabea
+Z434	harremana digestio-traktuko beste irekidura artifizial batzuei arreta emateko
+R009	bihotzeko taupadako anormalitate zehaztugabe
+Z636	etxeko zaintza erlatibo mendeko
+Z348	harremana beste haurdunaldi normal bat gainbegiratzeko
+P505	trauterinaren (fetalaren) odol-galerak afektatutako jaioberri
+S58021S	anputazio traumatiko partziala, ukondoa, eskuineko besoa, sekuela
+S703	izterreko azaleko beste lesio traumatiko batzuk
+S52392C	erradioaren diafisiko beste haustura batzuk, ezkerreko besoa, hasierako harremana IIIA, IIIB, edo IIIC motako haustura irekiagatik
+S315	kanpoko organo genital zehaztugabeetako zauri ireki
+Y074	familiako beste kide batzuk, tratu txarreko perpetratorea eta bazterrekoa
+Q649	gernu-sistemako sortzetiko malformazioa, zehaztugabea
+Z592	diskordia auzokoekin, ostalariekin eta ostalariekin
+O035	tratu genitala eta pelbiseko infekzioa, erabateko edo zehaztugabeko berezko abortu baten ondoren
+P772	2. etapa, jaioberriaren enterokolitis nekrotizatzailea
+Y721	gailu otorrinolaringologiko ez-kirurgikoak eta errehabilitatiboak, kontrako intzidentziekin lotuak
+Y370	itsasoko armen leherketak eragindako eragiketa militarrak
+Q459	digestio-sistemako sortzetiko malformazioa, zehaztugabea
+S674	eskumuturreko eta eskuko zapaltze-lesio
+T620	perretxiko ingestuen efektu toxiko
+P919	jaioberriaren garuneko egoeraren nahasmendua, zehaztugabea
+X390	erradiazio naturalaren eraginpean egote
+S438	sorbaldako gerrikoaren beste zati zehatz batzuetako bihurritu
+Z126	harremana maskuriko neoplasia gaiztoaren bila ibiltzeko
+X379	ekaitz kataklismiko zehaztugabe
+X000	sugarren eraginpean egotea, kontrolatu gabeko sutean eraikinean edo egituran
+V901	itotzea eta urperatzea, ur-ontzia hondoratu delako
+T802	infusio, transfusio eta injekzio terapeutikoaren segidako infekzioak
+W293	kontaktua lorategi indartsuarekin eta kanpoko eskuko tresnekin eta makineriarekin
+S5491	zehaztugabeko nerbio bateko lesio traumatikoa, besaurrea, eskuineko besoa
+T25122S	ezkerreko oineko lehen mailako erredura, sekuela
+S469	muskulu, faszia eta tendoi zehaztugabearen lesio traumatikoa, sorbalda eta besoaren goialdea
+T3402XD	sudurreko izoztea, ehunetako nekrosiarekin, segidako harremana
+Z026	harremana aseguruaren xedeak aztertzeko
+Q639	giltzurruneko sortzetiko malformazioa, zehaztugabea
+Z488	harremana beste prozedura-osteko zainketa zehatz batentzat
+W301	kontaktua potentzia kentzeko gailuekin (PTO)
+T324	40-49 arteko higadurak
+M458	espondilitis sakral eta sakrokozigeoko eskualdea ankilosatzen
+W530	kontaktua saguarekin
+M510	ornoarteko disko torazikoa, torakolu-barra eta gernu-ornoko nahasmenduak, mielopatiarekin
+T23371D	eskuineko eskumuturreko hirugarren mailako erredura, segidako harremana
+W262	kontaktua paper gogorraren ertzarekin
+V580	kamionetako edo furgonetako lesionatutako gidaria, trafikokoa ez den istripu batean lesionatutako garraio-istripu batean
+K800	behazun-maskuriko kalkulua, kolezistitis akutuarekin
+O349	amaren arreta, pelbiseko organoaren anormalitatea dela medio, zehaztugabea
+S590	kubituaren beheko muturreko haustura fisiko
+Z056	jaioberriaren behaketa eta ebaluazioa susmagarri genito-urinarioen egoeragatik agindua
+S310	bizkarraren eta pelbiseko zauri ireki
+W180	objektuaren aurkako erronkak sortu
+M429	bizkarrezurreko osteokondrosia, zehaztugabea
+T391	pozoidura, 4-aminofenolen deribatuen kontrako efektua eta infradosifikazioa
+W211	bate, racquet edo klubak jota
+S52392F	erradioaren diafisiko beste haustura batzuk, ezkerreko besoa, segidako harremana IIIA, IIIB, edo IIIC motako haustura irekiaren errutinazko sendaketak direla medio
+S141	bizkarrezur-muineko beste eta zehaztugabeko lesio traumatiko batzuk
+N441	tunikako albuginearen testiguko kistea
+Z633	Familiako kidearen absentzia
+V389	hiru gurpileko ibilgailu motorduneko lesionatutako okupatzaile zehaztugabea, trafiko-istripu batean lesionatutako garraio-istripu batean
+O032	enbolismoa, berezko abortu osatugabearen ondoren
+K710	gibeleko gaixotasun toxikoa, kolestasiarekin
+O444	plazenta baxuko NOS edo odoljariorik gabe
+T272XXS	arnasbideetako beste zati batzuetako erredura, sekuela
+S439	sorbaldako gerrikoaren zati zehaztugabeetako bihurritu
+X739	intentziozko auto-kaltea, su-arma handiago batek eragindakoa
+Z322	harremana erditze-instrukzioarentzat
+S58112S	erabateko anputazio traumatikoa, ukondoaren eta eskumuturraren artean, ezkerreko besoa, sekuela
+O089	haurdunaldi ektopiko eta molar baten ondoriozko konplikazio zehaztugabe
+R832	beste botika, medikamentu eta substantzia biologikoen maila anormala likido zerebrospinalean
+T65892S	beste substantzia zehatz batzuen efektu toxikoa, nahita nork bere buruari kalte egitea, sekuela
+X960	pertsonen kontrako bonbak eragindako erasoa
+Z730	erredura-irteera
+Z201	kontaktua tuberkulosiaren eraginpean eta (susmatua)
+O429	mintzetako haustura goiztiarra, haustura eta lan-sortaren arteko denboraren luzera zehaztugabea
+P048	amaren beste substantzia ezohiko batzuek afektatutako jaioberri
+M450	bizkarrezurreko hainbat tokitako espondilitis ankilosatzaile
+Z599	etxebizitzarekin eta zirkunstantzia ekonomikoekin lotutako arazoa, zehaztugabea
+S5491XS	zehaztugabeko nerbio bateko lesio traumatikoa, besaurrea, eskuineko besoa, sekuela
+K716	gibeleko gaixotasun toxikoa, hepatitisarekin, beste kontzeptu batean sailkatu gabea
+T237	eskumuturreko eta eskuko hirugarren mailako higadura
+W162	uraren bainuontzi betea edo ontzia
+T345	eskumuturreko, eskuko eta hatzetako izoztea, ehunetako nekrosiarekin
+S565	beste muskulu estentsore baten lesio traumatikoa, faszia eta tendoia, besaurrea
+N329	maskuriko nahasmendua, zehaztugabea
+W450	larruazalean sartzen den azkazala
+T880	immunizazioaren segidako infekzioa
+Y999	kanpoko kausa-egoera zehaztugabe
+M974	haustura periprostetikoa barneko ukondo protetiko baten inguruan
+V948	beste ur garraio-istripu batzuk
+S26021D	bihotzeko urratu moderatua, hemoperikardioarekin, segidako harremana
+S791	izterrezurraren beheko muturreko haustura fisiko
+X080	ohearen suaren eraginpean egote
+N889	umetoki-lepoko nahasmendu ez-inflamatorioa, zehaztugabea
+O241	2 diabetes mellitus, haurdunaldian, erditzean eta erdiberriaroan
+W500	beste pertsona batek akzidentalki jo edo jo.
+S290	muskuluko eta tendoiko lesio traumatikoa, toraxea
+O308	beste gestazio anizkoitz zehatz batzuk
+T205	buruko lehen mailako higadura, aurpegia eta lepoa
+M914	coxa magna
+W531	kontaktua arratoiarekin
+V181	trafikokoa ez den istripu batean lesionatutako bizikleta-bidaiaria.
+T287XXS	larruazaleko beste zati batzuetako higadura, sekuela
+T656	pinturen eta tinten efektu toxikoa, beste kontzeptu batean sailkatu gabea
+W861	kable industrialen, esplorazioen eta makineria elektrikoen eraginpean egote
+M919	aldakako eta pelbiseko gaztaroko osteokondrosia, zehaztugabea
+S209	toraxeko zati zehaztugabeetako azaleko lesio traumatiko
+S948X1D	beste nerbio batzuetako lesio traumatikoa, orkatila eta oina, eskuineko hanka, segidako harremana
+Z597	aseguru sozial eta ongizatearen euskarri nahikorik ez
+Z750	medikuntza zerbitzuak ez daude eskuragarri etxean.
+Z057	jaioberriaren behaketa eta ebaluazioa susmagarriaren larruazaleko, muskulo-eskeletoko eta ehunetako ebaluazio konektiboarentzako
+N028	hematuria errepikatu eta iraunkorra, beste aldaketa morfologiko batzuekin
+S135	tiroide-eskualdeko bihurritu
+T161	gorputz arrotza eskuineko belarrian
+T220	sorbaldako eta goiko gorputz-adarreko gradu zehaztugabeko erredura, eskumuturra eta eskua
+W001	izotzak eta elurrak sorturiko eskaileretatik eta mailetatik erortzea
+M185	lehen giltzadura karpometakarpianoko beste artrosi sekundario aldebakar batzuk
+M619	muskuluaren kaltzifikazioa eta osifikazioa, zehaztugabea
+N759	Bartholinen guruineko gaixotasuna, zehaztugabea
+T245	beheko gorputz-adarreko lehen mailako higadura, orkatila eta oina
+M675	plika sindrome
+X773	intentziozko auto-kaltea, etxebizitza beroen bidez.
+W368	beste gas zilindro baten leherketa eta haustura
+V001	oinezkoen garraio-istripua
+X989	erasoa, objektu bero zehaztugabeek erabilita
+X003	eraikin edo egitura sutatik erortzen da kontrolatu gabeko sutan
+Y387	arma kimikoek eragindako terrorismo
+T22231A	eskuineko besoaren goialdeko bigarren mailako erredura, hasierako harremana
+Z005	harremana organoaren eta ehunaren emaile potentziala aztertzeko
+S62202S	lehen hezur metakarpianoko haustura zehaztugabea, ezkerreko eskua, sekuela
+W610	kontaktua parrotearekin
+O072	haurdunaldia bajatzen saiatutako enbolismoak huts egin du
+T494	pozoidura, keratolitikoen, keratoplasikoen eta beste ile-tratamendu batzuen kontrako efektuak eta infradosifikazioak eragindakoa
+N073	nefropatia hereditarioa, beste kontzeptu batean sailkatu gabea, mesangiako proliferazio glomerulonefritis hedatsuarekin
+X060	biribil plastikoko ignizioaren eraginpean egote
+V900	itotzea eta urperatzea, ur-ontziak gainjarritakoa
+W241	kontaktua transmisio gailuekin, beste kontzeptu batean sailkatu gabea
+Q229	balbula trikuspideko sortzetiko malformazioa, zehaztugabea
+K440	hernia diafragmatikoa, buxadurarekin, gangrenarik gabe
+S560	erpuruko muskulu flexoreko lesio traumatikoa, faszia eta tendoia, besaurrea
+Y218	beste itotze eta urperatze batzuk, intentzio zehaztugabea
+N520	erektilo baskulogenikoaren disfuntzioa
+P192	azido metabolikoa jaiotzean ohartua
+Z011	harremana belarriak eta entzumenak aztertzeko
+Z918	arrisku pertsonaleko beste faktore zehatz batzuk, beste kontzeptu batean sailkatu gabeak
+S024	malar, maxilar eta zigomako hezurretako haustura
+W503	beste pertsona batek hozkada akzidentala
+R857	emaitza histologiko anormalak digestio-organoetatik eta barrunbe abdominaletik
+O9A3	haurdunaldia, erditzea eta erdiberriaroa konplikatzen dituen abusu fisiko
+M457	gerrialdeko espondilitis ankilosatzaile
+S58119D	erabateko anputazio traumatikoa, ukondoaren eta eskumuturraren artean, beso zehaztugabea, segidako harremana
+W208	grebaren beste kausa batzuk, botata, proiektua edo erortze-objektuaren bidez
+Y280	kontaktua beira zorrotzarekin, intentzio zehaztugabea
+N915	oligomenorrea, zehaztugabea
+W163	beste uretara erortzen
+Z772	kontaktua beste substantzia arriskutsu batzuekiko eta (susmatua) esposizioarekin
+S55009A	arteria kubitaleko lesio traumatiko zehaztugabea, besaurrea, beso zehaztugabea, hasierako harremana
+R869	gizonezkoen organo genitaletako laginetan aurkikuntza anormal zehaztugabe
+T450	pozoidura, alergien kontrako eta botika antiemetikoen kontrako efektua eta infradosifikazioa
+W942	igotzean airearen presioan aldaketa azkarren eraginpean egote
+T338	orkatila, oin eta behatzetako azaleko izozte
+Y93D	arteei eta eskulangileei dagozkien jarduerak
+Z969	inplante funtzionalaren presentzia, zehaztugabea
+T539	karbono alifatiko eta aromatikoen deribatu halogeno zehaztugabeen efektu toxiko
+W300	kontaktua uzta konbinatuarekin
+V681	garraio astuneko ibilgailuko lesionatutako bidaiaria, trafikokoa ez den istripu batean
+V867	trafikokoa ez den istripu batean lesionatutako pertsona, lurralde osoko edo beste ibilgailu motordun baten kanpoan dagoen
+S338	gerrialdeko eta pelbiseko beste zati batzuetako bihurritu
+M172	belauneko artrosi post traumatiko aldebikoa
+N310	maskuriko neuropatiko ezegonkorra, beste kontzeptu batean sailkatu gabea
+V913	objektu erorketaren bidez jotako edo jotako kolpea, ur-ontzi batek sortua
+P709	jaioberriaren karbohidratoen metabolismoaren nahasmendu iragankorra, zehaztugabea
+T22312A	ezkerreko besaurreko hirugarren mailako erredura, hasierako harremana
+V789	lesionatutako autobus-okupatzaile zehaztugabea, trafiko-istripu batean lesionatutako garraio-istripu batean
+S5490XD	zehaztugabeko nerbio bateko lesio traumatikoa, besaurrea, beso zehaztugabea, segidako harremana
+W274	kontaktua sukaldeko tresnarekin
+Z027	harremana ziurtagiri medikoa jasotzeko
+Y042	erasoa, beste pertsona batek jo edo jotako grebaren bidez.
+T2661	korneako eta konjuntibako zakuko higadura, eskuineko begia
+S679	eskumuturreko, eskuko eta hatzetako zati zehaztugabeetako zapaltze-lesio
+O299	haurdunaldian anestesiak eragindako konplikazio zehaztugabe
+T413	pozoidura, anestesiko lokalen kontrako efektua eta infradosifikazioa
+V0391XA	lesionatutako oinezkoa patinetan, auto, kamioneta edo furgoneta batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, hasierako harremana
+T451	pozoidura, botika antineoplasikoen eta immunoezabatzaileen kontrako efektua eta infradosifikazioa
+V243XXA	motozikleta batera igotzen edo hortik jaisten ari den lesionatutako pertsona, garraio astuneko ibilgailu edo autobus batekin talka egiteagatik, hasierako harremana
+S992	behatz falangeko haustura fiseo
+O909	erdiberriaroaren konplikazioa, zehaztugabea
+S835	belauneko lotailu gurutzituetako bihurritu
+Z333	haurdunaldiko egoera, garraiatzaile gestazionala
+Z110	harremana hesteetako gaixotasun infekziosoen bilaketarako
+W331	istripuzko fusila, eskopeta eta su-arma-funtzio handiago
+N989	ernaltze artifizialarekin lotutako konplikazioa, zehaztugabea
+W010	maila berean erortzea, irristakortzea, tripatzea eta estropezu egitea segidako objektuaren aurka jo gabe
+Z132	harremana nutrizio, metaboliko eta beste nahasmendu endokrino batzuen bilaketarako
+W138	eraikin batetik edo beste egitura batetik erortzea
+S090	buruko odol-hodietako lesio traumatikoa, beste kontzeptu batean sailkatu gabea
+X832	intentziozko auto-kaltea, hotzaren muturren eraginpean egote
+W330	istripuzko fusila, eskopeta eta su-arma handiagoko tiro
+Y629	arreta kirurgiko eta mediko zehaztugabeko artean prekauzio antzuko hutsegitea
+S55002S	arteria kubitaleko lesio traumatiko zehaztugabea, besaurrea, ezkerreko besoa, sekuela
+W130	balkoitik edo balkoitik erortzea
+R895	emaitza mikrobiologiko anormalak beste organo batzuetako, sistemetako eta ehunetako laginetan
+R867	emaitza histologiko anormalak gizonezkoen organo genitaletako laginetan
+V0499XD	lesionatutako oinezkoa beste garraio batean, garraio astuneko ibilgailu edo autobus batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, segidako harremana
+O262	haurdunaldiko arreta, haurdunaldiaren galera errepikakorrarekin
+T479	pozoidura, nagusiki sistema gastrointestinalari eragiten dioten agente zehaztugabeen kontrako efektua eta infradosifikazioa
+M700	eskuko eta eskumuturreko sinobitis (akutua) (kronikoa)
+X030	sugarren eraginpean egotea, kontrolatutako suan, ez eraikinean edo egituran
+X821	ibilgailu motorduneko nahi gabekoa tren batekin talka egiteagatik
+S261	bihotzeko lesio traumatikoa, hemoperikardiorik gabe
+Z014	harremana azterketa ginekologikoarentzat
+W160	igerilekuan erortzen
+T343	abdomen-paretako izoztea, bizkarreko eta pelbiseko ehunetako nekrosiarekin
+W270	kontaktua laneko banku-tresnarekin
+R831	hormonen maila anormala likido zerebrospinalean
+T864	gibeleko transplantearen konplikazioak
+S904	behatz bateko azaleko beste lesio traumatiko batzuk
+T888	arreta kirurgikoaren eta medikoaren beste konplikazio zehatz batzuk, beste kontzeptu batean sailkatu gabeak
+S669	muskulu, faszia eta tendoi zehaztugabearen lesio traumatikoa, eskumuturra eta eskua
+V334XXD	hiru gurpileko ibilgailu batera igotzen edo hortik jaisten ari den lesionatutako pertsona, auto, kamioneta edo furgoneta batekin talka egiteagatik, segidako harremana
+N043	sindrome nefrotikoa, mesangiako proliferazio glomerulonefritis hedatsuarekin
+S318	abdomeneko, bizkarreko eta pelbiseko beste zati batzuetako zauri ireki
+W310	kontaktua meatzaritzarekin eta lurreko zulaketa-makinarekin
+T2130XS	enborraren hirugarren mailako erredura, toki zehaztugabea, sekuela
+T784	beste alergia eta zehaztugabea
+N069	proteinuria isolatua, lesio morfologiko zehaztugabearekin
+V289	trafiko-istripu batean lesionatutako motorzale zehaztugabe
+V374XXD	hiru gurpileko ibilgailu batera igotzen edo hortik jaisten ari den lesionatutako pertsona, finko edo geldi dagoen objektu batekin talka egiteagatik, segidako harremana
+W581	kontaktua krokodiloarekin
+T203	buruko hirugarren mailako erredura, aurpegia eta lepoa
+M183	lehen giltzadura karpometakarpianoko artrosi post-traumatiko alde bakarrekoa
+Q380	ezpainetako sortzetiko malformazioak, beste kontzeptu batean sailkatu gabeak
+N048	sindrome nefrotikoa, beste aldaketa morfologiko batzuekin
+Y933	igotzea, arrapaladan eta jauzi egitearekin zerikusia duten jarduerak
+Z319	harremana kudeaketa prokreatiboarentzat, zehaztugabea
+Z320	harremana haurdunaldiaren probarako
+Y791	gailu ortopediko errehabilitagarri eta errehabilitatiboak kontrako intzidentziekin lotuak
+S335	gerrialdeko lotailuetako bihurritu
+W090	erori erreprodukzio-planoko diapositiban
+X963	erasoa, bonba ernaltzailearen arabera
+T814	prozedura baten ondorengo infekzioa
+Z140	hemofilia A garraiatzailea
+R479	hizketaren nahasmendu zehaztugabe
+X372	blizzard ( elurra)(izotza)
+S839	belaun zehaztugabearen bihurritua
+Z171	estrogeno-hartzailearen egoera negatiboa [ER-]
+T24322D	ezkerreko belauneko hirugarren mailako erredura, segidako harremana
+N178	beste giltzurrun-gutxiegitasun akutu batzuk
+T371	pozoidura, mikobakterioen kontrako botiken kontrako efektua eta infradosifikazioa
+R850	digestio-organoetako eta barrunbe abdominaleko entzimen-maila anormala
+S548X1S	beste nerbio batzuetako lesio traumatikoa, besaurrea, eskuineko besoa, sekuela
+O664	huts egin du lan-epaiketan
+T242	beheko gorputz-adarreko bigarren mailako erredura, orkatila eta oina
+V0690XD	oinez doan lesionatutako pertsona, beste ibilgailu motorgabe batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, segidako harremana
+T178	gorputz arrotza arnasbideetako beste zati batzuetan
+Z560	langabezia, zehaztugabea
+A5204	garuneko arteritis sifilitikoa
+W552	kontaktua behiarekin
+Z794	termino luzea (korrontea) insulinaren erabilpena
+M978	haustura periprostetikoa barne-giltzadura protestiko baten inguruan
+T25211A	eskuineko orkatilako bigarren mailako erredura, hasierako harremana
+W580	kontaktua aplikatzailearekin
+Z310	harremana aurreko esterilizazioaren alderantzikatzeko
+X923	erasoa, ur naturaleko itotzearen eta urperatzearen bidez
+Z651	kartzelarazioa eta beste kartzelazio batzuk
+O759	erditzearen eta erditzearen konplikazioa, zehaztugabea
+Z349	harremana haurdunaldia normala gainbegiratzeko, zehaztugabea
+W409	zehaztugabeko leherketa-materialen leherketa
+Y802	protetiko eta beste inplante batzuk, materialak eta medikuntza fisiko atzitzaileak, kontrako gertaerekin lotuak
+Y793	instrumentu kirurgikoak, materialak eta gailu ortopedikoak (suturak barne) kontrako intzidentziekin lotuak
+T25322D	ezkerreko oineko hirugarren mailako erredura, segidako harremana
+T474	pozoidura, beste libragarri batzuen kontrako efektua eta infradosifikazioa
+T703	aissonaren gaixotasuna [depresioaren gaixotasuna]
+Z281	immunizazioa ez da burutu, sinesmenaren edo talde-presioaren arrazoien erabaki pazientea dela medio
+T676XXD	beroagatiko nekea, iragankorra, segidako harremana
+Z739	biziaren kudeaketa zailtasunarekin lotutako arazoa, zehaztugabea
+Z419	harremana osasun-egoera erremedioa ez den beste helburu batzuetarako prozedurarako, zehaztugabea
+R830	entzimen maila anormala likido zerebrospinalean
+M180	lehen giltzadura karpometakarpianoko artrosi primario
+S62209B	lehen hezur metakarpianoko haustura zehaztugabea, esku zehaztugabea, hasierako harremana haustura irekiagatik
+T430	pozoidura, antidepresibo triziklikoen eta tetraziklikoen kontrako efektua eta infradosifikazioa
+X964	erasoa, pipe bonbaren arabera
+Q749	gorputz-adarretako sortzetiko malformazio zehaztugabe
+S9491XD	zehaztugabeko nerbio bateko lesio traumatikoa, orkatila eta oina, eskuineko hanka, segidako harremana
+V585	kamionetako edo furgonetako lesionatutako gidaria, trafiko-istripu batean lesionatutako garraio-istripu batean
+T520	petrolio-produktuen efektu toxikoak
+N958	beste nahasmendu menopauso eta perimenopauso zehatz batzuk
+N079	nefropatia hereditarioa, beste kontzeptu batean sailkatu gabea, lesio morfologiko zehaztugabeekin
+O083	haurdunaldi ektopikoaren eta molarraren ondoriozko shocka
+Z600	bizi-zikloaren trantsizioetara doitzeko arazoak
+X988	beste objektu beroek eragindako erasoa
+R894	emaitza immunologiko anormalak beste organo batzuetako, sistemetako eta ehunetako laginetan
+T22321A	eskuineko ukondoko hirugarren mailako erredura, hasierako harremana
+S909	orkatila, oin eta behatzetako azaleko lesio traumatiko zehaztugabe
+Z373	bikiak, gibeleko bat eta oraindik jaiotako bat
+T235	eskumuturreko eta eskuko lehen mailako higadura
+S098	buruko beste lesio traumatiko zehatz batzuk
+Y231	ehiza-fusilaren karga, intentzio zehaztugabea
+V0491XA	lesionatutako oinezkoa patinetan, garraio astuneko ibilgailu edo autobus batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, hasierako harremana
+V0391XS	lesionatutako oinezkoa patinetan, auto, kamioneta edo furgoneta batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, sekuela
+M452	eskualde zerbikaleko espondilitis ankilosatzaile
+R489	disfuntzio sinboliko zehaztugabe
+R625	garapen fisiologiko normalaren beste eta zehaztugabeko falta bat haurtzaroan
+T22222A	ezkerreko ukondoko bigarren mailako erredura, hasierako harremana
+T3402XA	sudurreko izoztea, ehunetako nekrosiarekin, hasierako harremana
+R414	sindrome neurologiko
+Z008	harremana beste azterketa orokor batentzat
+O912	mastitis ez zornetsua, haurdunaldiarekin, erdiberriaroarekin eta urdailarekin lotuak
+N034	sindrome nefritiko kronikoa, glomerulonefritis hedatsu hedatsuarekin
+O036	berezko abortu osatu edo zehaztugabearen ondoriozko odoljario atzeratua edo gehiegizkoa
+W591	kontaktua suge ez-pozoitsuekin
+Z3A2	haurdunaldiaren asteetako gestazioa, 20-29
+X061	plastikozko bitxien urtzearen eraginpean egote
+R761	erreakzio ez-espezifikoa tuberkulosia probatzeko
+Y626	aspirazioa, ziztada eta beste kateterizazio batean antzuak diren prekauzioen hutsegitea
+N839	obulutegiko, Falopioren tronpako eta lotailu zabaleko nahasmendu ez-inflamatorioa, zehaztugabea
+O339	amaren arreta, desproportzioa dela medio, zehaztugabea
+R871	hormonen maila anormala emakumezkoen organo genitaletako laginetan
+T611	arrainaren pozoitze eskonbroideo
+Z984	katarataren erauzketa-egoera
+K940	kolostomiaren konplikazioak
+R399	sistema genitourinarioari dagozkion sintoma eta zeinu zehaztugabe
+W271	kontaktua lorategi-tresnarekin
+Z480	harremana janzkera, suturak eta drainak arreta jartzeko
+M273	barailako albeolitis
+K451	beste hernia abdominal zehatz batzuk, gangrenarekin
+T313	30-39 bitarteko erredurak
+T22252S	ezkerreko sorbaldako bigarren mailako erredura, sekuela
+S014	masaileko eta tenporomandibularreko zauri ireki
+N050	sindrome nefritiko zehaztugabea, anormaltasun glomerular txikiarekin
+Z883	infekzioen kontrako beste agente batzuen egoera alergia-egoera
+V0190XA	oinez doan lesionatutako pertsona, bizikleta batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, hasierako harremana
+S912	behatz lodiko zauri irekia, iltzeak eragindako kaltearekin
+W294	kontaktua iltzetako pistolarekin
+W881	isotopo erradioaktiboen eraginpean egote
+R838	beste aurkikuntza anormal batzuk fluido zerebrospinalean
+Z795	termino luzea (unekoa) esteroideen erabilpena
+T214	enborraren gradu zehaztugabearen higadura
+W181	Komunetik edo komunetik erortzea
+M267	hortzetako anomalia albeolarrak
+O087	beste konplikazio benoso batzuk, haurdunaldi ektopiko eta molar baten ondoren
+T349	beste eta zehaztugabeko toki batzuetako izoztea, ehunetako nekrosiarekin
+T199XXD	gorputz arrotza traktu genitourinarioan, zehaztugabeko zati batean, segidako harremana
+X712	intentziozko auto-kaltea, igerilekura salto egin ondoren
+M364	artropatia, beste kontzeptu baten azpian sailkatutako hipersentikortasun-erreakzioetan
+N939	umetoki eta baginako odoljario anormala, zehaztugabea
+Y273	kontaktua etxeko aplikazio beroarekin, intentzio zehaztugabea
+Z710	beste pertsona baten izenean kontsultatzeko osasun-zerbitzuak topatzen dituen pertsona
+T652	tabako eta nikotinaren efektu toxiko
+M167	aldakako beste osteoartritis sekundario bakarreko batzuk
+W002	maila batetik besterako beste eroriko batzuk, izotza eta elurra direla medio
+T25211D	eskuineko orkatilako bigarren mailako erredura, segidako harremana
+M439	dorsopatia deformazioa, zehaztugabea
+V180	trafikokoa ez den istripu batean lesionatutako txirrindularia.
+X033	sute kontrolatuak eragindako erortzea, ez eraikinean edo egituran
+Z450	harremana gailu kardiakoaren doikuntza eta kudeaketarako
+N068	proteinuria isolatua, beste lesio morfologiko batekin
+Z792	termino luzea (uneko) antibiotikoen erabilpena
+K570	heste meharreko dibertikulitisa, zulaketa eta abzesuarekin
+T2130XA	enborraren hirugarren mailako erredura, toki zehaztugabea, hasierako harremana
+V354XXA	hiru gurpileko ibilgailu batera igotzen edo hortik jaisten ari den lesionatutako pertsona, tren batekin talka egiteagatik, hasierako harremana
+Q841	ileko sortzetiko nahasmendu morfologikoak, beste kontzeptu batean sailkatu gabeak
+S238	toraxeko beste zati zehatz batzuetako bihurritu
+V860	trafiko-istripu batean lesionatutako tren bereziko edo bidetik kanpo dagoen ibilgailu motordun bateko gidari
+Q979	sexu-kromosomaren anormalitatea, emakumezko fenotipoa, zehaztugabea
+Y213	itotzea eta urperatzea igerilekuan erortzean, intentzio zehaztugabea
+K903	pankreako estatorrea
+V786	trafiko-istripu batean lesionatutako autobus-bidaiaria.
+S891	tibiaren beheko muturreko haustura fisiko
+S52392P	erradioaren diafisiko beste haustura batzuk, ezkerreko besoa, segidako harremana haustura itxiaren batura txarra dela medio
+Z204	kontaktua rubellarekin eta (susmagarria) esposizioarekin
+V911	ur-ontziaren eta beste ur-ontzi batzuen artean zapaldua, tokiak direla medio
+W408	beste lehergailu zehatz batzuen leherketa bat
+N951	menopauso eta emakumezko klimakterikoek
+T566	tin eta bere konposatuen efektu toxikoak
+S644	beste eta zehaztugabeko hatz bateko nerbio digitaleko lesio traumatiko
+T846	infekzioa eta inflamatorioa, barneko fixazio gailuak sortua
+L025	eskuko larruazaleko abzesua, furunkulua eta karbunkoa
+W860	etxeko hari eta alanbreen eraginpean egote
+S468	beste muskulu, faszia eta tendoi batzuetako lesio traumatikoa, sorbalda eta besoaren goialdea
+V944	oinutsik dagoen uraren gonaren lesio traumatiko
+M971	haustura periprostetikoa barneko belauneko giltzadura protestikoaren inguruan
+N077	nefropatia hereditarioa, beste kontzeptu batean sailkatu gabea, glomerulonefritis hedatsuarekin
+Z037	harremana ama eta fetu-baldintzen susmagarriak direla medio
+K460	abdomen-hernia zehaztugabea, buxadurarekin, gangrenarik gabe
+O991	haurdunaldia, erditzea eta erdiberriaroa konplikatzen dituen mekanismo immunologikoari dagozkion organo eta organo odol-sortzaileetako beste gaixotasun batzuk
+Z3A1	haurdunaldiaren asteetako gestazioa, 10-19
+O047	haurdunaldiaren bajak eragindako enbolismoa
+L987	larruazaleko eta larruazaleko ehuneko gehiegizko eta erredundatzaile
+K0520	periodontitis erasokorra, zehaztugabea
+Z471	giltzadura-kirurgiaren ondorengo arreta
+W214	urpekaritzaren taularen aurka jotzen
+T388	pozoidura, beste hormona eta ordezko sintetiko batzuen kontrako efektua eta infradosifikazioa
+V922	itotzea eta urperatzea, ur-ontzitik garbituta egoteak sortua
+N072	nefropatia hereditarioa, beste kontzeptu batean sailkatu gabea, mintz glomerulonefritis hedatsuarekin
+Y710	gailu kardiobaskular diagnostiko eta monitorizatzaileak, kontrako intzidentziekin lotuak
+Z628	igotzearekin lotutako beste arazo zehatz batzuk
+M859	hezur-dentsitatearen eta hezur-egituraren nahasmendua, zehaztugabea
+Z191	hormonaren gaiztakeria sentikorraren egoera
+K742	fibrosi hepatikoa, esklerosi hepatikoarekin
+W598	kontaktua beste narrasti ez-pozoitsu batzuekin
+M260	baraila-tamainako anomalia larri
+T22351D	eskuineko sorbaldako hirugarren mailako erredura, segidako harremana
+S548X2A	beste nerbio batzuetako lesio traumatikoa, besaurrea, ezkerreko besoa, hasierako harremana
+S548X1D	beste nerbio batzuetako lesio traumatikoa, besaurrea, eskuineko besoa, segidako harremana
+T637	kontaktuaren efektu toxikoa, landare pozoitsuarekin
+M620	muskuluaren bereizketa (traumatikoa)
+V800	animalia-gidaria edo animalia-trakziozko ibilgailu baten erortzean lesionatutako animalia-okupatzailea, animalia edo animalia-trakziozko ibilgailu batekin talka egiteagatik trafiko-istripu batean
+Y211	itotzea eta urperatzea bainuontzira erortzean, intentzio zehaztugabea
+T573	zianido hidrogenoaren efektu toxiko
+R360	uretrako karga odolik gabe
+K574	heste meharreko eta handiko dibertikulitisa, zulaketa eta abszesuarekin
+M751	biratzailearen kukuluaren malkoa edo haustura, traumatiko gisa zehaztu gabea
+T2037XS	lepoko hirugarren mailako erredura, sekuela
+T640	aflatoxinaren efektu toxiko
+W009	eroriko zehaztugabea, izotzak eta elurrak sortua
+R896	emaitza zitologiko anormalak beste organo batzuetako, sistemetako eta ehunetako laginetan
+O420	mintzetako haustura goiztiarra, 24 orduko hausturaren barruan
+R875	emakumezkoen organo genitaletako laginetan aurkikuntza mikrobiologiko anormalak
+K746	gibeleko beste eta zehaztugabeko zirrosi batzuk
+Y621	infusioan edo transfusioan antzuak diren prekauzioen hutsegitea
+X941	erasoa, fusila ehizatzen
+T469	pozoidura, nagusiki sistema kardiobaskularrari eragiten dioten beste eta zehaztugabeko agente batzuen kontrako efektua eta infradosifikazioa
+V0699XS	lesionatutako oinezkoa beste garraio batean, beste ibilgailu motorgabe batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, sekuela
+T447	pozoidura, hartzaile beta-adrenergikoen antagonisten kontrako efektua eta infradosifikazioa
+S836	goiko giltzadura tibiofibularraren eta lotailuko bihurritu
+N001	sindrome nefritiko akutua, lesio fokal eta segmental glomerularrekin
+V598	kamionetako edo furgonetako okupatzailea (gidaria) (bidaiaria), zehaztutako beste garraio-istripu batzuetan lesionatutakoa
+S991	metatarsaleko haustura fisario
+T739	kentzearen efektua, zehaztugabea
+Y763	tresna kirurgikoak, materialak eta gailu obstetriko eta ginekologikoak (suturak barne) kontrako intzidentziekin lotuak
+T698	tenperatura murriztuko beste efektu zehatz batzuk
+X010	sugarren eraginpean egotea kontrolatu gabeko suan, ez eraikinean edo egituran
+Z3A4	haurdunaldiaren haurdunaldiko asteak, 40 edo handiagoak
+O900	erditze zesareako zauriaren etendura
+O030	tratu genitala eta pelbiseko infekzioa, berezko abortu osatugabearen ondoren
+X360	lurraren mugimendua eragiten duen egituraren kolapso
+T634	beste artropodo batzuen pozoiaren efektu toxiko
+V344XXS	hiru gurpileko ibilgailu batera igotzen edo hortik jaisten ari den lesionatutako pertsona, garraio astuneko ibilgailu edo autobus batekin talka egiteagatik, sekuela
+W540	Txakurrak kosk egin du
+T22222S	ezkerreko ukondoko bigarren mailako erredura, sekuela
+Z442	harremana begi artifiziala doitzeko eta doitzeko
+V866	trafikokoa ez den istripu batean lesionatutako tren bereziko edo bidetik kanpoko ibilgailu motordun bateko bidaiari
+T23272D	ezkerreko eskumuturreko bigarren mailako erredura, segidako harremana
+T445	pozoidura, nagusiki hartzaile beta-adrenergikoen agonisten kontrako efektua eta infradosifikazioa
+O439	plazentalaren nahasmendu zehaztugabe
+V932	beroaren eraginpean ur-ontzian
+O9A2	haurdunaldia, erditzea eta erdiberriaroa konplikatzen dituzten kanpoko kausengatiko lesio traumatikoa, pozoidura eta bestelako ondorio batzuk
+N015	sindrome nefritiko bizkor progresiboa, mesangiokapilarreko glomerulonefritis hedatsuarekin
+Y071	gurasoa (adoptiboa) (biologikoa), tratu txarraren perpetratzailea eta baztertua
+O779	fetu-estresak konplikatutako erditze-lanak eta erditzea, zehaztugabea
+S340	gerri-ornoko eta sakroko orno-muineko konkusioa eta edema
+Y625	bihotzeko kateterizazioan antzuak diren prekauzioen hutsegitea
+S563	erpuruko muskulu estentsore edo abduktoreen lesio traumatikoa, faszia eta tendoiak, besaurrea
+T531	kloroformaren efektu toxikoak
+S62201D	lehen hezur metakarpianoko haustura zehaztugabea, eskuineko eskua, segidako harremana hausturaren errutinazko sendaketak direla medio
+T392	pozoidura, pirazolonen deribatuen kontrako efektua eta infradosifikazioa
+V0592XS	lesionatutako oinezkoa monopatinean, tren batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, sekuela
+T425	pozoidura, antiepileptiko mistoen kontrako efektua eta infradosifikazioa
+Z200	kontaktua hesteetako gaixotasun infekziosoekin eta (susmatua) esposizioarekin
+K624	uzkiko eta ondesteko estenosi
+T863	bihotzeko biriketako transplanteko konplikazioak
+W429	beste zarata baten eraginpean egote
+W363	presio-gas-tankaren leherketa eta haustura
+M679	sinobiko eta tendoiko nahasmendu zehaztugabe
+S068	barneko beste lesio traumatiko zehatz batzuk
+O073	huts egin du haurdunaldia bajatzen saiatzean beste eta zehaztugabeko konplikazio batzuekin
+R879	emakumezkoen organo genitaletako laginetan aurkikuntza anormal zehaztugabe
+S639	eskumuturreko eta eskuko zati zehaztugabearen bihurritu
+V253XXS	motozikleta batera igotzen edo hortik jaisten ari den lesionatutako pertsona, tren batekin talka egiteagatik, sekuela
+S52391A	erradioaren diafisiko beste haustura batzuk, eskuineko besoa, hasierako harremana haustura itxiagatik
+S028	garezur eta aurpegiko hezur zehatz batzuetako haustura
+P771	enterokolitis nekrotizatzailea jaioberri
+X748	intentziozko auto-kaltea, beste su-arma batzuek eragindakoa
+Y700	anestesiologiako gailu diagnostikoak eta monitorizatzaileak, kontrako intzidentziekin lotuak
+S161	muskuluaren, fasziako eta tendoiko bihurritua, lepoa
+S059	begiko eta betzuloko lesio traumatiko zehaztugabe
+T318	80-89 daramatzaten erredurak
+T551	detergenteen efektu toxiko
+V273XXS	motozikleta batera igotzen edo hortik jaisten ari den lesionatutako pertsona, finko edo geldi dagoen objektu batekin talka egiteagatik, sekuela
+T422	pozoidura, sukzimiden eta oxazolidindionen kontrako efektua eta infradosifikazioa
+T673XXA	beroagatiko akidura, anhidrotikoa, hasierako harremana
+Z593	egoitzan bizitzearekin lotutako arazoak
+T470	pozoidura, H2 hartzaile histaminikoen blokeatzaileen kontrako efektua eta infradosifikazioa
+S680	erpuruko anputazio metakarpofalangiko traumatiko
+Z562	lan-galeraren mehatxua
+V0009XS	oinez doan lesionatutako pertsona, beste oinezko garraio batekin talka egiteagatik, sekuela
+V008	beste oinezko garraio batean istripu
+M055	polineuropatia erreumatoidea, artritis erreumatoidearekin
+Z516	harremana alergenoen dentsitateagatik
+V589	kamionetako edo furgonetako lesionatutako okupatzaile zehaztugabea, trafiko-istripu batean lesionatutako garraio-istripu batean
+V872	automobil baten eta kamioneta baten arteko talkan lesionatutako pertsona.
+R068	arnasa hartzeko beste anormalitate batzuk
+N056	sindrome nefritiko zehaztugabea, gordailu dentsoaren gaixotasunarekin
+V934	objektu eroriak ur-ontzian jota
+V583	kamionetako edo furgonetako lesionatutako okupatzaile zehaztugabea, trafikokoa ez den istripu batean lesionatutako garraio-istripu batean
+Y731	gastroenterologia eta urologia errehabilitatiboa, kontrako intzidentziekin lotuak
+T257	orkatilako eta oineko hirugarren mailako higadura
+Z531	prozedura eta tratamendua ez dira egin pazientearen erabakiarengatik sinesmenaren eta talde-presioaren arrazoiengatik
+T322	20-29ko higadurak
+T499	pozoidura, agente topiko zehaztugabearen kontrako efektua eta infradosifikazioa
+M249	giltzadurako dislokadura, zehaztugabea
+S600	atzamarreko kontusioa, iltzeari kalterik egin gabe
+Q403	urdaileko sortzetiko malformazioa, zehaztugabea
+T2110XD	enborraren lehen mailako erredura, toki zehaztugabea, segidako harremana
+S635	eskumuturreko beste eta zehaztugabeko bihurritu batzuk
+T651	estrikninaren eta bere gatzen efektu toxiko
+T250	orkatila eta oin zehaztugabearen erredura
+T22311D	eskuineko besaurreko hirugarren mailako erredura, segidako harremana
+Z552	huts egin du eskola-azterketak
+W313	kontaktua lehen mugimenduekin
+Z779	beste kontaktu batzuk, osasun-arriskutsuak eta (susmatuak) eraginpekoekin
+M729	nahasmendu fibroblastikoa, zehaztugabea
+O879	erdiberriaroko konplikazio benosoa, zehaztugabea
+Z781	egoera fisikoa
+Z182	plastiko zatiak gordeta
+M539	dorsopatia, zehaztugabea
+O119	hipertentsio pre-existentea preeklanpsiarekin, hiruhileko zehaztugabea
+P241	jaioberriaren fluido eta muko amniotikoen (garbia) aspirazioa
+S664	erpuruko muskulu intrintseko, fasziako eta tendoiko lesio traumatikoa, eskumuturra eta eskua
+K958	beste prozedura bariatriko bateko konplikazioak
+V0390XD	oinez doan lesionatutako pertsona, auto, kamioneta edo furgoneta batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, segidako harremana
+S634	hatz lotailuko etendura traumatikoa, giltzadura metakarpofalangikoan eta interfalangikoetan
+Z561	lan-aldaketa
+T25321D	eskuineko oineko hirugarren mailako erredura, segidako harremana
+T493	pozoidura, enplegatuen, demultzenteen eta babesleen kontrako efektuak eta infradosifikazioak eragindakoa
+T22212A	ezkerreko besaurreko bigarren mailako erredura, hasierako harremana
+T399	pozoidura, analgesiko ez opioide zehaztugabearen kontrako efektuak eta infradosifikazioak eragindakoa
+K500	heste meharreko koronaren gaixotasun
+L492	gorputz-azalaren ehuneko 20-29ko afekzio eritematikoek sortutako esfoliazioa
+W401	gas leherkarien leherketa
+T410	pozoidura, anestesiko inhalatuen kontrako efektua eta infradosifikazioa
+W564	kontaktua marrazoarekin
+Q681	hatz eta eskuko sortzetiko deformitatea
+S55809A	beste odol-hodi batzuetako lesio traumatiko zehaztugabea, besaurrea, beso zehaztugabea, hasierako harremana
+Y773	instrumentu kirurgikoak, materialak eta gailu oftalmikoak (suturak barne) kontrako intzidentziekin lotuak
+S969	muskulu eta tendoi zehaztugabearen lesio traumatikoa, orkatila eta oina
+N040	sindrome nefrotikoa, anormaltasun glomerular txikiarekin
+N959	menopauso eta perimenopauso-nahasmendu zehaztugabe
+T314	40-49 bitarteko erredurak
+S531	giltzadura kubitaleko subluxazioa eta lokadura
+T844	barruko beste gailu ortopediko batzuen konplikazio mekanikoa, inplanteak eta mentuak
+W361	aerosolaren leherketa eta haustura
+Z007	harremana haurtzaroko hazkunde atzeratuaren epea aztertzeko
+T847	infekzioa eta inflamatorioa, barne-protesia-protetiko, inplante eta mentu ortopediko batzuek sortua
+V498	zehaztutako beste garraio-istripu batzuetan lesionatutako auto-okupatzailea (gidaria)
+T590	nitrogeno oxidoen efektu toxiko
+S431	akromion-lepauztaien giltzadurako subluxazioa eta lokadura
+T25122D	ezkerreko oineko lehen mailako erredura, segidako harremana
+T2133XD	bizkarraren goialdeko hirugarren mailako erredura, segidako harremana
+S341	gerri-ornoko eta sakroko orno-muineko beste eta zehaztugabeko lesio traumatiko batzuk
+T283XXA	barruko organo genito-urinarioetako erredura, hasierako harremana
+M173	belauneko artrosi post-traumatiko alde bakarrekoa
+S699	eskumuturreko, eskuko eta hatzetako lesio traumatiko zehaztugabe
+Y088	erasoa, zehaztutako beste baliabide batzuekin
+Q411	jeinuaren sortzetiko absentzia, atresia eta estenosi
+T69011A	immertsio-eskua, eskuineko eskua, hasierako harremana
+R208	larruazaleko beste nahasmendu batzuk
+X732	intentziozko auto-kaltea, makina-errebolberraren bidez.
+V002	goi mailako oinezko garraio-istripua
+Y732	protesiak eta beste inplante batzuk, materialak eta gastroenterologia osagarriak eta urologia gailuak, kontrako gertaerekin lotuak
+Y93E	jarduerak, higiene pertsonala eta barruko jabetza eta arropa mantentzea barne
+S923	hezur metatartsoko haustura
+T224	sorbaldako eta goiko gorputz-adarreko gradu zehaztugabeko higadura, eskumuturra eta eskua izan ezik
+O920	haurdunaldia, erdiberriaroa eta urdailarekin lotutako titiburu atzeratuak
+Y289	kontaktua objektu zorrotz zehaztugabearekin, intentzio zehaztugabea
+T581	karbono monoxidoaren efektu toxikoa, utilitate gasetik
+R878	emakumezkoen organo genitaletako laginetan beste aurkikuntza anormal batzuk
+M622	muskuluaren infartu iskemiko ez-traumatiko
+S348	beste nerbio batzuetako lesio traumatikoa, abdomena, bizkarreko eta pelbisekoa
+T550	xaboien efektu toxiko
+S526	kubituaren beheko muturreko haustura
+S990	kalkaneoko haustura fisiko
+Q428	heste lodiko beste zati batzuetako sortzetiko absentzia, atresia eta estenosi
+W321	istripuzko pistola-funtzioa
+N035	sindrome nefritiko kronikoa, mesangiokapilarreko glomerulonefritis hedatsuarekin
+T304	gorputz-eskualde zehaztugabearen higadura, zehaztugabea
+T321	10-19 korrosio
+T63892A	beste animalia pozoitsu batzuekiko kontaktuaren efektu toxikoa, nahita nork bere buruari kalte egitea, hasierako harremana
+Z137	harremana anomalia genetiko eta kromosomalen bilaketarako
+T505	janguraren depresoreek eragindako pozoidura, kontrako efektua eta infradosifikazioa
+P071	jaioberriaren beste pisu baxuko batzuk, jaioberri
+V682	garraio astuneko ibilgailu baten kanpoan dagoen lesionatutako pertsona, trafikokoa ez den istripu batean
+T25221S	eskuineko oineko bigarren mailako erredura, sekuela
+T811	prozedura-osteko shock
+T819	prozedurako konplikazio zehaztugabe
+O239	tratu genitourinarioko infekzio zehaztugabea, haurdunaldian
+T428	pozoidura, parkinsonaren kontrako botiken eta tonu muskular zentralaren beste jaistaile batzuen kontrako efektua eta infradosifikazioa
+Z180	zati erradioaktibo mantendu
+M1A2	botikek eragindako hezueri kroniko
+X011	sute kontrolatu gabeko batean erretzearen eraginpean egotea, ez eraikinean edo egituran
+O103	bihotz hipertentsiboko eta giltzurrun-gaixotasun kronikoa, haurdunaldia, erditzea eta erdiberriaroa konplikatzen dituztenak
+S948X9A	beste nerbio batzuetako lesio traumatikoa, orkatila eta oina, hanka zehaztugabea, hasierako harremana
+N030	sindrome nefritiko kronikoa, anormaltasun glomerular txikiarekin
+Z761	harremana osasunaren gainbegiratzea eta aurkitzea zaintzeko
+Y753	instrumentu kirurgikoak, materialak eta gailu neurologikoak (suturak barne) kontrako intzidentziekin lotuak
+T843	beste hezur-gailu, inplante eta mentu batzuen konplikazio mekaniko
+Y278	kontaktua beste objektu beroekin, intentzio zehaztugabea
+W629	kontaktua beste anfibio ez-pozoitsu batzuekin
+T2120XD	enborraren bigarren mailako erredura, toki zehaztugabea, segidako harremana
+Y028	erasoa, biktima beste objektu mugikor baten aurrean bultzaka edo jarriz
+N078	nefropatia hereditarioa, beste kontzeptu batean sailkatu gabea, beste lesio morfologiko batzuekin
+W615	kontaktua gooarekin
+W212	hockey makilak edo puckek jota
+T194	gorputz arrotza zakilean
+Q728	beheko gorputz-adarraren beste murrizketa-akats batzuk
+Z208	kontaktua beste gaixotasun komunikagarri batzuekiko eta (susmatua) esposizioarekin
+Z051	jaioberriaren behaketa eta ebaluazioa susmagarrizko egoera infekziosoarentzat
+W420	uhin supersonikoen eraginpean egote
+Y812	protesiak eta bestelako inplanteak, materialak eta osagarri orokorrak eta plastiko-kirurgiako gailuak, kontrako gertaerekin lotuak
+M163	alde bakarreko artrosia, aldakako displasiak sortua
+O131	haurdunaldiak eragindako hipertentsioa, proteinuria esanguratsurik gabe, lehenengo hiruhilekoa
+R854	emaitza immunologiko anormalak digestio-organoetatik eta barrunbe abdominaletik
+R864	emaitza immunologiko anormalak gizonezkoen organo genitaletako laginetan
+T540	fenolen eta fenolen homologoen efektu toxikoak
+Z830	giza immunoeskasiaren biruseko historia familiar
+T801	infusio, transfusio eta injekzio terapeutikoaren segidako konplikazio baskularrak
+Z390	harremana amaren zainketa eta azterketak erditzearen ondoren
+T862	bihotzeko transplanteko konplikazioak
+S436	giltzadura esternoklabikularreko bihurritu
+T24311A	eskuineko izterreko hirugarren mailako erredura, hasierako harremana
+V374XXS	hiru gurpileko ibilgailu batera igotzen edo hortik jaisten ari den lesionatutako pertsona, finko edo geldi dagoen objektu batekin talka egiteagatik, sekuela
+W161	uraren gorputz naturalera erortzen
+W303	kontaktua ale biltegiratzailearekin
+S26022D	bihotzeko urratu larria, hemoperikardioarekin, segidako harremana
+X789	intentziozko auto-kaltea, objektu zorrotz zehaztugabeak sortua
+R872	beste botika, medikamentu eta substantzia biologiko batzuen maila anormala emakumezkoen organo genitaletako laginetan
+O091	haurdunaldiaren gainbegiratzea, haurdunaldi ektopikoaren historiarekin
+S55109D	arteria erradialeko lesio traumatiko zehaztugabea, besaurrea, beso zehaztugabea, segidako harremana
+S050	konjuntibako eta korneako abrasioko lesio traumatikoa, gorputz arrotzik gabe
+Q439	hesteetako sortzetiko malformazioa, zehaztugabea
+R710	jaregin prezipitoa hematokritan
+V859	trafikokoa ez den istripu batean lesionatutako eraikuntzako ibilgailu bereziko okupatzaile zehaztugabe
+X940	erasoa, eskopetaren arabera
+S148	lepoko beste nerbio zehatz batzuetako lesio traumatiko
+R866	emaitza zitologiko anormalak gizonezkoen organo genitaletako laginetan
+O896	erdiberriaroan anestesiarako intubazio huts edo zaila
+Y834	beste kirurgia berreraikitzaile batzuk, pazientearen erreakzio anormalaren edo beranduago konplikazioaren kausa bezala, prozeduraren garaian ezbeharraren aipamenik egin gabe
+N995	gernubideetako urdaileko konplikazioak
+M968	muskulo-eskeleto-sistemako barneko eta prozedura-osteko beste konplikazio eta nahasmendu batzuk, beste kontzeptu batean sailkatu gabeak
+S603	erpuruko azaleko beste lesio traumatiko batzuk
+W900	erradiofrekuentziaren eraginpean egote
+Z141	fibrosi kistiko
+M511	ornoarteko disko torazikoa, torakolu-barra eta gernu-ornoko nahasmenduak, erradikulopatiarekin
+X001	eraikin edo egiturako sute kontrolatu gabeko batean erretzearen eraginpean egote
+Y238	beste su-arma-karga handiago batzuk, intentzio zehaztugabea
+V0399XS	lesionatutako oinezkoa beste garraio batean, auto, kamioneta edo furgoneta batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, sekuela
+S178	lepoko beste zati zehatz batzuetako zapaltze-lesio
+T763	abusu psikologikoa, susmatua
+P503	odoljarioak afektatutako jaioberri
+P839	jaioberriaren integumentuaren baldintza espezifikoa, zehaztugabea
+S158	beste odol-hodi zehatz batzuetako lesio traumatikoa, lepoa
+X981	erasoa, ur beroaren arabera
+Z510	harremana erradiazio antineoplasikoaren terapiarako
+Y733	instrumentu kirurgikoak, materialak eta gastroenterologia eta urologia gailuak (suturak barne) kontrako intzidentziekin lotuak
+Z309	harremana kudeaketa kontrazeptiboarentzat, zehaztugabea
+Q149	begiaren atzeko segmentuko sortzetiko malformazioa, zehaztugabea
+Z914	traumatismo psikologikoko historia pertsonala, beste kontzeptu batean sailkatu gabea
+P965	jaioberriaren konplikazioa, fetu-prozedura batek sortua
+S490	besahezurraren goiko muturreko haustura fisal
+N991	prozedura-osteko uretrako estriktura
+T22321S	eskuineko ukondoko hirugarren mailako erredura, sekuela
+T432	pozoidura, beste antidepresibo batzuen eta zehaztugabeen kontrako efektua eta infradosifikazioa
+N025	hematuria errepikatu eta iraunkorra, mesangiokapilarreko glomerulonefritis hedatsuarekin
+S633	eskumuturreko lotailuko etendura traumatiko
+Z709	sexu-aholkularitza, zehaztugabea
+S62292B	lehen hezur metakarpianoko beste haustura batzuk, ezkerreko eskua, hasierako harremana haustura irekiagatik
+X150	kontaktua berogailuarekin (sukaldea)
+T597	karbono dioxidoaren efektu toxiko
+X002	sutondoan edo sutan dagoen eraikinaren kolapsoak eragindako lesio traumatiko
+Z532	prozedura eta tratamendua ez dira egin pazientearen erabakiarengatik beste eta zehaztugabeko arrazoiengatik
+O296	haurdunaldian anestesiarako intubazio huts edo zaila
+Q654	aldakako sortzetiko lokadura partziala, aldebikoa
+S636	hatzetako beste eta zehaztugabeko bihurritu batzuk
+R860	entzimen-maila anormala, gizonezkoen organo genitaletako laginetan
+Q349	arnas-sistemako sortzetiko malformazioa, zehaztugabea
+T782XXD	shock anafilaktikoa, zehaztugabea, segidako harremana
+R419	funtzio kognitiboak eta kontzientziari dagozkien sintoma eta zeinu zehaztugabe
+Q989	sexu-kromosomaren anormaltasuna, fenotipo gizona, zehaztugabea
+R398	sistema genitourinarioari dagozkion beste sintoma eta zeinu batzuk
+Z985	esterilizazioaren egoera
+M256	giltzadurako zurruntasuna, beste kontzeptu batean sailkatu gabea
+T485	pozoidura, beste botika hotzen kontrako efektuak eta infradosifikazioak eragindakoa
+M042	kriopirin-asoziatutako sindrome periodikoak
+T454	pozoidura, burdinaren eta bere konposatuen kontrako efektua eta infradosifikazioa
+R258	beste mugimendu anormal batzuk
+Z158	beste gaixotasun batzuekiko sentikortasun genetikoa
+T549	zehaztugabeko substantzia korrosibo baten efektu toxiko
+V582	kamioneta edo furgoneta baten kanpoan dagoen lesionatutako pertsona, trafikokoa ez den istripu batean lesionatutako pertsona
+X828	intentziozko beste auto-kalte batzuk, ibilgailu motordun batekin talka egiteagatik
+T283XXS	barruko organo genito-urinarioetako erredura, sekuela
+Z189	gorputz arrotzaren zatiak, material zehaztugabea
+Y389	terrorismoa, efektu sekundarioak
+Z639	arazoa, euskarri nagusiarekin lotua, zehaztugabea
+P508	beste odol-galera batzuk afektatutako jaioberri
+Y636	botika, medikamentu edo substantzia biologikoko beharrezko administrazio ez-onadrigatzea
+T221	sorbaldako eta goiko gorputz-adarreko lehen mailako erredura, eskumuturra eta eskua
+Q554	bas-deferenteetako sortzetiko beste malformazio batzuk, epididimia, seminaleko ibilgailu eta prostatako batzuk
+Z528	beste organo edo ehun zehatz batzuetako emailea
+T483	pozoidura, antitusiboen kontrako efektua eta infradosifikazioa
+T246	beheko gorputz-adarreko bigarren mailako higadura, orkatila eta oina
+S564	muskulu estentsorearen lesio traumatikoa, faszia eta tendoia, besaurrea
+T504	pozoidura, azido urikoaren metabolismoari eragiten dioten botiken kontrako efektua eta infradosifikazioa
+Q926	Markatzailearen kromosomak
+Z604	soziala eta baztertzea
+K573	hesteetako gaixotasun dibertikularra, zulaketa edo abszesurik gabe
+Y752	protesiak eta beste inplante batzuk, materialak eta gailu neurologikoak, kontrako intzidentziekin lotuak
+K580	hestegorriaren sindrome izugarria, diarrearekin
+T536	karbono alifatikoen beste halogeno deribatuetako efektu toxiko
+N019	sindrome nefritiko azkar aurreratua, aldaketa morfologiko zehaztugabeekin
+K711	gibeleko gaixotasun toxikoa, nekrosi hepatikoarekin
+V930	erredura, itsasontziko ur-ontziko su lokalizatuak sortua
+S911	behatz lodiko zauri irekia, iltzean kalterik egin gabe
+Z986	angioplastikoaren egoera
+V910	grabatua, sutan ur-ontziak sortua
+S55902S	zehaztugabeko odol-hodi bateko lesio traumatiko zehaztugabea, besaurrea, ezkerreko besoa, sekuela
+S62292S	lehen hezur metakarpianoko beste haustura batzuk, ezkerreko eskua, sekuela
+Y934	dantza eta beste mugimendu erritmikoari dagozkien jarduerak
+Y722	protesiak eta bestelako inplanteak, materialak eta gailu otorrinolaringologikoak, kontrako gertaerekin lotuak
+O070	tratu genitalak eta pelbiseko infekzioak huts egin dute haurdunaldia bajatzen saiatzean.
+N972	umetoki jatorriko emakumezko antzutasuna
+T594	gas kloroaren efektu toxiko
+W220	objektu geldikorraren aurka jotzea
+Y930	ibiltzea eta exekutatzea duten jarduerak
+T711	asifikazioa, arnasa hartzeko mehatxu mekanikoek sortua
+Z123	harremana bularreko neoplasia gaiztoaren prestakuntzarako
+Y379	beste eta zehaztugabeko eragiketa militar batzuk
+W592	kontaktua dortokekin
+S58111A	erabateko anputazio traumatikoa, ukondoaren eta eskumuturraren artean, eskuineko besoa, hasierako harremana
+T839	dispositibo protetiko genitourinarioko konplikazio zehaztugabea, inplantea eta mentua
+K805	behazun-hodiko kalkulua, kolangitis edo kolezistitisrik gabe
+W551	kontaktua zaldiarekin
+O113	hipertentsio pre-existentea preeklanpsiarekin, hirugarren hiruhilekoa
+W565	kontaktua beste arrain batzuekin
+O114	hipertentsio pre-existentea pre-eklanpsiarekin, erditze konplikatzaile
+X373	hauts-ekaitza
+P072	jaioberriaren muturreko immaturitatea
+S999	orkatilako eta oineko lesio traumatiko zehaztugabe
+S52391Q	erradioaren diafisiko beste haustura batzuk, eskuineko besoa, segidako harremana I edo II motako haustura irekiaren batura txarra dela medio
+R499	ahots eta erresonantzia-nahasmendu zehaztugabe
+V486	trafiko-istripu batean lesionatutako auto-bidaiaria.
+S761	koadrizepsen muskulua, faszia eta tendoiko lesio traumatiko
+Y622	giltzurruneko dialisian eta beste perfusio batean egindako prekauzio antzuren hutsegitea
+T781	beste elikagaien kontrako erreakzio batzuk, beste kontzeptu batean sailkatu gabeak
+S632	beste hatz batzuetako subluxazioa eta lokadura
+O921	haurdunaldia, erdiberriaroa eta urdailarekin lotutako titiburu
+S943	nerbio sentsorialeko lesio traumatikoa, orkatila eta oina
+Y93A	beste arnas ariketa kardiorespiratzaile batzuekin lotutako jarduerak
+X822	ibilgailu motorduneko nahi gabekoa zuhaitzarekin
+Q519	umetokiko eta lepaornoko sortzetiko malformazioa, zehaztugabea
+T679	beroaren eta argiaren efektua, zehaztugabea
+L493	gorputz-azalaren ehuneko 30-39ko afekzio eritematikoek sortutako esfoliazioa
+Y829	zehaztugabeko gailu medikoak, kontrako intzidentziekin lotuak
+Y927	etxaldea kanpoko kausaren agertoki gisa
+T8130XD	zauriaren etendura, zehaztugabea, segidako harremana
+V387	hiru gurpileko ibilgailu motordun baten kanpoan dagoen lesionatutako pertsona, trafikokoa ez den garraio-istripu batean
+O253	malnutrizioa erdiberriaroan
+Y758	gailu neurologiko miszelaneoak, kontrako intzidentziekin lotuak, beste kontzeptu batean sailkatu gabeak
+W568	kontaktua beste itsas animalia ez-pozoitsu batzuekin
+K641	bigarren mailako odoljarioak
+R457	shock emozionalaren eta estresaren egoera, zehaztugabea
+V0391XD	lesionatutako oinezkoa patinetan, auto, kamioneta edo furgoneta batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, segidako harremana
+T889	arreta kirurgikoaren eta medikoaren konplikazioa, zehaztugabea
+M368	ehun konektiboko nahasmendu sistemikoak beste kontzeptu baten azpian sailkatutako gaixotasunetan
+Z708	beste sexu-aholkularitza batzuk
+T435	pozoidura, beste antipsikotiko eta neuroleptiko zehaztugabeen kontrako efektua eta infradosifikazioa
+N002	sindrome nefritiko akutua, mintz glomerulonefritis hedatsuarekin
+T458	pozoidura, nagusiki sistemikoak eta hematologikoak diren beste agente batzuen kontrako efektua eta infradosifikazioa
+M979	haustura periprostetikoa barneko giltzadura protetiko zehaztugabearen inguruan
+L026	oineko larruazaleko abszesua, furunkulua eta karbonoa
+Y711	gailu kardiobaskular errehabilitatzaile terapeutikoak (kirurgikoak ez direnak) eta errehabilitatiboak, kontrako intzidentziekin lotuak
+V183	bizikleta batera igotzen edo hortik jaisten ari den lesionatutako pertsona, trafikoko garraio-istripu batean
+X999	erasoa, objektu zorrotz zehaztugabearen arabera
+T329	90 korrosio
+Z224	infekzioen garraiatzailea, nagusiki sexu-transmisio moduarekin
+T749	maltratu zehaztugabea, baieztatua
+Z283	inderimmunizazio-egoera
+S5402XD	nerbio kubitaleko lesio traumatikoa, besaurrea, ezkerreko besoa, segidako harremana
+V283	motozikleta batera igotzen edo hortik jaisten ari den lesionatutako pertsona, garraio-istripu batean
+Q719	goiko gorputz-adarraren murrizketa-akats zehaztugabe
+T23272S	ezkerreko eskumuturreko bigarren mailako erredura, sekuela
+T654	karbono desulfuroaren efektu toxiko
+S930	orkatilaren giltzadurako subluxazioa eta lokadura
+Y921	egoitza instituzionala (pribatua ez dena) kanpoko kausaren gertaleku gisa
+Q374	ezkerreko ahosabai gogor eta biguna, aldebiko ezpainarekin
+T879	anputazioko tronpako konplikazio zehaztugabe
+Y048	beste gorputz-indar batek eragindako eraso
+M455	torakolu-barrako espondilitis ankilosatzaile
+V798	zehaztutako beste garraio-istripu batzuetan lesionatutako autobus-okupatzailea (gidaria)
+Y712	protesiak eta beste inplante batzuk, materialak eta gailu kardiobaskular osagarriak, kontrako gertaerekin lotuak
+O922	bularreko beste eta zehaztugabeko nahasmendu batzuk, haurdunaldiarekin eta erdiberriaroarekin lotuak
+S611	erpuruko zauri irekia, iltzeak eragindako kaltearekin
+T2033XA	kokotseko hirugarren mailako erredura, hasierako harremana
+K918	digestio-sistemako barneko eta prozedura-osteko beste konplikazio eta nahasmendu batzuk
+Z890	erpuruko eta beste hatz batzuetako absentzia hartu
+Y772	protesiak eta beste inplante batzuk, materialak eta gailu oftalmikoak kontrako gertaerekin lotuak
+V0191XD	lesionatutako oinezkoa patinetan, bizikleta batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, segidako harremana
+S55102S	arteria erradialeko lesio traumatiko zehaztugabea, besaurrea, ezkerreko besoa, sekuela
+S52392G	erradioaren diafisiko beste haustura batzuk, ezkerreko besoa, segidako harremana haustura itxiaren kontsolidazioa atzeratu delako
+W221	automobileko aire-zorroak jotako edo jotako kolpean
+T457	pozoidura, antagonista antikoagulatzaileen kontrako efektuak eta infradosifikazioak eragindakoa, K bitamina eta beste koagulatzaile batzuk
+T529	disolbatzaile organiko zehaztugabearen efektu toxiko
+T561	merkurioko eta bere konposatuen efektu toxikoak
+W319	kontaktua makina zehaztugabearekin
+Y233	makina-errebolberraren tiroa, intentzio zehaztugabea
+M082	gazte-artritis erreumatoidea, inset sistemikoarekin
+N070	nefropatia hereditarioa, beste kontzeptu batean sailkatu gabea, anormaltasun glomerular txikiarekin
+S58019S	erabateko anputazio traumatikoa, ukondoa, beso zehaztugabea, sekuela
+N182	giltzurrun-gaixotasun kronikoa, 2. fasea (polita)
+M808	beste osteoporosi batzuk, egungo haustura patologikoarekin
+X998	beste objektu zorrotz batek eragindako erasoa
+W051	motorrik gabeko eskooter batetik erortzea
+W616	kontaktua ahatearekin
+O747	erditze-lanetan eta erditzean anestesiarako intubazio huts edo zaila
+Z735	gatazka soziala, beste kontzeptu batean sailkatu gabea
+T426	pozoidura, beste antiepileptiko eta farmako hipnotiko-lasaigarri batzuen kontrako efektua eta infradosifikazioa
+R842	beste botika, medikamentu eta substantzia biologiko batzuetako maila anormala, arnas organo eta toraxeko espezieak
+R835	emaitza mikrobiologiko anormalak fluido zerebrospinalean
+Z910	alergiaren egoera, botikek eta substantzia biologikoek ez bestea
+Y925	merkataritza eta zerbitzuen eremua kanpoko kausaren agertoki gisa
+N075	nefropatia hereditarioa, beste kontzeptu batean sailkatu gabea, mesangiokapilarreko glomerulonefritis hedatsuarekin
+Z690	harremana haurren gehiegikerien arazoak direla medio
+T22121S	eskuineko ukondoko lehen mailako erredura, sekuela
+R856	emaitza zitologiko anormalak digestio-organoetatik eta barrunbe abdominaletik
+X378	beste ekaitz kataklismiko batzuk
+S352	arteria zeliako edo mesenterikoko eta adarretako lesio traumatiko
+S961	behatz lodiko muskulu estentsore luzeko muskulu eta tendoiko lesio traumatikoa, orkatila eta oina
+T443	pozoidura, beste parasimpatolitiko batzuk eragindako eta infradosifikazioaren kontrako efektuak eta infradosifikazioak eragindakoa
+S339	gerrialdeko eta pelbiseko zati zehaztugabeetako bihurritu
+V903	itotzea eta urperatzea, erortzeak edo jauzi egiteagatik ur-ontzi zapaldutik
+O874	beheko gorputz-adarreko bena barikosoak erdiberriaroan
+N041	sindrome nefrotikoa, lesio fokala eta segmentalarekin
+O133	haurdunaldiak eragindako hipertentsioa, proteinuria esanguratsurik gabe, hirugarren hiruhilekoa
+Y020	erasoa, biktima bultzatzea edo jartzea motordun ibilgailu baten aurrean
+T501	begizta-sabaiko diuretikoek eragindako pozoidura, kontrako efektua eta infradosifikazioa
+W213	kirolen oineko jantziak jota
+T24211S	eskuineko izterreko bigarren mailako erredura, sekuela
+Z411	harremana kirurgia kosmetikoarentzat
+V889	beste ibilgailu motorgabe bati dagozkion garraio-istripu zehatz batzuetan lesionatutako pertsona, trafikokoa ez den istripua
+T486	pozoidura, asmaren kontrakoen kontrako efektuak eta infradosifikazioak eragindakoa, beste kontzeptu batean sailkatu gabea
+S52399E	erradioaren diafisiko beste haustura batzuk, beso zehaztugabea, segidako harremana I edo II motako haustura irekiaren errutinazko sendaketak direla medio
+Z021	harremana lanpostu aurretiko azterketarako
+T622	beste ingestatutako landare batzuen efektu toxikoa (zatiak)
+W168	beste uretan jauzi edo urperatzen
+S671	beste eta zehaztugabeko hatz bateko zapaltze-lesio
+T273XXA	arnasbideetako erredura, zehaztugabea, hasierako harremana
+N209	gernu-kalkulua, zehaztugabea
+Z054	jaioberriaren behaketa eta ebaluazioa susmagarri genetiko, metaboliko edo immunologikoki araututako
+Z852	beste arnas eta organo intratorazikoetako neoplasia gaiztoaren historia pertsonal
+T464	pozoidura, angiotentsinaren entzima bihurtzailearen inhibitzaileen kontrako efektua eta infradosifikazioa
+T827	infekzioa eta inflamatorioa, beste gailu kardiako eta baskular batzuk, inplanteak eta mentu batzuk sortua
+V931	beste erredura batzuk ontziko ur-ontzian
+T207	buruko hirugarren mailako higadura, aurpegia eta lepoa
+S928	oineko beste haustura batzuk, orkatila izan ezik
+W240	kontaktua gorako gailuekin, beste kontzeptu batean sailkatu gabea
+M461	sakrolitisa, beste kontzeptu batean sailkatu gabea
+Y748	ospitale orokor eta erabilera pertsonaleko gailu miszelaneoak, kontrako gertaerekin lotuak, beste kontzeptu batean sailkatu gabeak
+V593	kamionetako edo furgonetako okupatzailea (gidaria) (bidaiaria), trafikokoa ez den istripu batean lesionatutakoa
+M271	zelula erraldoien granuloma, zentrala
+O752	pirexia erditzean, beste kontzeptu batean sailkatu gabea
+T496	pozoidura, botika eta prestaketa otorrinolaringologikoen kontrako efektua eta infradosifikazioa
+S249	toraxeko nerbio zehaztugabearen lesio traumatiko
+Y369	beste eta zehaztugabeko gerra-operazio batzuk
+W614	kontaktua indioilarrarekin
+T193	gorputz arrotza umetokian
+K558	hesteetako beste nahasmendu baskular batzuk
+T580	karbono monoxidoaren efektu toxikoa, ibilgailu motordun ibilgailu agortutik
+N011	sindrome nefritiko azkar progresiboa, lesio fokal eta segmental glomerularrekin
+S58011D	erabateko anputazio traumatikoa, ukondoa, eskuineko besoa, segidako harremana
+T65892D	beste substantzia zehatz batzuen efektu toxikoa, nahita nork bere buruari kalte egitea, segidako harremana
+X958	erasoa, beste su-arma-tresna batzuk erabilita
+V908	itotzea eta urperatzea, beste istripu batek eragindakoa
+T599	zehaztugabeko gas, ke eta lurrun zehaztugabeen efektu toxiko
+Z163	mikrobioen kontrako beste botika batzuekiko erresistentzia
+S378	beste gernu-organo eta pelbiseko lesio traumatiko
+O096	primigrabida gaztearen eta multigrabida gaztearen gainbegiratzea
+T834	beste gailu protesiko batzuk, inplanteak eta traktu genitaleko mentuak konplikazio mekaniko
+V936	makineriaren istripua ontziko ur-ontzian
+K758	gibeleko beste gaixotasun inflamatorio zehatz batzuk
+O134	haurdunaldiak eragindako hipertentsioa, proteinuria esanguratsurik gabe, erditzea konplikatzen duena
+N057	sindrome nefritiko zehaztugabea, glomerulonefritis hedatsuarekin
+Z458	harremana inplantatutako beste gailu batzuen doikuntza eta kudeaketarako
+Y740	ospitale orokorrak eta erabilera pertsonaleko gailuak diagnostikoa eta monitorizazioa, kontrako gertaerekin lotuak
+T856	barruko eta kanpoko protesia-gailu zehatz batzuen konplikazio mekanikoa, inplanteak eta mentuak
+S168	muskuluaren, fasziako eta tendoiko beste lesio traumatiko zehatz batzuk, lepoa
+Y782	protesiak eta beste inplante batzuk, materialak eta gailu erradiologiko osagarriak kontrako gertaerekin lotuak
+O266	gibeleko eta traktu biliarreko nahasmenduak, haurdunaldian, erditzean eta erdiberriaroan
+X158	kontaktua beste etxebizitza beroekin
+Z703	jarrera sexualari, portaerari eta orientazioari buruzko kezka konbinatuekin lotutako aholkuak
+K461	abdomen-hernia zehaztugabea, gangrenarekin
+W098	jokalariaren beste ekipo batzuetatik erortzea
+V780	trafikokoa ez den istripu batean lesionatutako autobus-gidari
+R861	hormonen maila anormala, gizonezkoen organo genitaletako laginetan
+N039	sindrome nefritiko kronikoa, aldaketa morfologiko zehaztugabeekin
+Q959	berrantolaketa orekatua eta egitura-markatzailea, zehaztugabea
+S668	beste muskulu zehatz batzuetako lesio traumatikoa, faszia eta tendoiak, eskumuturra eta eskua
+Q264	biriketako konexio beno anomalosoa, zehaztugabea
+T23171A	eskuineko eskumuturreko lehen mailako erredura, hasierako harremana
+Z922	botiken terapiako historia pertsonal
+S311	abdomen-paretako zauri irekia, barrunbe peritonealean sartu gabe
+K501	heste lodiko krohnaren gaixotasun
+X031	sute kontrolatuan kearen eraginpean egotea, ez eraikinean edo egituran
+T813	zauriaren etendura, beste kontzeptu batean sailkatu gabea
+O080	tratu genitala eta pelbiseko infekzioa, haurdunaldi ektopiko eta molarraren ondoren
+Q373	ezkerreko ahosabai biguna, alde bakarreko ezpainarekin
+R853	substantzien maila anormala, nagusiki ez-medizinala, digestio-organoetatik eta barrunbe abdominaletik
+T522	bentzenako homologoen efektu toxiko
+S942	nerbio peroneal sakoneko lesio traumatikoa, orkatila eta oina
+M846	haustura patologikoa beste gaixotasun batean
+K702	gibeleko fibrosi alkoholikoa eta esklerosia
+O132	haurdunaldiak eragindako hipertentsioa, proteinuria esanguratsurik gabe, bigarren hiruhilekoa
+V935	leherketa ontziko ur-ontzian
+Q653	aldakako sortzetiko lokadura partziala, alde bakarrekoa
+S62299P	lehen hezur metakarpianoko beste haustura batzuk, esku zehaztugabea, segidako harremana hausturaren batura txarra dela medio
+T188	gorputz arrotza alimentario-bideko beste zati batzuetan
+H8142	jatorri zentraleko bertigo, ezkerreko belarria
+X811	intentziozko auto-kaltea, tren baten aurrean salto egin edo etzanda
+X503	errepikatze-mugimenduetatik
+Z904	digestio-traktuko beste zati zehatz batzuen absentzia hartu
+Z885	alergiaren egoera agente narkotikoarentzako
+Z129	harremana neoplasia gaiztoaren bila joateko, toki zehaztugabea
+L497	gorputz-azalaren ehuneko 70-79ko afekzio eritematikoek sortutako esfolia
+T206	buruko bigarren mailako higadura, aurpegia eta lepoa
+S463	muskuluaren, fasziako eta tendoiko lesio traumatiko
+X501	luzaroko postura estatiko edo baldarretatik gehiegizko axola
+P299	nahasmendu kardiobaskularra, jaiotza inguruko denboraldian sortua, zehaztugabea
+X021	eraikin edo egiturako sute kontrolatuan erretzearen eraginpean egote
+X022	sutearen eraikuntza edo egituraren kolapsoak eragindako lesio traumatiko
+V809	animalia-gidaria edo animalia-trakziozko ibilgailuko lesionatutako okupatzailea, beste eta zehaztugabeko garraio-istripu batean
+T310	10 baino gutxiagoko erredurak
+S830	errotulako subluxazioa eta lokadura
+T840	barruko giltzadura-protesiaren konplikazio mekaniko
+Y703	instrumentu kirurgikoak, materialak eta anestesiologiako gailuak (suturak barne) kontrako intzidentziekin lotuak
+N003	sindrome nefritiko akutua, mesangiako proliferazio glomerulonefritis hedatsuarekin
+W167	itsasontzitik salto edo urperatzen
+T272XXA	arnasbideetako beste zati batzuetako erredura, hasierako harremana
+O038	beste eta zehaztugabeko konplikazio batzuk, erabateko edo zehaztugabeko berezko abortuaren ondorioz
+T589	karbono monoxidoaren efektu toxikoa, iturri zehaztugabea
+T513	fuselako olioko efektu toxiko
+V480	trafikokoa ez den istripu batean lesionatutako auto-gidaria
+T22211D	eskuineko besaurreko bigarren mailako erredura, segidako harremana
+S398	abdomeneko, bizkarraren behealdeko eta kanpoko genitaletako beste lesio traumatiko zehatz batzuk
+S686	beste eta zehaztugabeko hatz bateko anputazio transfalangiko
+R209	larruazaleko sentsazioaren nahasmendu zehaztugabe
+V912	ur-ontzi baten eta beste ur-ontzi batzuen arteko talka egiteagatik eroria
+Z681	gorputz masaren indizea (BMI) 19 edo gutxiago, heldua
+S038	buruko beste zati batzuetako giltzaduretako eta lotailuetako bihurritu
+V285	trafiko-istripu batean lesionatutako motozikleta-bidaiaria.
+Z749	arreta hornitzailearen mendekotasunarekin lotutako arazoa, zehaztugabea
+Z539	egin gabeko prozedura eta tratamendua, arrazoi zehaztugabea
+S772	aldakako zapaltze-lesioa, izterrarekin
+Y070	ezkontidea edo bazkidea, tratu txarreko perpetratzailea eta bazterrekoa
+P191	azidemia metabolikoa jaioberrian lehen aldiz ohartua laborantz
+Z055	jaioberriaren behaketa eta ebaluazioa susmagarri gastrointestinalaren afekzio susmagarrientzat
+V940	ur-gorputzeko objektua edo behealdea, ur-ontzitik erortzeagatik
+S491	besahezurraren beheko muturreko haustura fisal
+R836	emaitza zitologiko anormalak fluido zerebrospinalean
+R851	hormonen maila anormala digestio-organoetatik eta barrunbe abdominaletik
+V951	okupatzailearen lesioa sortzen duen Ultralight, mikrolight edo potentzia-planeagailu baten istripua
+Y384	terrorismoa, su-armak erabiliz
+L949	ehun konektiboen nahasmendu lokalizatua, zehaztugabea
+S983	oin-erdiko anputazio traumatiko
+S349	zehaztugabeko nerbio batzuetako lesio traumatikoa, abdomena, bizkarreko eta pelbiseko maila
+K572	heste lodiko dibertikulitisa, zulaketa eta abzesuarekin
+Q849	tegumentuaren sortzetiko malformazioa, zehaztugabea
+S198	lepoko beste lesio traumatiko zehatz batzuk
+T22251S	eskuineko sorbaldako bigarren mailako erredura, sekuela
+K612	anorektaleko abszesu
+O653	distozia, pelbiseko eskema eta erdiko barrunbe-kontrakzioa dela medio
+V282	trafikokoa ez den istripu batean lesionatutako motorzale zehaztugabe
+W173	igerileku hutsean erortzen
+Z758	medikuntzako instalazio eta beste osasun-arreta batzuekin lotutako beste arazo batzuk
+T2125XS	ipurmasaileko bigarren mailako erredura, sekuela
+Y377	arma kimikoak eta gerra konbentzionaleko beste forma batzuk erabilitako eragiketa militarrak
+Z448	harremana kanpoko beste gailu protetiko batzuk doitzeko eta doitzeko
+X062	beste arropa eta janzkera batzuen sukarraren eraginpean egote
+Y840	kardiako katerizazioa pazientearen erreakzio anormalaren edo beranduago konplikazioaren kausa bezala, prozeduraren garaian ezbeharraren aipamenik egin gabe
+K591	diarrea funtzionala
+N454	epididimo edo testigantzako abszesu
+T347	belauneko eta hankaren behealdeko izoztea, ehunetako nekrosiarekin
+T236	eskumuturreko eta eskuko bigarren mailako higadura
+X770	intentziozko auto-kaltea, lurrun edo lurrun beroen arabera
+R849	arnas organo eta toraxeko laginetan aurkikuntza anormal zehaztugabe
+Y738	gastroenterologia eta urologia gailu miszelaneoak, kontrako gertaerekin lotuak, beste kontzeptu batean sailkatu gabeak
+V383	hiru gurpileko ibilgailu motorduneko lesionatutako okupatzaile zehaztugabea, trafikokoa ez den istripu batean lesionatutako garraio-istripu batean
+T69021A	immertsio-oina, eskuineko oina, hasierako harremana
+V203XXD	motozikleta batera igotzen edo hortik jaisten ari den lesionatutako pertsona, oinezko edo animalia batekin talka egiteagatik, segidako harremana
+T225	sorbaldako eta goiko gorputz-adarreko lehen mailako higadura, eskumuturra eta eskua
+Z469	harremana gailu zehaztugabea doitzeko eta doitzeko
+T462	pozoidura, beste botika antidisrritmikoen kontrako efektuak eta infradosifikazioak eragindakoa, beste kontzeptu batean sailkatu gabeak
+S685	erpuruko anputazio transfalangeo
+Z702	hirugarrenaren portaera sexualarekin eta orientazioarekin lotutako aholkularitza
+Z385	jaioberriaren haur biziduna, jaiotzako toki zehaztugabea
+V0492XA	lesionatutako oinezkoa monopatinean, garraio astuneko ibilgailu edo autobus batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, hasierako harremana
+O037	enbolismoa, erabateko edo zehaztugabeko berezko abortu baten ondoren
+W210	jo edo botatako bolak jota
+K741	esklerosi hepatiko
+Z809	neoplasia gaiztoaren historia familiarioa, zehaztugabea
+W134	erori, leihotik kanpo edo leihotik
+W260	kontaktua labanarekin
+T200	buruko gradu zehaztugabeko erredura, aurpegia eta lepoa
+O730	plazenta mantenduta, odoljariorik gabe
+N978	beste jatorri bateko emakumezko antzutasuna
+N058	sindrome nefritiko zehaztugabea, beste aldaketa morfologiko batzuekin
+O269	haurdunaldiarekin lotutako baldintzak, zehaztugabea
+S5491XA	zehaztugabeko nerbio bateko lesio traumatikoa, besaurrea, eskuineko besoa, hasierako harremana
+T837	konplikazioak, masibo inplantatuak eta beste material protestiko batzuk sortua
+Z289	immunizazioa ez da egin arrazoi zehaztugabeagatik
+T761	abusu fisikoa, susmatua
+W269	kontaktua objektu zorrotz zehaztugabeekin
+T25121A	eskuineko oineko lehen mailako erredura, hasierako harremana
+T381	pozoidura, hormona tiroideoen eta ordezkoen kontrako efektua eta infradosifikazioa
+P139	hezurrezurreko jaiotzako lesio traumatikoa, zehaztugabea
+N064	proteinuria isolatua, glomerulonefritis endokapilar hedatsuarekin
+Y990	jarduera zibila diru-sarrera edo ordainketarako
+R930	emaitza anormalak burezurreko eta buruko irudi diagnostikoan
+Z533	prozedura irekitzeko bihurtu da
+T476	beherakoaren kontrako botikek eragindako pozoidura, kontrako efektua eta infradosifikazioa
+S499	sorbaldako eta besoaren goialdeko lesio traumatiko zehaztugabe
+Z127	harremana beste organo genito-urinario batzuetako neoplasia gaiztoaren bilakatzeko
+Z047	harremana abusu fisiko onartuaren ondoren azterketa eta behaketa egiteko
+T603	herbiziden eta fungiziden efektu toxiko
+T617	arrainak eta oskolak eragindako beste pozoitze batzuk
+T633	armiarmaren pozoiaren efektu toxiko
+Z752	ikerketa eta tratamenduaren zain dagoen beste aldi batzuk
+N980	infekzioa, intseminazio artifizialarekin lotua
+V0199XD	lesionatutako oinezkoa beste garraio batean, bizikleta batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, segidako harremana
+S548X2S	beste nerbio batzuetako lesio traumatikoa, besaurrea, ezkerreko besoa, sekuela
+T518	beste alkohol batzuen efektu toxiko
+Z569	enpleguarekin lotutako arazo zehaztugabe
+X942	makina-errebolberraren erasoa
+Y811	kirurgia (ez-kirurgia) eta errehabilitazio orokorreko eta plastiko-kirurgiako gailu terapeutikoak, kontrako intzidentziekin lotuak
+V284	trafiko-istripu batean lesionatutako motozikleta-gidaria.
+Z468	harremana zehaztutako beste gailu batzuei doitzeko eta doitzeko
+T719	asfixazioa, kausa zehaztugabeek sortua
+S479	sorbaldako eta besoaren goialdeko zapaltze-lesioa, beso zehaztugabea
+T25311A	eskuineko orkatilako hirugarren mailako erredura, hasierako harremana
+S799	aldakako eta izterreko lesio traumatiko zehaztugabe
+N013	sindrome nefritiko bizkor progresiboa, mesangiako proliferazio glomerulonefritis hedatsuarekin
+Z824	bihotzeko gaixotasun iskemikoko eta zirkulazio-sistemako beste gaixotasun batzuetako historia familiar
+T845	infekzioa eta inflamatorioa, barneko giltzadurako protesiak sortua
+S838	belauneko beste zati zehatz batzuetako bihurritu
+T22322A	ezkerreko ukondoko hirugarren mailako erredura, hasierako harremana
+W172	zulora erortzen
+S58129A	anputazio traumatiko partziala, ukondoaren eta eskumuturraren artean, beso zehaztugabea, hasierako harremana
+X992	erasoa, ezpata edo sastakaiaren arabera
+S561	muskulu flexoreko lesio traumatikoa, faszia eta tendoia, besaurrea
+S052	urratu okularra eta haustura, ehun barruko prolapso edo galerarekin
+K566	beste eta zehaztugabeko hesteetako buxadura batzuk
+Z299	harremana neurri profilaktikoentzat, zehaztugabea
+V233XXD	motozikleta batera igotzen edo hortik jaisten ari den lesionatutako pertsona, auto, kamioneta edo furgoneta batekin talka egiteagatik, segidako harremana
+S62101S	karpo-hezur zehaztugabearen haustura, eskuineko eskumuturra, sekuela
+Z118	harremana beste gaixotasun infekzioso eta parasito batzuetarako prestakuntzarako
+Z418	harremana beste prozedura batzuetarako osasun-egoera erremedioa ez den beste helburu batzuetarako
+Z020	harremana hezkuntza-erakundea onartzeko azterketa egiteko
+X818	intentziozko auto-kaltea, beste objektu mugikor baten aurrean salto egin edo etzanda
+O421	mintzetako haustura goiztiarra, 24 ordu baino gehiagoko erditzea hausturaren ondoren
+T860	hezur-muin-garraioaren konplikazioak
+V686	garraio astuneko ibilgailuko lesionatutako bidaiaria, garraio-istripu batean trafiko-istripu batean
+P190	azidemia metabolikoa jaioberriaren lehen oharra laborategia hasi aurretik
+N172	giltzurruneko hutsegite akutua, nekrosi medularrarekin
+M206	behatz lodietako deformitate hartuak, zehaztugabea
+V983	akzidentea, eskiaren igotzearekin edo inplikatzearekin
+T530	karbono tetrakloruroaren efektu toxiko
+P938	jaioberriari administratutako botikek eragindako beste erreakzio eta intoxikazio batzuk
+W311	kontaktua metalen lan-makinekin
+R898	beste aurkikuntza anormal batzuk beste organo batzuetako, sistemetako eta ehunetako aleak direla medio
+T406	pozoidura, beste eta zehaztugabeko narkotiko batzuen kontrako efektua eta infradosifikazioa
+Y935	beste kirol eta atletismo batzuei dagozkien jarduerak banaka jokatu
+Q829	larruazaleko sortzetiko malformazioa, zehaztugabea
+T830	gernu-kateterraren konplikazio mekaniko
+W312	kontaktua egurrezko lanpostuekin eta makinak eratzeko
+S332	giltzadura sakroiliako eta sakrokozigeoko lokadura
+S9490XD	zehaztugabeko nerbio bateko lesio traumatikoa, orkatila eta oina, hanka zehaztugabea, segidako harremana
+W550	kontaktua katuarekin
+Z810	intelektualen historia familiar
+K509	koronaren gaixotasuna, zehaztugabea
+K929	digestio-sistemako gaixotasuna, zehaztugabea
+S568	beste muskulu, faszia eta tendoi batzuetako lesio traumatikoa, besaurrea
+Q932	kromosoma, eraztuna, dizentrikoa edo isokromosomarekin ordezkatua
+W108	beste eskailera eta pauso batzuetatik erortzea
+W201	objektuak jota, eraikinaren kolapsoak sortua
+R801	proteinuria iraunkorra, zehaztugabea
+T535	klorokarbonen efektu toxikoak
+T670XXS	bero-trazu eta eguzkia, sekuela
+S760	aldakako muskulu, fasziako eta tendoiko lesio traumatiko
+Z673	AB motaren odola
+Z828	beste ezgaitasun eta gaixotasun kronikoetako historia familiarioa, desgaitzea eragindakoa, beste kontzeptu batean sailkatu gabea
+W102	erori (on)( from) inklinea
+T223	sorbaldako eta goiko gorputz-adarreko hirugarren mailako erredura, eskumuturra eta eskua
+Z802	beste arnas eta organo intratorazikoetako neoplasia gaiztoaren historia familiar
+T6594XA	zehaztugabeko substantzia baten efektu toxikoa, zehaztugabea, hasierako harremana
+Y655	prozedura okerraren errendimendua (operazioa)
+Y239	su artifizial handiago zehaztugabea, intentzio zehaztugabea
+T2027XD	lepoko bigarren mailako erredura, segidako harremana
+V263XXD	motozikleta batera igotzen edo hortik jaisten ari den lesionatutako pertsona, beste ibilgailu motorgabe batekin talka egiteagatik, segidako harremana
+M174	belauneko beste osteoartritis aldebiko sekundario batzuk
+R478	hizketaren beste nahasmendu batzuk
+T22332A	ezkerreko besoaren goialdeko hirugarren mailako erredura, hasierako harremana
+S609	eskumuturreko, eskuko eta hatzetako azaleko lesio traumatiko zehaztugabe
+Y835	gorputz-adarren anputazioa, pazientearen erreakzio anormalaren edo beranduago konplikazioaren kausa bezala, prozeduraren garaian zorigaiztoko abentura aipatu gabe
+S52399C	erradioaren diafisiko beste haustura batzuk, beso zehaztugabea, hasierako harremana IIIA, IIIB, edo IIIC motako haustura irekiagatik
+V587	kamioneta edo furgoneta baten kanpoan dagoen lesionatutako pertsona, trafiko-istripu batean lesionatutako pertsona
+K802	behazun-maskuriko kalkulua, kolezistitisrik gabe
+V685	garraio astuneko ibilgailuko lesionatutako gidaria, garraio-istripu batean trafiko-istripu batean
+T420	pozoidura, hidantoinaren deribatuen kontrako efektua eta infradosifikazioa
+O139	haurdunaldiak eragindako hipertentsioa, proteinuria esanguratsurik gabe, hiruhileko zehaztugabea
+W231	objektu geldikorren artean harrapatu, zapaldu, zapaldu, marraskatu edo harraskatua
+T411	pozoidura, anestesiko intrabenosoen kontrako efektua eta infradosifikazioa
+T23372S	ezkerreko eskumuturreko hirugarren mailako erredura, sekuela
+Z122	harremana arnas-organoetako neoplasia gaiztoa prestatzeko
+Z453	harremana zentzu berezien gailu inplantatuen doikuntza eta kudeaketarako
+N996	prozedura bat konplikatzen duen sistema genitourinarioko organo edo egiturako ebakuntza-barneko odoljarioa eta hematoma
+S5492XS	zehaztugabeko nerbio bateko lesio traumatikoa, besaurrea, ezkerreko besoa, sekuela
+Z559	hezkuntzarekin eta literaturarekin lotutako arazoak, zehaztugabea
+T24131D	eskuineko hankaren behealdeko lehen mailako erredura, segidako harremana
+V787	autobus baten kanpoan dagoen lesionatutako pertsona, trafiko-istripu batean lesionatutako pertsona
+Q069	orno-muineko sortzetiko malformazioa, zehaztugabea
+T339	beste eta zehaztugabeko leku batzuetako azaleko izozte
+T509	pozoidura, beste botika, medikamentu eta substantzia biologiko batzuen kontrako efektuak eta infradosifikazioak eragindakoa
+O329	amaren arreta, fetuaren aurkezpen txarra dela medio, zehaztugabea
+T438	pozoidura, beste botika psikotropikoen kontrako efektua eta infradosifikazioa
+Q422	uzkiko sortzetiko absentzia, atresia eta estenosia, fistularekin
+L579	larruazaleko aldaketak, erradiazio ez-ionizatzailearen eraginpean egoteak sortuak, zehaztugabea
+Z732	erlaxazio eta aisialdi falta
+Z315	harremana aholkularitza genetikoarentzat
+S62292D	lehen hezur metakarpianoko beste haustura batzuk, ezkerreko eskua, segidako harremana hausturaren errutinazko sendaketak direla medio
+T2125XA	ipurmasaileko bigarren mailako erredura, hasierako harremana
+T2122XS	abdomen-paretako bigarren mailako erredura, sekuela
+R978	beste tumore markatzaile anormal batzuk
+T490	pozoidura, ondare lokalaren kontrako efektuak eta inflamatorioen kontrako botikek eragindakoa
+T251	orkatilako eta oineko lehen mailako erredura
+T591	sufre dioxidoaren efektu toxiko
+X500	mugimendu indartsutik edo kargatzetik gehiago
+Z473	giltzadurako protesiaren esplikazio baten ondorengo arreta
+R802	proteinuria ortostatikoa, zehaztugabea
+W899	gizaki zehaztugabeak egindako argi ikusgai eta ultramore baten eraginpean egote
+T361	pozoidura, zefalosporinen eta beste antibiotiko betalaktamikoen kontrako efektuak eta infradosifikazioak eragindakoa
+K0820	ertz albeolar edentuloko atrofia zehaztugabe
+V0692XS	lesionatutako oinezkoa monopatinean, beste ibilgailu motorgabe batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, sekuela
+M219	gorputz-adarraren eta eskuko deformitate hartu zehaztugabe
+Y801	terapeutika (eskurgikoa) eta medikuntza fisiko errehabilitatiboa, kontrako intzidentziekin lotuak
+T523	glukoloen efektu toxikoak
+Z793	termino luzea (uneko) hormonalen kontrazeptiboen erabilpena
+Z691	harremana osasun mentaleko zerbitzuentzako ezkontide edo bazkide abusuen arazoak direla medio
+T373	pozoidura, protozoen kontrako beste botika batzuen kontrako efektua eta infradosifikazioa
+S430	sorbaldaren giltzadurako subluxazioa eta lokadura
+Y270	kontaktua lurrinarekin eta lurrun beroarekin, intentzio zehaztugabea
+K807	behazun-maskuriko eta behazun-hodiko kalkulua, kolezistitisrik gabe
+Z713	aholkularitza eta zaintza
+O600	erditzerik gabeko erditze-lanak
+S472	ezkerreko sorbaldako eta besoaren goialdeko zapaltze-lesio
+X063	beste arropa eta jantziak urtzearen eraginpean egote
+T630	suge pozoiaren efektu toxiko
+S687	eskuko anputazio traumatiko
+T23372A	ezkerreko eskumuturreko hirugarren mailako erredura, hasierako harremana
+P522	odoljario ez-traumatikoa, 3. maila eta 4. maila, jaioberri
+Q139	begiaren aurreko segmentuko sortzetiko malformazioa, zehaztugabea
+M708	ehun bigunetako beste nahasmendu batzuk, erabilerarekin, gehiegizko erabilerarekin eta presioarekin lotutakoak
+R140	distentsio abdominala (gaseoa)
+O294	anestesia espinala eta epidurala, haurdunaldian buruko mina sortua
+V0001XD	oinez doan lesionatutako pertsona, patina batekin talka egiteagatik, segidako harremana
+V862	trafiko-istripu batean lesionatutako pertsona, lur orotako ibilgailu edo beste ibilgailu motordun baten kanpoan dagoen
+X838	intentziozko auto-kaltea, zehaztutako beste baliabide batzuekin
+W278	kontaktua beste esku ez-potentziadun tresnarekin
+Y628	beste arreta kirurgiko eta mediko batzuetako prekauzio antzuren hutsegitea
+S390	abdomeneko muskulu, fasziako eta tendoiko lesio traumatikoa, bizkarreko eta pelbisekoa
+Z679	odol mota zehaztugabe
+T69021S	immertsio-oina, eskuineko oina, sekuela
+K718	gibeleko gaixotasun toxikoa, gibeleko beste nahasmendu batzuekin
+N131	hidronefrosia, ureterako estugunearekin, beste kontzeptu batean sailkatu gabea
+Y375	arma nuklearren eragiketa militarrak
+N402	prostata nodularra, gernubideko sintomarik gabe
+S52399K	erradioaren diafisiko beste haustura batzuk, beso zehaztugabea, segidako harremana haustura itxiaren kontsolidazio-falta dela medio
+N061	proteinuria isolatua, lesio fokala eta segmentalarekin
+P519	jaioberriaren odoljario ez-bizia, zehaztugabea
+Y836	beste organo (partzial) batzuk kentzea (partziala) gaixoaren erreakzio anormal gisa edo beranduago konplikazio baten kausa gisa, prozeduraren garaian zorigaiztoko abentura aipatu gabe
+Y623	injekzioan edo immunizazioan antzuak diren prekauzioen hutsegitea
+R502	botikek eragindako sukarra
+S039	buruko zati zehaztugabeetako giltzaduretako eta lotailuetako bihurritu
+W612	kontaktua beste psittacin batzuekin
+O243	haurdunaldian, erditzean eta erdiberriaroan existitzen den diabetes mellitus zehaztugabe
+S62102G	karpo-hezur zehaztugabearen haustura, ezkerreko eskumuturra, segidako harremana hausturaren finkapena atzeratu delako
+Y741	ospitale orokor eta erabilera pertsonaleko gailu terapeutikoak (normalik gabeko) eta errehabilitatzaileak, kontrako gertaerekin lotuak
+Z780	egoera menopausal asintomatiko
+Z712	azterketaren edo probaren aurkikuntzen azalpena kontsultatzen
+T63894S	beste animalia pozoitsu batzuekiko kontaktuaren efektu toxikoa, zehaztugabea, sekuela
+T277XXS	arnasbideetako higadura, zehaztugabeko zati batean, sekuela
+X020	sugarren eraginpean egotea, sute kontrolatuan eraikinean edo egituran
+X153	kontaktua saltsa-zabalera edo trebezia beroarekin
+Q920	kromosomaren trisomia osoa, ez-mosaizismoa (disjuntzio meiotikoa)
+Z437	harremana bagina artifizialari arreta jartzeko
+Z042	harremana laneko istripuaren ondoren azterketa eta behaketa egiteko
+N055	sindrome nefritiko zehaztugabea, mesangiokapilarreko glomerulonefritis hedatsuarekin
+Y920	ez instituzionala (pribatua) kanpoko kausaren gertaleku gisa
+T230	eskumuturreko eta eskuko gradu zehaztugabeko erredura
+Z023	harremana indar armatuekiko erreklutamendua aztertzeko
+Z731	A portaera eredua mota
+S26022A	bihotzeko urratu larria, hemoperikardioarekin, hasierako harremana
+R008	bihotzeko taupadako beste anormalitate batzuk
+T631	beste narrasti batzuen pozoiaren efektu toxiko
+T541	beste konposatu organiko korrosibo batzuen efektu toxiko
+Q410	duodenoko sortzetiko absentzia, atresia eta estenosi
+T709	aireko presioaren eta ur-presioaren efektua, zehaztugabea
+T414	pozoidura, anestesiko zehaztugabearen kontrako efektua eta infradosifikazioa
+Z150	neoplasia gaiztoaren suszeptibilitate genetikoa
+R918	biriketako eremuaren beste aurkikuntza anormal ez-espezifiko batzuk
+T528	beste disolbatzaile organiko batzuen efektu toxikoak
+W561	kontaktua itsas lehoiarekin
+Z685	gorputz masaren indizea (BMI) pediatria
+S460	sorbaldako birakariaren eskuko muskulu eta tendoiko lesio traumatiko
+T563	kadmioko eta bere konposatuen efektu toxikoak
+W308	kontaktua beste nekazaritza-makina zehatz batzuekin
+K928	digestio-sistemako beste gaixotasun zehatz batzuk
+N024	hematuria errepikatu eta iraunkorra, glomerulonefritis endokapilar hedatsuarekin
+S170	laringeko eta trakeako zapaltze-lesio
+Z435	harremana kistostomiari arreta jartzeko
+Y232	su-arma militarraren tiroa, intentzio zehaztugabea
+T311	10-19 bitarteko erredurak
+O341	amaren arreta, umetoki corpuseko tumore onbera dela medio
+K834	Oddi-ren esfinterreko espasmo
+V193	trafikokoa ez den istripu batean lesionatutako txirrindularia (gidaria) (bidaiaria)
+V843	trafiko-istripu batean lesionatutako nekazaritzako ibilgailu bereziko okupatzaile zehaztugabe
+T22332S	ezkerreko besoaren goialdeko hirugarren mailako erredura, sekuela
+T592	formaldehidoaren efektu toxiko
+T434	pozoidura, butirofenonaren eta tiotixenoaren neuroleptikoen kontrako efektua eta infradosifikazioa
+Y780	gailu erradiologikoak diagnostiko eta monitorizatzea, kontrako intzidentziekin lotuak
+R859	digestio-organoetako eta barrunbe abdominaleko laginetan aurkikuntza anormal zehaztugabe
+M973	haustura periprostetikoa barneko sorbalda protetikoko giltzaduraren inguruan
+O248	beste diabetes mellitus pre-existente batzuk haurdunaldian, erditzean eta erdiberriaroan
+M248	giltzaduretako beste dislokazio espezifiko batzuk, beste kontzeptu batean sailkatu gabeak
+Z038	harremana susmatutako beste gaixotasun eta baldintza batzuen behaketarako
+X969	erasoa, lehergailu zehaztugabeek sortua
+S240	orno-muin torazikoko konkusioa eta edema
+V143XXD	bizikleta batera igotzen edo hortik jaisten ari den lesionatutako pertsona, garraio astuneko ibilgailu edo autobus batekin talka egiteagatik, segidako harremana
+Y781	tratamendu terapeutikoa (ez kirurgikoa) eta gailu erradiologiko errehabilitatiboak, kontrako intzidentziekin lotuak
+Q429	heste lodiko sortzetiko absentzia, atresia eta estenosia, zati zehaztugabea
+W940	presio altu luzatuaren eraginpean egote
+T858	barne-protesien, inplanteen eta mentuen beste konplikazio zehatz batzuk, beste kontzeptu batean sailkatu gabeak
+V499	zehaztugabeko trafiko-istripu batean lesionatutako auto-okupatzailea (gidaria)
+M719	burtsopatia, zehaztugabea
+N909	bulbako eta perineoko nahasmendu ez-inflamatorioa, zehaztugabea
+S308	abdomeneko, bizkarraren behealdeko, pelbiseko eta kanpoko genitaletako azaleko beste lesio traumatiko batzuk
+T448	pozoidura, agente blokeatzaile neuronal eta eragile zentralen kontrako efektuak eta infradosifikazioak eragindakoa
+S5420XA	nerbio erradialeko lesio traumatikoa, besaurrea, beso zehaztugabea, hasierako harremana
+W309	kontaktua nekazaritzako makineria zehaztugabearekin
+T404	pozoidura, beste narkotiko sintetiko batzuen kontrako efektua eta infradosifikazioa
+N719	umetokiko gaixotasun inflamatorioa, zehaztugabea
+R627	hutsegite heldua irabazteko
+T600	organofosfatoen eta karbamatoen insekzioen efektu toxiko
+Q900	trisomia 21, ez-mosaizismoa (disjuntzio meiotikoa)
+X830	intentziozko auto-kaltea, aireontziaren kraskatuz
+M845	haustura patologikoa gaixotasun neoplasikoetan
+P589	jaioberriaren ikterizia, gehiegizko hemolisiak sortua, zehaztugabea
+V887	lesionatutako pertsona, beste ibilgailu motordun zehatz baten artean talka egiteagatik, trafikokoa ez den istripua
+L979	hankaren behealdeko zati zehaztugabearen presiorik gabeko ultzera kroniko
+V949	ur garraio-istripu zehaztugabe
+S242	bizkarrezur torazikoko nerbio-sustraiko lesio traumatiko
+T838	protesta genitourinarioen, inplanteen eta mentuen beste konplikazio zehatz batzuk
+T2013XS	kokotseko lehen mailako erredura, sekuela
+Y843	shock terapia pazientearen erreakzio anormalaren edo beranduago konplikazioaren kausa bezala, prozeduraren garaian ezbeharraren aipamenik egin gabe
+O048	haurdunaldiaren baja, beste eta zehaztugabeko konplikazio batzuekin
+Y810	diagnostikoa eta monitorizazioa kontrako gertaerekin lotutako kirurgia orokor eta plastikoko gailuak
+Z934	traktu gastrointestinalaren beste irekidura artifizial batzuk
+T588	karbono monoxidoaren efektu toxikoa, beste iturburu batzuetatik
+T22112A	ezkerreko besaurreko lehen mailako erredura, hasierako harremana
+Q375	ezkerreko ahosabai gogor eta biguna, alde bakarreko ezpainarekin
+V487	auto baten kanpoan dagoen lesionatutako pertsona, trafiko-istripu batean lesionatutako pertsona
+S150	lepoko arteria karotidako lesio traumatiko
+Y93I	erromeroen kostaldeei eta kanpoko mugimenduari dagozkien jarduerak
+K917	digestio-organo edo egiturako istripuzko ziztada eta urradura
+W930	izotz lehorraren kontaktua edo inhalazioarekin
+X110	kontaktua bainuko edo hodiko ur beroarekin
+S62101P	karpo-hezur zehaztugabearen haustura, eskuineko eskumuturra, segidako harremana hausturaren batura txarra dela medio
+S019	buruko zati zehaztugabearen zauri ireki
+T227	sorbaldako eta goiko gorputz-adarreko hirugarren mailako higadura, eskumuturra eta eskua
+Q710	goiko gorputz-adarraren sortzetiko absentzia oso
+T481	muskulu-eskeleto-erlaxatzaileek eragindako pozoidura, kontrako efektua eta infradosifikazioa
+Q253	estenosi aortiko gorakorra
+T262	betazaleko haustura eta suntsipenarekin erredura
+M672	hipertrofia sinobiala, beste kontzeptu batean sailkatu gabea
+T69022D	immertsio-oina, ezkerreko oina, segidako harremana
+T393	pozoidura, inflamatorioaren kontrako beste botika ez-steroidalen kontrako efektuak eta infradosifikazioak eragindakoa
+O135	haurdunaldiak eragindako hipertentsioa, proteinuria esanguratsurik gabe, erdiberriaroa konplikatuz
+S328	pelbiseko beste zati batzuetako haustura
+T24222A	ezkerreko belauneko bigarren mailako erredura, hasierako harremana
+Z391	harremana ama lactating-a zaintzeko eta aztertzeko
+Y926	industria eta eraikuntza eremua, kanpoko kausaren gertaleku gisa
+W272	kontaktua artaziekin
+Z114	harremana giza immunodefizientzia birusaren bilaketarako [HIV]
+Y075	famili kidea, tratu txarreko eta bazterreko tratamenduko interpretatzailea
+X831	intentziozko auto-kaltea, elektrokuzioaren arabera
+Z439	harremana irekitze artifizial zehaztugabeari arreta emateko
+S5892	besaurreko anputazio traumatiko partziala, zehaztugabea
+K868	pankreako beste gaixotasun zehatz batzuk
+N054	sindrome nefritiko zehaztugabea, glomerulonefritis endokapilar hedatsuarekin
+Y272	kontaktua fluido beroekin, intentzio zehaztugabea
+O046	haurdunaldiaren bajak eragindako edo gehiegizko odoljarioa atzeratua
+M498	espondilopatia beste kontzeptu baten azpian sailkatutako gaixotasunetan
+W268	kontaktua beste objektu zorrotz batzuekin, beste kontzeptu batean sailkatu gabea
+Z128	harremana beste leku batzuetako neoplasia gaiztoaren prestakuntzarako
+W619	kontaktua beste txori batzuekin
+W362	aireko tankeko leherketa eta haustura
+S298	toraxeko beste lesio traumatiko zehatz batzuk
+Z701	pazientearen portaera sexualarekin eta orientazioarekin lotutako aholkularitza
+S869	muskulu eta tendoi zehaztugabearen lesio traumatikoa, hankaren behealdea
+S620	eskumuturreko hezur nabikularreko haustura
+P229	jaioberriaren arnas-distrea, zehaztugabea
+T25122A	ezkerreko oineko lehen mailako erredura, hasierako harremana
+S139	lepoko zati zehaztugabeetako giltzaduretako eta lotailuetako bihurritu
+S623	beste eta zehaztugabeko hezur metakarpiano bateko haustura
+Z711	osasun-kexaren beldur den pertsona, diagnostikorik ez duena
+W461	kontaktua orratz hipodermiko kutsatuarekin
+S960	behatz lodiko muskulu eta tendoiko lesio traumatikoa, orkatila eta oina
+S925	behatz txikiko haustura
+N012	sindrome nefritiko azkar progresiboa, mintz glomerulonefritis hedatsuarekin
+Y808	medikuntza miszelaneoko gailuak, kontrako gertaerekin lotuak, beste kontzeptu batean sailkatu gabeak
+K628	uzkiko eta ondesteko beste gaixotasun zehatz batzuk
+P559	jaioberriaren gaixotasun hemolitikoa, zehaztugabea
+N010	sindrome nefritiko azkar progresiboa anormaltasun glomerular txikiarekin
+Z791	termino luzea (gaur egungo) anti-inflamatorioen erabilera (NSAID)
+V483	trafikokoa ez den istripu batean lesionatutako auto-okupatzaile zehaztugabe
+S399	abdomeneko, bizkarraren behealdeko eta kanpoko genitaletako lesio traumatiko zehaztugabe
+O710	umetokiko haustura, laborea hasi aurretik
+Z482	harremana organo-transplante baten ondoren zainketa egiteko
+S902	behatz bateko kontusioa, iltzeak eragindako kaltearekin
+V182	trafikokoa ez den istripu batean lesionatutako txirrindulari zehaztugabe
+V861	trafiko-istripu batean lesionatutako tren bereziko edo bidetik kanpoko ibilgailu motordun bateko bidaiari
+R848	beste aurkikuntza anormal batzuk arnas-organoetako eta toraxeko laginetan
+P746	jaioberriaren hiperamonemia iragankorra
+Z300	harremana aholkularitza orokorra eta aholkularitza orokorra kontrazepzioan
+K638	hesteetako beste gaixotasun zehatz batzuk
+O9A4	abusu sexuala, haurdunaldia, erditzea eta erdiberriaroa konplikatzen dituenak
+S55901S	zehaztugabeko odol-hodi bateko lesio traumatiko zehaztugabea, besaurrea, eskuineko besoa, sekuela
+K950	banda gastrikoaren prozeduraren konplikazioak
+T189XXD	larruazaleko gorputz arrotza, zehaztugabeko zati batean, segidako harremana
+Z892	eskumuturraren goialdeko gorputz-adarraren absentzia hartu
+Z998	beste makinak eta gailuak gaitzeko mendekotasuna
+Y212	itotzea eta urperatzea igerilekuan, asmo zehaztugabea
+Y778	gailu oftalmiko miszelaneoak, kontrako gertaerekin lotuak, beste kontzeptu batean sailkatu gabeak
+Z759	medikuntzako instalazio eta beste osasun-arreta batzuekin lotutako arazo zehaztugabe
+S26022S	bihotzeko urratu larria, hemoperikardioarekin, sekuela
+T276XXS	arnasbideetako beste zati batzuetako higadura, sekuela
+T2660XD	korneako eta konjuntibako zakuko higadura, begi zehaztugabea, segidako harremana
+P381	onfalitisa, odoljario arinarekin
+X982	erasoa, fluido beroen arabera
+S948X2A	beste nerbio batzuetako lesio traumatikoa, orkatila eta oina, ezkerreko hanka, hasierako harremana
+N052	sindrome nefritiko zehaztugabea, mintz glomerulonefritis hedatsuarekin
+Z323	harremana haurtzaindegirako
+V943	beste ur-ontzi baten atzetik tiraka egiteagatiko zaldizko-lesio traumatiko
+R971	minbiziaren antigeno altua 125 [CA 125]
+Z714	alkoholaren abusua aholkularitza eta zaintza
+Y650	odol nahasia transfusioan
+Y93K	animalien arretari dagozkion jarduerak
+S119	lepoko zati zehaztugabearen zauri ireki
+W898	beste gizaki batek egindako argi ikusgai eta ultramore baten eraginpean egote
+K720	hutsegite hepatiko akutu eta azpiakutu
+S099	aurpegiko eta buruko lesio traumatiko zehaztugabe
+N076	nefropatia hereditarioa, beste kontzeptu batean sailkatu gabea, gordailu dentsoaren gaixotasunarekin
+X781	intentziozko auto-kaltea, labanarekin
+Q718	goiko gorputz-adarraren beste murrizketa-akats batzuk
+S62291A	lehen hezur metakarpianoko beste haustura batzuk, eskuineko eskua, hasierako harremana haustura itxiagatik
+S663	muskulu estentsoreko lesio traumatikoa, faszia eta tendoia, beste eta zehaztugabeko hatz batekoa, eskumuturra eta eskua
+T204	buru, aurpegi eta lepoko gradu zehaztugabeko higadura
+P619	jaioberriaren nahasmendu hematologikoa, zehaztugabea
+S313	eskrotoko eta probetako zauri ireki
+O088	beste konplikazio batzuk, haurdunaldi ektopiko eta molar baten ondorioz
+K522	alergia eta gastroenteritis eta kolitis dietikoa
+R839	emaitza anormal zehaztugabea, fluido zerebrospinalean
+T534	diklorometanoko efektu toxiko
+Y762	protesiak eta beste inplante batzuk, materialak eta gailu obstetriko eta ginekologikoak, kontrako intzidentziekin lotuak
+Y839	prozedura kirurgikoa, pazientearen erreakzio anormalaren edo beranduagoko konplikazioaren arrazoi bezala zehaztugabea, prozeduraren garaian ezbeharraren aipamenik egin gabe
+S569	muskulu, faszia eta tendoi zehaztugabeetako lesio traumatikoa, besaurrea
+S52392A	erradioaren diafisiko beste haustura batzuk, ezkerreko besoa, hasierako harremana haustura itxiagatik
+S52392B	erradioaren diafisiko beste haustura batzuk, ezkerreko besoa, hasierako harremana I edo II motako haustura irekiagatik
+Z130	harremana odol-organo eta organo odol-sortzaileen gaixotasunen bilaketarako eta mekanismo immunologikoari dagozkion zenbait nahasmendurengatik
+Y030	erasoa, ibilgailu motordun batek jo edo kontrolatuta
+O093	haurdunaldiaren gainbegiratzea, sortzetiko zainketa ez nahikoarekin
+X111	kontaktua ur beroa exekutatzen ari denarekin
+Z602	bakarrik bizitzearekin lotutako arazoak
+S5431XA	nerbio sentsorialeko lesio traumatikoa, besaurrea, eskuineko besoa, hasierako harremana
+S58012A	erabateko anputazio traumatikoa, ukondoa, ezkerreko besoa, hasierako harremana
+Z461	harremana entzumen-laguntza egokitzeko eta doitzeko
+Q239	balbula aortiko eta mitralen sortzetiko malformazioa, zehaztugabea
+Y798	gailu ortopedikoak kontrako gertaerekin lotuak, beste kontzeptu batean sailkatu gabeak
+S55809D	beste odol-hodi batzuetako lesio traumatiko zehaztugabea, besaurrea, beso zehaztugabea, segidako harremana
+S309	abdomeneko, bizkarraren behealdeko eta kanpoko genitaletako azaleko lesio traumatiko zehaztugabe
+S118	lepoko beste zati zehatz batzuetako zauri ireki
+X968	erasoa, beste lehergailu zehatz batek eragindako
+Z682	gorputz masaren indizea (BMI) 20-29, heldua
+X948	beste su-arma-diskarga handiago batek erasoa
+T385	pozoidura, beste estrogeno eta progestageno batzuen kontrako efektua eta infradosifikazioa
+Y742	protesiak eta bestelako inplanteak, materialak eta ospitale orokorra eta erabilera pertsonaleko gailuak, kontrako gertaerekin lotuak
+K521	gastroenteritis eta kolitis toxiko
+S948X2D	beste nerbio batzuetako lesio traumatikoa, orkatila eta oina, ezkerreko hanka, segidako harremana
+W501	beste pertsona batek istripuzko ostikoa
+T387	pozoidura, androgenoen eta kide anabolikoen kontrako efektua eta infradosifikazioa
+T2033XD	kokotseko hirugarren mailako erredura, segidako harremana
+T389	pozoidura, beste eta zehaztugabeko hormona-antagonista batzuen kontrako efektua eta infradosifikazioa
+W131	zubitik edo zubitik erortzen
+Z003	harremana nerabezaroko garapen-egoera aztertzeko
+T25212S	ezkerreko orkatilako bigarren mailako erredura, sekuela
+N419	prostatako gaixotasun inflamatorioa, zehaztugabea
+T23371A	eskuineko eskumuturreko hirugarren mailako erredura, hasierako harremana
+R069	arnasa hartzeko anormaltasun zehaztugabe
+Q779	osteokondrodisplasia, hezur tubularren eta bizkarrezurraren hazkundeko akatsekin, zehaztugabea
+S989	oineko anputazio traumatikoa, zehaztugabea
+T333	abdomen-paretako azaleko izoztea, atzeko eta pelbisekoa
+Y371	hegazkin-ontziaren suntsipena eragiten duten eragiketa militarrak
+V280	trafikokoa ez den istripu batean lesionatutako motorzalea.
+T850	trakranial bentrikularraren (komunikazioa) konplikazio mekaniko
+N521	disfuntzioa, beste kontzeptu baten azpian sailkatutako gaixotasunek sortua
+T69012D	immertsio-eskua, ezkerreko eskua, segidako harremana
+Y924	kalea, errepidea eta beste errepide lausotu batzuk kanpoko kausaren leku gisa
+W890	arku soldatzailearen eraginpean egote
+N071	nefropatia hereditarioa, beste kontzeptu batean sailkatu gabea, lesio fokal eta segmentalekin sailkatua
+K853	botikek eragindako pankreatitis akutu
+V584	kamioneta edo furgoneta batera igotzen edo hortik jaisten ari den lesionatutako pertsona, trafikoko garraio-istripu batean
+X778	intentziozko auto-kaltea, beste objektu beroek sortua
+Z059	jaioberriaren behaketa eta ebaluazioa susmagarri zehaztugabeko egoera batentzako
+T1591XD	gorputz arrotza begiaren kanpoaldean, zehaztugabeko zati batean, eskuineko begia, segidako harremana
+O445	plazenta baxua, odoljarioarekin
+K759	gibeleko gaixotasun inflamatorioa, zehaztugabea
+X100	kontaktua edari beroekin
+S52399P	erradioaren diafisiko beste haustura batzuk, beso zehaztugabea, segidako harremana haustura itxiaren batura txarra dela medio
+V0190XD	oinez doan lesionatutako pertsona, bizikleta batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, segidako harremana
+R843	substantzien maila anormala, nagusiki ez-medikuntzakoa, arnas-organoetako eta toraxeko espezimenetan iturburu izateko
+R888	emaitza anormalak beste gorputz-fluido eta substantzia batzuetan
+Q939	autosometatik ezabatzea, zehaztugabea
+T439	pozoidura, botika psikotropiko zehaztugabearen kontrako efektua eta infradosifikazioa
+T2661XA	korneako eta konjuntibako zakuko higadura, eskuineko begia, hasierako harremana
+Z493	harremana dialisirako egokitasun-proba egiteko
+K806	behazun-maskuriko eta behazun-hodiko kalkulua, kolezistitisarekin
+T202	buruko bigarren mailako erredura, aurpegia eta lepoa
+X950	erasoa, gasa, airea edo udaberriko armak erabilita
+O169	amaren hipertentsio zehaztugabea, hiruhileko zehaztugabea
+W888	beste erradiazio ionizatzaile baten eraginpean egote
+N009	sindrome nefritiko akutua, aldaketa morfologiko zehaztugabeekin
+Z859	neoplasia gaiztoaren historia pertsonala, zehaztugabea
+K668	peritoneoko beste nahasmendu zehatz batzuk
+M602	ehun biguneko gorputz arrotza, beste kontzeptu batean sailkatu gabea
+T24311S	eskuineko izterreko hirugarren mailako erredura, sekuela
+W133	lurretik erortzen
+O164	amaren hipertentsio zehaztugabea, erditzea konplikatzen duena
+Q420	ondesteko sortzetiko absentzia, atresia eta estenosia, fistularekin
+T648	beste elikagai mikotoxina kutsatzaile batzuen efektu toxiko
+S55201A	bena bateko lesio traumatiko zehaztugabea, besaurrea, eskuineko besoa, hasierako harremana
+S62292G	lehen hezur metakarpianoko beste haustura batzuk, ezkerreko eskua, segidako harremana hausturaren finkapena atzeratu delako
+X921	erasoa, igerilekuan itoz eta urperatzeaz
+T402	pozoidura, beste opioide batzuen kontrako efektua eta infradosifikazioa
+V199	zehaztugabeko trafiko-istripu batean lesionatutako txirrindularia (gidaria) (bidaiaria)
+P529	jaioberriaren barreneko odoljario ez-traumatikoa, zehaztugabea
+Z293	harremana fluorido profilatikoaren administrazioarentzat
+Z563	estresazko lan- programaName
+T822	arteria koronarioaren bypass mentuko eta bihotzeko balbula biologikoaren konplikazio mekaniko
+O229	haurdunaldian konplikazio benosoa, zehaztugabea
+M456	espondilitis ankilosatzailea, gerrialdea
+Y743	instrumentu kirurgikoak, materialak eta ospitale orokorra eta erabilera pertsonaleko gailuak (suturak barne) kontrako gertaerekin lotuak
+R890	beste organo, sistema eta ehunetako entzimen-maila anormal
+V143XXA	bizikleta batera igotzen edo hortik jaisten ari den lesionatutako pertsona, garraio astuneko ibilgailu edo autobus batekin talka egiteagatik, hasierako harremana
+T859	barruko protesia-gailuaren konplikazio zehaztugabea, inplantea eta mentua
+Z412	harremana gizonezko zirkuntzisio errutinala eta erritualagatik
+S5432XS	nerbio sentsorialeko lesio traumatikoa, besaurrea, ezkerreko besoa, sekuela
+S592	erradioaren beheko muturreko haustura fisiko
+T670XXA	bero-trazu eta eguzkia, hasierako harremana
+T604	errodentiziden efektu toxiko
+T610	arrainak eragindako pozoitzea
+T491	pozoidura, antipruritikoen kontrako efektua eta infradosifikazioa
+R846	emaitza zitologiko anormalak arnas organoetako eta toraxeko laginetan
+S204	toraxeko atzeko paretako beste eta zehaztugabeko azaleko lesio traumatiko batzuk
+Z655	Hondamendi, gerraren eta beste etsaitasunen eraginpean egote
+V684	garraio astuneko ibilgailu batera igotzen edo hortik jaisten ari den lesionatutako pertsona, garraio-istripu batean
+Z430	harremana trakeostomiari arreta jartzeko
+N262	orrialdeko giltzurruna
+Z454	harremana nerbio-sistema inplantatutako gailua doitzeko eta kudeatzeko
+R530	neoplasikoa (gaiztoa) lotutako nekearekin
+T782XXA	shock anafilaktikoa, zehaztugabea, hasierako harremana
+T69021D	immertsio-oina, eskuineko oina, segidako harremana
+S52392R	erradioaren diafisiko beste haustura batzuk, ezkerreko besoa, segidako harremana IIIA, IIIB, edo IIIC motako haustura irekiaren batura txarra dela medio
+S893	peroneko beheko muturreko haustura fisiko
+T22321D	eskuineko ukondoko hirugarren mailako erredura, segidako harremana
+K801	behazun-maskuriko kalkulua, beste kolezistitis batzuekin
+W139	eraikinetik edo eraikinetik erortzea, beste kontzeptu batean zehaztu gabea
+M434	beste lokadura atlantoaxial errepikatu batzuk
+N042	sindrome nefrotikoa, mintz glomerulonefritis hedatsuarekin
+W261	kontaktua ezpatarekin edo sastakaiarekin
+S58021A	anputazio traumatiko partziala, ukondoa, eskuineko besoa, hasierako harremana
+Z441	harremana hanka artifiziala doitzeko eta doitzeko
+Z623	umearen etsaitasuna eta eskapegotazioa
+T2662XS	korneako eta konjuntibako zakuko higadura, ezkerreko begia, sekuela
+T503	pozoidura, elektrolitikoa, kalorikoa eta uraren balantzearen agenteen kontrako efektuak eta infradosifikazioak eragindakoa
+X361	abalanche, lurrezurra edo lokatza
+W490	kanpoko konstrikzioa sortzen
+V978	beste aire garraio-istripu batzuk, beste kontzeptu batean sailkatu gabeak
+M847	haustura ez-traumatikoa, beste kontzeptu batean sailkatu gabea
+R845	emaitza mikrobiologiko anormalak arnas organoetako eta toraxeko laginetan
+O045	tratu genitala eta pelbiseko infekzioa, haurdunaldiaren bajak eragindakoa
+M261	barailako kranial oinarriko erlazioen anomaliak
+T268	begiko eta anexuetako beste zati zehatz batzuetako higadurak
+R799	odoleko kimikaren aurkikuntza anormala, zehaztugabea
+S62299B	lehen hezur metakarpianoko beste haustura batzuk, esku zehaztugabea, hasierako harremana haustura irekiagatik
+T2013XA	kokotseko lehen mailako erredura, hasierako harremana
+M1A1	berunak eragindako hezueri kroniko
+L959	baskulitisa, larruazalera mugatua, zehaztugabea
+N031	sindrome nefritiko kronikoa, lesio fokal eta segmental glomerularrekin
+S948X9D	beste nerbio batzuetako lesio traumatikoa, orkatila eta oina, hanka zehaztugabea, segidako harremana
+Z771	kontaktua ingurumenaren kutsadura eta arriskuren eraginpean egotearekin eta (susmagarria) ingurumen fisikoan
+X959	erasoa, su-arma-diskarga zehaztugabeek sortua
+Z770	kontaktua arriskutsuarekin eta (susmatua) esposizioarekin, nagusiki ez medikuntzarekin, kimikoekin
+W290	kontaktua sukalde-eremuarekin
+T489	pozoidura, nagusiki arnas aparatuan eragiten duten beste eta zehaztugabeko agente batzuen kontrako efektua eta infradosifikazioa
+V864	lurralde osoko ibilgailu berezi batera igotzen edo hortik jaisten ari den bitartean lesionatutako pertsona
+O163	amaren hipertentsio zehaztugabea, hirugarren hiruhilekoa
+Z291	harremana immunoterapia profilatikoarentzat
+M059	artritis erreumatoidea, faktore erreumatoidearekin, zehaztugabea
+V683	garraio astuneko ibilgailuko lesionatutako okupatzaile zehaztugabea, garraio-istripu batean trafikokoa ez den istripu batean
+S58029D	anputazio traumatiko partziala, ukondoa, beso zehaztugabea, segidako harremana
+S62202G	lehen hezur metakarpianoko haustura zehaztugabea, ezkerreko eskua, segidako harremana hausturaren finkapena atzeratu delako
+N038	sindrome nefritiko kronikoa, beste aldaketa morfologiko batzuekin
+N992	baginako prozedura-osteko atxikidurak
+T653	bentzenako eta bere homologoen efektu nitroderibatuen eta aminoderibatuen efektu toxiko
+Y230	shotbol-karga, intentzio zehaztugabea
+S863	muskuluen eta tendoien lesio traumatikoa, hankaren behealdea
+N005	sindrome nefritiko akutua, mesangiokapilarreko glomerulonefritis hedatsuarekin
+S58021D	anputazio traumatiko partziala, ukondoa, eskuineko besoa, segidako harremana
+M057	artritis erreumatoidea, organorik edo sistemarik gabeko faktore erreumatoidearekin
+Y620	eragiketa kirurgikoa bitarteko prekauzio antzuren hutsegitea
+Q559	gizonezkoen organo genitaleko sortzetiko malformazioa, zehaztugabea
+O162	amaren hipertentsio zehaztugabea, bigarren hiruhilekoa
+T244	beheko gorputz-adarreko gradu zehaztugabeko higadura, orkatila eta oina
+S108	lepoko beste zati zehatz batzuetako azaleko lesio traumatiko
+R844	emaitza immunologiko anormalak arnas organoetako eta toraxeko laginetan
+X710	intentziozko auto-kaltea, auto-itotzearen eta urperatzearen bidez, bainuontzian
+Z443	harremana kanpoko bularreko protesia egokitzeko eta doitzeko
+W902	erradiazio laserraren eraginpean egote
+L929	larruazaleko eta larruazaleko ehuneko nahasmendu granulomatosoa, zehaztugabea
+T255	orkatilako eta oineko lehen mailako higadura
+Y828	beste gailu mediko batzuk, kontrako intzidentziekin lotuak
+Z115	harremana beste gaixotasun biriko batzuen bilaketarako
+O704	erditze konplikatzailea, hirugarren mailako urratu batekin lotu gabea
+T817	prozedura baten ondoriozko konplikazio baskularrak, beste kontzeptu batean sailkatu gabeak
+Z460	harremana betaurrekoen eta kontaktuen lenteen doiketa eta doiketarako
+T24221A	eskuineko belauneko bigarren mailako erredura, hasierako harremana
+W499	beste indar mekaniko bizigabe batzuen eraginpean egote
+T868	transplantatutako beste organo eta ehunetako konplikazioak
+S402	sorbaldako azaleko beste lesio traumatiko batzuk
+V281	trafikokoa ez den istripu batean lesionatutako motozikleta-bidaiaria.
+W132	teilatutik edo teilatutik erortzen
+Y93G	elikagaien prestakuntza, sukaldaritza eta erretenak eragindako jarduerak
+Z465	harremana beste esplorazio gastrointestinal eta gailu bat egokitzeko eta doitzeko
+X780	intentziozko auto-kaltea, beira zorrotzarekin
+Q655	aldakako sortzetiko lokadura partziala, zehaztugabea
+X713	intentziozko auto-kaltea, itotzea eta urperatzea ur naturalean
+T788XXD	beste kontrako efektu batzuk, beste kontzeptu batean sailkatu gabea, segidako harremana
+Z629	arazoa berpiztearekin lotua, zehaztugabea
+P501	umetoki-barneko odol-galerak afektatutako jaioberri
+Y624	azterketa endoskopikoan prekauzio antzuren hutsegitea
+Z119	harremana gaixotasun infekziosoak eta parasitoak bilatzeko, zehaztugabea
+W901	erradiazio infragorriaren eraginpean egote
+Q914	trisomia 13, ez-mosaizismoa (disjuntzio meiotikoa)
+L879	eliminazio transepidermikoaren nahasmendua, zehaztugabea
+P119	nerbio-sistema zentraleko jaiotzako lesio traumatikoa, zehaztugabea
+V784	autobus batera igotzen edo hortik jaisten ari den lesionatutako pertsona, trafikoko garraio-istripu batean
+L984	larruazaleko presiorik gabeko ultzera kronikoa, beste kontzeptu batean sailkatu gabea
+R049	arnasbideetako odoljarioa, zehaztugabea
+T22352D	ezkerreko sorbaldako hirugarren mailako erredura, segidako harremana
+W171	ekaitz-erauntsia edo manoloa
+Z112	harremana bakterio-gaixotasun batzuk prestatzeko
+T24332D	ezkerreko hankaren behealdeko hirugarren mailako erredura, segidako harremana
+N509	gizonezkoen organo genitaletako nahasmendua, zehaztugabea
+Z028	harremana beste administrazio-azterketa batzuetarako
+T602	beste intsektizida batzuen efektu toxiko
+N014	sindrome nefritiko azkar progresiboa, glomerulonefritis endokapilar hedatsuarekin
+O082	haurdunaldi ektopikoaren eta molarraren ondorengo enbolismoa
+Y93C	Informatika-teknologiari eta gailu elektronikoei dagozkien jarduerak
+O882	tronboebolismo obstetrikoa
+V481	trafikokoa ez den istripu batean lesionatutako auto-bidaiari
+Z025	harremana kirolean parte hartzeko azterketa egiteko
+K433	hernia parastomala, buxadurarekin, gangrenarik gabe
+T2134XA	bizkarraren behealdeko hirugarren mailako erredura, hasierako harremana
+T409	pozoidura, beste eta zehaztugabeko psikodisleptiko batzuen kontrako efektuak eta infradosifikazioak eragindakoa
+M041	sukar periodikoaren sindromeak
+P500	vasa previak eragindako odol-galerak afektatutako jaioberri
+S613	beste hatz bateko zauri irekia, iltzeak eragindako kaltearekin
+T23271S	eskuineko eskumuturreko bigarren mailako erredura, sekuela
+P240	meconium aspirazioa
+T50B	pozoidura, txerto birikoen kontrako efektua eta infradosifikazioa
+R939	irudi diagnostikoa, gorputzeko gehiegizko gantzak eragindakoa
+T1590XS	gorputz arrotza begiaren kanpoaldean, zehaztugabeko zati batean, begi zehaztugabea, sekuela
+Z318	harremana beste kudeaketa prokretibo batentzat
+Q929	autosometako trisomia eta trisomia partziala, zehaztugabea
+T22312S	ezkerreko besaurreko hirugarren mailako erredura, sekuela
+S383	abdomeneko transekzioa (partziala)
+O323	amaren arreta, aurpegia, bekaina eta kokotsaren aurkezpena dela medio
+T849	barruko protesi-gailu ortopedikoaren konplikazio zehaztugabea, inplantea eta mentua
+S213	toraxeko aurreko hormako zauri irekia, barrunbe torazikoan sartuta
+Y928	beste leku batzuk, kanpoko kausaren agerpen leku gisa
+T853	beste gailu protestiko okular, inplante eta mentu batzuen konplikazio mekaniko
+Z566	lanarekin lotutako beste tren fisiko eta mental batzuk
+T327	70-79 arteko higadurak
+T276XXA	arnasbideetako beste zati batzuetako higadura, hasierako harremana
+X398	naturaren indarren beste eraginpean egote
+N171	giltzurruneko hutsegite akutua, nekrosi kortiko akutuarekin
+T22311S	eskuineko besaurreko hirugarren mailako erredura, sekuela
+M265	dentofazialeko anormalitate funtzionalak
+T593	mas lakrimogenikoaren efektu toxiko
+Z511	harremana kimoterapia antineoplasikoaren eta immunoeterapiarentzat
+T532	trikloroetilenoko efektu toxiko
+T578	beste substantzia ez-organiko zehatz batzuen efektu toxiko
+Y93B	muskuluak indartzeko beste ariketa batzuk daramatzaten jarduerak
+P051	jaioberria adin gestazionalerako
+S58012D	erabateko anputazio traumatikoa, ukondoa, ezkerreko besoa, segidako harremana
+N051	sindrome nefritiko zehaztugabea, lesio fokala eta segmentalarekin
+Z044	harremana ustezko bortxaketaren ondoren azterketa eta behaketa egiteko
+W868	beste korronte elektriko baten eraginpean egote
+W164	ur zehaztugabearen erortzea
+Y713	tresna kirurgikoak, materialak eta gailu kardiobaskularrak (suturak barne) kontrako istripuekin lotuak
+R880	laino (hemodialisia) (peritoneoa) dialisi efektua (peritoneala)
+Z388	jaiotza anizkoitzeko beste haur batzuk, jaiotzako toki zehaztugabea
+P399	jaioberriaren infekzio espezifikoa, zehaztugabea
+T468	botika antibarikosoen kontrako efektuak eta infradosifikazioak eragindako pozoidura, agente esklerosoak barne
+L973	orkatilako presiorik gabeko ultzera kroniko
+T312	20-29 bitarteko erredurak
+T608	beste pestizide batzuen efektu toxiko
+W504	beste pertsona batek istripuzko harraska
+T829	kardiako eta protesia baskularraren konplikazio zehaztugabea, inplantea eta mentua
+Z207	kontaktua pedikulosia, akariasia eta beste infestazio batzuekiko eta (susmagarria) esposizioarekin
+S55801A	beste odol-hodi batzuetako lesio traumatiko zehaztugabea, besaurrea, eskuineko besoa, hasierako harremana
+S26021A	bihotzeko urratu moderatua, hemoperikardioarekin, hasierako harremana
+Z440	harremana beso artifiziala doitzeko eta doitzeko
+M182	lehen giltzadura karpometakarpianoko artrosi post-traumatiko
+L768	larruazaleko eta larruazaleko ehuneko barneko eta prozedura-osteko beste konplikazio batzuk
+Z409	harremana kirurgia profilatikoarentzat, zehaztugabea
+T401	heroinaren kontrako efektuak eta kontrako efektuak eragindako pozoidura
+M433	lokadura atlantoaxial errepikatua, mielopatiarekin
+M897	oseo-akats larri
+Y849	prozedura medikoa, pazientearen erreakzio anormalaren edo beranduagoko konplikazioaren kausa bezala zehaztugabea, prozeduraren garaian ezbeharraren aipamenik egin gabe
+K528	beste gastroenteritis eta kolitis ez-infekzioso zehatz batzuk
+V198	zehaztutako beste garraio-istripu batzuetan lesionatutako txirrindularia (gidaria) (bidaiaria)
+T22232S	ezkerreko besoaren goialdeko bigarren mailako erredura, sekuela
+T63894D	beste animalia pozoitsu batzuekiko kontaktuaren efektu toxikoa, zehaztugabea, segidako harremana
+Z725	arrisku handiko sexu portaera altua
+O086	pelbiseko organoak eta ehunak haurdunaldi ektopiko eta molar baten ondoren
+V870	automobil baten eta bi edo hiru gurpileko ibilgailu baten artean lesionatutako pertsona, trafiko-istripua)
+S834	belauneko lotailu kolateraleko bihurritu
+T572	manganesoko eta bere konposatuen efektu toxiko
+X018	kontrolatu gabeko suaren beste eraginpean egotea, ez eraikinean edo egituran
+P124	jaioberriaren larruazaleko lesio traumatikoa, ekipo monitorizatuek sortua
+T492	pozoidura, tokiko detergenteen eta detergenteen kontrako efektua eta infradosifikazioa
+T380	pozoidura, glukokortikoideen eta analogo sintetikoen kontrako efektua eta infradosifikazioa
+Y279	kontaktua objektu bero zehaztugabeekin, intentzio zehaztugabea
+R873	substantzien maila anormala, nagusiki ez-medizinala, emakumezkoen organo genitaletako aleak iturburu
+W165	igerilekuan salto edo urperatzen.
+S109	lepoko zati zehaztugabearen azaleko lesio traumatiko
+Z789	beste osasun-egoera zehatz batzuk
+H8149	jatorri zentraleko bertigo, belarri zehaztugabea
+R921	bularreko irudi diagnostikoan aurkitutako kaltzifikazio mamografikoa
+R151	fekala zimurtzea
+S269	bihotzeko lesio traumatikoa, zehaztugabea, hemoperikardio batekin edo gabe
+S056	betazaleko gorputz arrotzik gabeko zauri sarkorra
+V398	hiru gurpileko ibilgailu motorduneko okupatzailea (gidaria), zehaztutako beste garraio-istripu batzuetan lesionatutakoa
+Q169	belarriko sortzetiko malformazioa, entzumenaren inpresioa eragiten duena, zehaztugabea
+L599	erradiazioarekin lotutako larruazaleko eta larruazaleko ehuneko nahasmendua, zehaztugabea
+S602	eskumuturreko eta eskuko kontusio
+Z631	errainekin lotutako arazoak
+M184	lehen giltzadura karpometakarpianoko beste artrosi sekundario batzuk
+Z380	jaioberriaren haurra, ospitalean jaiota
+K943	esofagostomiaren konplikazioak
+K911	kirurgia-osteko sindromeak
+R868	gizonezkoen organo genitaletako laginetan beste aurkikuntza anormal batzuk
+T2123XS	bizkarraren goialdeko bigarren mailako erredura, sekuela
+M275	patologia periradikularra, aurreko tratamendu endodontikoarekin lotua
+V849	trafikokoa ez den istripu batean lesionatutako nekazaritzako ibilgailu bereziko okupatzaile zehaztugabe
+T495	pozoidura, botika eta prestaketa oftalmologikoen kontrako efektua eta infradosifikazioa
+O081	haurdunaldi ektopiko eta molarraren ondoren gehiegizko odoljarioa edo gehiegizko odoljarioa
+R633	elikadura zailtasunak
+Z719	aholkularitza, zehaztugabea
+Z018	harremana zehaztutako beste azterketa berezi batzuentzat
+V382	hiru gurpileko ibilgailu motordun baten kanpoan dagoen lesionatutako pertsona, trafikokoa ez den istripu batean lesionatutako pertsona
+O692	distozia eta erditzea, beste soka baten katilu batek konplikatuta, konpresioarekin
+T217	enborraren hirugarren mailako higadura
+Z684	gorputz masaren indizea (BMI) 40 edo handiagoa, heldua
+N170	giltzurruneko hutsegite akutua, nekrosi tubularrarekin
+Y249	su-arma-karga zehaztugabea, intentzio zehaztugabea
+Z481	harremana zauri osteko itxiera planifikatuarentzat
+V0191XS	lesionatutako oinezkoa patinetan, bizikleta batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, sekuela
+Z716	tabakoaren abusuaren aholkularitza
+T533	tetrakloroetilenoko efektu toxiko
+T1500XD	gorputz arrotza kornean, begi zehaztugabea, segidako harremana
+N399	gernu-sistemako nahasmendua, zehaztugabea
+T63892S	beste animalia pozoitsu batzuekiko kontaktuaren efektu toxikoa, nahita nork bere buruari kalte egitea, sekuela
+Y240	aireontziko tiroa, intentzio zehaztugabea
+T372	pozoidura, malariaren kontrako efektua eta infradosifikazioa, beste odol-protozoetan eragiten duten botikek eragindakoa
+Z594	janari egokia eta edateko ur segurua falta da
+S359	zehaztugabeko odol-hodi bateko lesio traumatikoa, abdomena, bizkarreko eta pelbiseko maila
+M162	aldebiko osteoartritisa, aldakako displasiak sortua
+K513	errektosigmoiditis ultzeratiboa (kronikoa)
+Y021	erasoa, tren baten aurrean biktima bultzatzea edo jartzea
+P121	txignona (hodi-erauzketatik) jaiotzako lesio traumatikoek sortua
+M262	hortzetako arku-harremanetako anomaliak
+T337	belauneko eta hankaren behealdeko azaleko izozte
+Y937	beste kirol eta atletismo zehatz batzuetako jarduerak
+Y792	protesiak eta beste inplante batzuk, materialak eta gailu ortopedikoak kontrako gertaerekin lotuak
+M881	ornoetako osteitis deformatzaile
+Q557	sortzetiko fistula basokutaneo
+Q129	sortzetiko lente malformazioa, zehaztugabea
+T466	pozoidura, botika antihiperlipidemikoen eta antiarterioesklerotikoen kontrako efektuak eta infradosifikazioak eragindakoa
+T2660XS	korneako eta konjuntibako zakuko higadura, begi zehaztugabea, sekuela
+P039	erditze-lanak eta erditzeak afektatutako jaioberria, zehaztugabea
+P929	jaioberriaren elikadura-arazoa, zehaztugabea
+Q279	sistema baskular periferikoko sortzetiko malformazioa, zehaztugabea
+Y932	izotza eta elurra barne hartzen dituzten jarduerak
+T1591XA	gorputz arrotza begiaren kanpoaldean, zehaztugabeko zati batean, eskuineko begia, hasierako harremana
+K512	proktitis ultzeratiboa (kronikoa)
+S58121A	anputazio traumatiko partziala, ukondoaren eta eskumuturraren artean, eskuineko besoa, hasierako harremana
+Y374	eragiketa militarrak, su-armak kargatzearekin eta gerra konbentzionaleko beste forma batzuekin lotutakoak
+V982	izotz-yatearekin zerikusia duen istripua
+O098	arrisku handiko beste haurdunaldi batzuen gainbegiratzea
+T881	immunizazioaren segidako beste konplikazio batzuk, beste kontzeptu batean sailkatu gabeak
+K910	kirurgia gastrointestinalaren ondoren gomitatzen
+Z010	harremana begi eta ikusmenaren azterketarako
+X509	bestelako eta zehaztugabeko gehiegizko mugimendu edo postura indartsu batzuk
+Z381	gibeleko haurra, ospitaletik kanpo jaiota
+W101	erori (on)( from) espaloiko kurba
+Z121	harremana hesteetako traktuko neoplasia gaiztoa prestatzeko
+Z683	gorputz masaren indizea (BMI) 30-39, heldua
+Q049	garuneko sortzetiko malformazioa, zehaztugabea
+K510	pankolitis ultzeratiboa (kronikoa)
+T510	etanolaren efektu toxiko
+Y768	gailu obstetriko eta ginekologikoak, kontrako gertaerekin lotuak, beste kontzeptu batean sailkatu gabeak
+Y788	gailu erradiologiko miszelaneoak, kontrako intzidentziekin lotuak, beste kontzeptu batean sailkatu gabeak
+L760	larruazaleko eta larruazaleko ehunetako ebakuntza-barneko odoljarioa eta hematoma, prozedura konplikatzen dutenak
+Z814	beste substantzia baten abusuaren eta mendekotasunaren historia familiar
+Q378	errain-hezur zehaztugabea, aldebiko ezpainarekin
+T2131XA	bular-paretako hirugarren mailako erredura, hasierako harremana
+R223	handitze lokalizatua, masa eta koskorra, goiko gorputz-adarra
+T828	kardiako eta protesia baskularreko beste konplikazio zehatz batzuk, inplanteak eta mentuak
+S345	gerrialdeko, sakraleko eta pelbiseko nerbio sinpatikoetako lesio traumatiko
+O090	haurdunaldiaren gainbegiratzea, antzutasunaren historiarekin
+Z483	neoplasiaren kirurgiaren ondoren
+R190	abdomen-barneko eta pelbiseko handitzea, masa eta koska
+S629	eskumuturreko eta eskuko haustura zehaztugabe
+Y214	itotzea eta urperatzea ur naturalean, intentzio zehaztugabea
+V952	okupatzailearen lesioa sortzen duen beste aireontzi finko pribatu batzuk
+T254	orkatila eta oin zehaztugabearen higadura
+Q890	bareko sortzetiko absentzia eta malformazioak
+N981	obulutegien hiperstimulazioa
+T480	botika oxitozikoek eragindako pozoidura, kontrako efektua eta infradosifikazioa
+M269	anomalia dentofaziala, zehaztugabea
+Y991	jarduera militarra
+T699	tenperatura murriztuaren efektua, zehaztugabea
+T471	pozoidura, azido eta sekrezio gastrikoaren kontrako beste botika batzuen kontrako efektua eta infradosifikazioa
+T24232A	ezkerreko hankaren behealdeko bigarren mailako erredura, hasierako harremana
+P769	jaioberriaren hesteetako buxadura, zehaztugabea
+S610	erpuruko zauri irekia, iltzeak kalterik egin gabe
+Z742	etxean laguntzeko beharra, eta beste etxeko kiderik ez zaintzeko gai.
+S233	bizkarrezur torazikoko lotailuetako bihurritu
+S612	beste hatz bateko zauri irekia, iltzean kalterik egin gabe
+O111	hipertentsio pre-existentea preeklanpsiarekin, lehenengo hiruhilekoa
+W378	beste gurpil presionatu, hodi edo hodi baten leherketa eta haustura
+T233	eskumuturreko eta eskuko hirugarren mailako erredura
+X082	beste altzarien suaren eraginpean egote
+T788	beste kontrako efektu batzuk, beste kontzeptu batean sailkatu gabeak
+T805	erreakzio anafilaktikoa, serumak sortua
+T69019A	immertsio-eskua, esku zehaztugabea, hasierako harremana
+Z755	oporretako erliebeen zainketa
+T1502XS	gorputz arrotza kornean, ezkerreko begia, sekuela
+X005	eraikin edo egituratik jauzi egin kontrolatu gabeko sutean
+Z001	harremana jaioberri, haur eta haur osasun-azterketetarako
+T158	gorputz arrotza kanpoko begiko beste eta hainbat zatitan
+T463	hodi-dilatatzaile koronarioek eragindako pozoidura, kontrako efektua eta infradosifikazioa
+T22131A	eskuineko besoaren goialdeko lehen mailako erredura, hasierako harremana
+X081	sofaren suaren eraginpean egote
+Z889	botika, medikamentu eta substantzia biologiko zehaztugabeen alergia-egoera
+Q421	ondesteko sortzetiko absentzia, atresia eta estenosia, fistularik gabe
+S503	ukondoko azaleko beste lesio traumatiko batzuk
+V687	garraio astuneko ibilgailu baten kanpoan dagoen lesionatutako pertsona, trafiko-istripu batean lesionatutako garraio-istripu batean
+T431	pozoidura, monoamino-oxidasaren antidepresibo inhibitzaileen kontrako efektua eta infradosifikazioa
+S231	orno torazikoko subluxazioa eta lokadura
+Z463	harremana hortzetako protesta-gailua egokitzeko eta doitzeko
+S273	birikako beste eta zehaztugabeko lesio traumatiko batzuk
+X771	intentziozko auto-kaltea, ur beroaren bidez.
+R498	beste ahots eta erresonantzia-nahasmendu batzuk
+W880	X izpien eraginpean egote
+V298	zehaztutako beste garraio-istripu batzuetan lesionatutako motozikleta-gidaria (gidaria)
+Z428	harremana beste kirurgia plastiko eta berreraikitzaile batentzat, prozedura medikoaren edo sendatutako lesio traumatikoaren ondoren
+S55909A	zehaztugabeko odol-hodi bateko lesio traumatiko zehaztugabea, besaurrea, beso zehaztugabea, hasierako harremana
+L898	beste leku bateko presio-ultzera
+R152	premia fekala
+P031	jaioberria, beste aurkezpen txar, malposizio eta desproportzio batek afektatuta, erditze-lanetan eta erditzean
+Y381	hegazkin-ontzien suntsipenarekin lotutako terrorismo
+S361	gibeleko eta behazun-maskuriko lesio traumatiko
+Z203	kontaktua amorratuekiko eta (susmagarria) esposizioarekin
+T465	hipertentsioaren kontrako beste botika batzuk eragindako pozoidura, kontrako efektua eta infradosifikazioa
+W000	maila berean erortzea, izotzak eta elurrak sortua
+V484	auto batera igotzen edo hortik jaisten ari den lesionatutako pertsona, trafikoko garraio-istripu batean
+L498	gorputz-azalaren ehuneko 80-89ko afekzio eritematikoek sortutako esfolazioa
+X023	eraikin edo egitura sutatik erortzea kontrolatutako sutan
+Q685	hankako hezur luzeetako sortzetiko arkupea, zehaztugabea
+S698	eskumuturreko, eskuko eta hatzetako beste lesio traumatiko zehatz batzuk
+T743	abusu psikologikoa, baieztatua
+T502	pozoidura, karbono-anhidrasaren inhibitzaile inhibitzaileen kontrako efektuak eta infradosifikazioak eragindakoa
+O666	distozia, beste fetu anizkoitz batzuek sortua
+W292	kontaktua beste etxeko makineria potentziadunarekin
+V781	trafikokoa ez den istripu batean lesionatutako autobus-bidaiaria.
+O09A	haurdunaldiaren gainbegiratzea, haurdunaldi molarraren historiarekin
+T162	gorputz arrotza ezkerreko belarrian
+Y718	gailu kardiobaskular miszelaneoak, kontrako intzidentziekin lotuak, beste kontzeptu batean sailkatu gabeak
+S429	sorbaldako gerrikoaren haustura, zati zehaztugabea
+Z526	gibel-emailea
+V918	beste lesio traumatiko batzuk, beste istripu batek sortuak
+T521	bentzenuaren efektu toxiko
+T542	azido korrosiboen eta azido antzeko substantzien efektu toxikoak
+Z052	jaioberriaren behaketa eta ebaluazioa susmagarri neurologikoaren egoera arautuagatik
+V384	hiru gurpileko ibilgailu batera igotzen edo hortik jaisten ari den lesionatutako pertsona, trafikoko garraio-istripu batean
+X788	intentziozko auto-kaltea, beste objektu zorrotz batek sortua
+X718	intentziozko beste auto-kalte batzuk, itotzearen eta urperatzearen bidez
+K575	heste meharreko eta txikiko gaixotasun dibertikularra, zulaketa edo abszesurik gabe
+Z058	jaioberriaren behaketa eta ebaluazioa susmatutako beste egoera batentzako
+T240	beheko gorputz-adarreko gradu zehaztugabeko erredura, orkatila eta oina
+T22221S	eskuineko ukondoko bigarren mailako erredura, sekuela
+O987	giza immunoeskasia birusa [HIV] haurdunaldia, erditzea eta erdiberriaroa konplikatzen dituen gaixotasun
+W620	kontaktua igel ez-pozoitsuekin
+Z939	Irekitze artifizialaren egoera, zehaztugabea
+T24321A	eskuineko belauneko hirugarren mailako erredura, hasierako harremana
+T198	gorputz arrotza traktu genitourinarioko beste zati batzuetan
+S862	muskuluen eta tendoien lesio traumatikoa, hankaren behealdea
+T788XXS	beste kontrako efektu batzuk, beste kontzeptu batean sailkatu gabeak, sekuela
+P007	amaren beste prozedura mediko batzuek afektatutako jaioberria, beste kontzeptu batean sailkatu gabea
+Z738	Bizitzaren kudeaketa zailtasunarekin lotutako beste arazo batzuk
+O115	hipertentsio pre-eklanpsiarekin, erdiberriaroa konplikatuz
+X088	beste ke, su eta sugar zehatz batzuen eraginpean egote
+S408	besoaren goialdeko azaleko beste lesio traumatiko batzuk
+T512	2- Propanolaren efektu toxiko
+Y038	beste eraso batzuk, ibilgailu motordun batekin talka egiteagatik
+M799	ehun bigunen nahasmendua, zehaztugabea
+X820	ibilgailu motorduneko nahi gabekoa beste ibilgailu motordun batekin talka egiteagatik
+L975	oineko beste zati bateko presiorik gabeko ultzera kroniko
+V689	garraio astuneko ibilgailuko lesionatutako okupatzaile zehaztugabea, garraio-istripu batean lesionatutakoa
+V869	trafikokoa ez den istripu batean lesionatutako errepide osoko ibilgailu bereziko edo beste ibilgailu motordun bateko okupatzaile zehaztugabe
+T2013XD	kokotseko lehen mailako erredura, segidako harremana
+T328	80-89-ko higadurak
+T497	botika hortzen kontrako efektuak eta infradosifikazioak eragindako pozoidura, topikoki aplikatua
+T507	pozoidura, analeptikoen eta hartzaile opioideoen antagonisten kontrako efektua eta infradosifikazioa
+W183	beste eta zehaztugabeko erorketa maila berean
+S802	belauneko azaleko beste lesio traumatiko batzuk
+S203	toraxeko aurreko paretako beste eta zehaztugabeko azaleko lesio traumatiko batzuk
+M165	aldakako artrosi post traumatiko alde bakarrekoa
+P779	jaioberriaren enterokolitis nekrotizatzailea, zehaztugabea
+L490	gorputz-azalaren ehuneko 10 baino txikiagoa den afekzio eritematikoek sortutako esfoliazioa
+T63892D	beste animalia pozoitsu batzuekiko kontaktuaren efektu toxikoa, nahita nork bere buruari kalte egitea, segidako harremana
+S730	aldakako subluxazioa eta lokadura
+O095	adineko primigrabida eta multigravidako gainbegiratzea
+K626	uzkiko eta ondesteko ultzera
+M709	ehun bigunen nahasmendu zehaztugabea, erabilerarekin, gehiegizko erabilerarekin eta presioarekin lotua
+R239	larruazaleko aldaketak zehaztugabe
+S768	muskulu zehatz batzuetako lesio traumatikoa, faszia eta tendoiak, izterra
+W908	beste erradiazio ez-ionizatzaile baten eraginpean egote
+R899	emaitza anormal zehaztugabea, beste organo batzuetako, sistemetako eta ehunetako laginetan
+Y992	boluntarioen jarduera
+S462	bizepoetako beste zati batzuetako muskulu, fasziako eta tendoiko lesio traumatiko
+Z124	harremana lepaornoko neoplasia gaiztoaren prestaketarako
+T216	enborreko bigarren mailako higadura
+T275	laringea eta trakea eragiten duen higadura, birikarekin
+O085	nahasmendu metabolikoak, haurdunaldi ektopiko eta molar baten ondoren
+Y708	anestesiologia miszelaneoko gailuak, kontrako gertaerekin lotuak, beste kontzeptu batean sailkatu gabeak
+Y841	giltzurruneko dialisia, pazientearen erreakzio anormalaren edo beranduagoko konplikazioaren kausa bezala, prozeduraren garaian ezbeharraren aipamenik egin gabe
+V920	itotzea eta urperatzea, ur-ontzitik erortzeak sortua
+O097	arrisku handiko haurdunaldia gainbegiratzea, arazo sozialek sortua
+S55802D	beste odol-hodi batzuetako lesio traumatiko zehaztugabea, besaurrea, ezkerreko besoa, segidako harremana
+T256	orkatilako eta oineko bigarren mailako higadura
+S62202K	lehen hezur metakarpianoko haustura zehaztugabea, ezkerreko eskua, segidako harremana hausturaren kontsolidazio-falta dela medio
+Q302	sudurreko fisikoa, kuzkurtua eta hezurra
+S358	beste odol-hodi batzuetako lesio traumatikoa, abdomen, bizkarreko eta pelbiseko maila
+T478	pozoidura, nagusiki sistema gastrointestinalari eragiten dioten beste agente batzuen kontrako efektua eta infradosifikazioa
+Z316	harremana aholkularitza orokorra eta aholkularitza orokorra sortzeari buruz
+Z449	harremana kanpoko protesia-protetiko zehaztugabeko gailu bat doitzeko eta doitzeko
+V0492XS	lesionatutako oinezkoa monopatinean, garraio astuneko ibilgailu edo autobus batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, sekuela
+L491	gorputz-azalaren ehuneko 10-19ko afekzio eritematikoek sortutako esfoliazioa
+S433	sorbaldako gerrikoaren beste eta zehaztugabeko zati batzuetako subluxazioa eta lokadura
+S681	beste eta zehaztugabeko hatz bateko anputazio metakarpofalangiko traumatiko
+Q399	hestegorriko sortzetiko malformazioa, zehaztugabea
+T2111XS	bular-paretako lehen mailako erredura, sekuela
+M054	miopatia erreumatoidea, artritis erreumatoidearekin
+Y723	tresna kirurgikoak, materialak eta gailu otorrinolaringologikoak (suturak barne) kontrako intzidentziekin lotuak
+M1A3	hezueri kronikoa, giltzurrun-gutxiegitasunak sortua
+Y923	kirol eta atletismoaren eremua kanpoko kausaren gertaleku gisa
+M058	beste artritis erreumatoide batzuk, faktore erreumatoidearekin
+W400	materiala lehertzeko leherketa
+Z698	harremana beste abusu baten biktima edo jarraitzaile baten osasun-zerbitzu mentalentzat
+V981	akzidentea, lur-yateatzearekin edo inplikatzearekin
+X151	kontaktua tostada beroarekin
+S662	erpuruko muskulu estentsoreko lesio traumatikoa, faszia eta tendoia, eskumuturra eta eskua
+S831	belauneko subluxazioa eta lokadura
+W091	jokalari-planotik erortzea
+Z3A3	haurdunaldiaren asteetako gestazioa, 30-39
+M959	sistema muskulo-eskeletikoko deformitate hartua, zehaztugabea
+O649	distozia, malposizioa eta aurkezpen txarra, zehaztugabea
+S62102D	karpo-hezur zehaztugabearen haustura, ezkerreko eskumuturra, segidako harremana hausturaren errutinazko sendaketak direla medio
+V863	trafiko-istripu batean lesionatutako errepide osoko ibilgailu bereziko edo beste ibilgailu motordun bateko okupatzaile zehaztugabe
+W182	dutxa edo bainuontzi hutsa erortzen
+S601	atzamarreko kontusioa, iltzeak eragindako kaltearekin
+O899	erdiberriaroan anestesiak eragindako konplikazioa, zehaztugabea
+X711	intentziozko auto-kaltea, igerilekuan itota eta urperatzea erabiliz
+V782	autobus baten kanpoan dagoen lesionatutako pertsona, trafikokoa ez den istripu batean
+T50Z	pozoidura, beste txerto eta substantzia biologiko batzuen kontrako efektua eta infradosifikazioa
+T277XXA	arnasbideetako higadura, zehaztugabeko zati batean, hasierako harremana
+M203	hallux varus (hartua)
+S112	faringeko eta hestegorriko zauri ireki
+T315	50-59 bitarteko erredurak
+Y844	likidoaren aspirazioa pazientearen erreakzio anormalaren edo beranduago konplikazioaren kausa bezala, prozeduraren garaian ezbeharraren aipamenik egin gabe
+W590	kontaktua musker ez-pozoitsuekin
+X731	intentziozko auto-kaltea, erriflea ehizatuz
+X980	erasoa, lurrun edo lurrun beroen arabera
+O311	haurdunaldia jarraitzea, fetu edo gehiagoren berezko abortuaren ondoren
+L496	gorputz-azalaren ehuneko 60-69ko afekzio eritematikoek sortutako esfoliazioa
+P289	jaioberriaren arnas-baldintza, zehaztugabea
+V783	trafikokoa ez den istripu batean lesionatutako autobus-okupatzaile zehaztugabe
+Y845	soinu gastrikoa edo duodenala txertatzea, pazientearen erreakzio anormalaren edo beranduago konplikazioaren kausa bezala, prozeduraren garaian ezbeharra aipatu gabe
+N033	sindrome nefritiko kronikoa, mesangiako proliferazio glomerulonefritis hedatsuarekin
+S331	gerri-ornoko subluxazioa eta lokadura
+V785	lesionatutako autobus-gidaria, trafiko-istripu batean lesionatutako autobus-gidari
+Z718	beste aholkularitza zehatz batzuk
+Q930	kromosomaren monosomia osoa, ez-mosaizismoa (disjuntzio meiotikoa)
+R852	beste botika, medikamentu eta substantzia biologiko batzuen maila anormala, digestio-organoetako eta barrunbe abdominaleko aleak direla medio
+V980	akzidentea, kable-autoarekin edo trenarekin lotuta dagoena, ez trenetan
+Y248	beste su-arma-tresna batzuk, intentzio zehaztugabea
+N470	prepuzioa, jaioberria
+Z116	harremana protokolo-gaixotasun eta helmintiasa batzuetarako prestatzeko
+R488	beste disfuntzio sinboliko batzuk
+N949	emakumezkoen organo genitalekin eta bizikleta menstrualarekin lotutako egoera zehaztugabe
+P719	kaltzio eta magnesio metabolismoaren nahasmendu iragankorra, zehaztugabea
+V003	beheko oinezko garraio-istripu lau
+N008	sindrome nefritiko akutua, beste aldaketa morfologiko batzuekin
+S548X1A	beste nerbio batzuetako lesio traumatikoa, besaurrea, eskuineko besoa, hasierako harremana
+W554	kontaktua zerriarekin
+Z857	ehun linfoide, hematopoietiko eta erlazionatutako ehunetako beste neoplasia gaiztoetako historia pertsonal
+X949	erasoa, su-arma handiago baten tiroa zehaztugabe
+N184	giltzurruneko gaixotasun kronikoa, 4. etapa (larria)
+Y783	instrumentu kirurgikoak, materialak eta gailu erradiologikoak (suturak barne) kontrako intzidentziekin lotuak
+S660	erpuruko muskulu flexore luzeko lesio traumatikoa, faszia eta tendoia, eskumuturra eta eskua
+R508	beste sukar zehatz batzuk
+R825	botiken, medikamentuen eta substantzia biologikoen gernu-maila altuak
+T800	infusio, transfusio eta injekzio terapeutikoaren segidako aireko enbolismoa
+W050	gurpil-aulkitik erortzen
+Z938	beste irekitze artifizialeko egoera batzuk
+N023	hematuria errepikatu eta iraunkorra, mesangiako proliferazio glomerulonefritis hedatsuarekin
+Y750	gailu neurologikoak diagnostiko eta monitorizatzea, kontrako intzidentziekin lotuak
+T24222S	ezkerreko belauneko bigarren mailako erredura, sekuela
+Z131	harremana diabetes mellitusaren bilaketarako
+Q370	ezkerreko ahosabai gogorra, aldebiko ezpainarekin
+Y701	anestesiologia errehabilitatiboak (kirurgikoak ez diren) eta kontrako intzidentziekin lotutako anestesiologia errehabilitatiboak
+S5492XD	zehaztugabeko nerbio bateko lesio traumatikoa, besaurrea, ezkerreko besoa, segidako harremana
+S933	oineko subluxazioa eta lokadura
+Q529	emakumezkoen genitaletako sortzetiko malformazioa, zehaztugabea
+T384	ahotiko antisorgailuek eragindako pozoidura, kontrako efektua eta infradosifikazioa
+W555	kontaktua racoonarekin
+T655	nitrogluzerinaren eta beste azido nitriko batzuen efektu toxiko
+X962	erasoa, letra-bonbaren arabera
+O249	diabetes mellitus zehaztugabea, haurdunaldian, erditzean eta erdiberriaroan
+L609	azkazaleko nahasmendua, zehaztugabea
+Z748	arreta hornitzailearen mendekotasunarekin lotutako beste arazo batzuk
+Y800	diagnostikoa eta monitorizazioa medikuntzako gailu fisikoak, kontrako intzidentziekin lotuak
+P392	jaioberriari eragiten dion infekzio infekzio intra-aminotikoa, beste kontzeptu batean sailkatu gabea
+W562	kontaktua orkarekin
+S211	toraxeko aurreko hormako zauri irekia, barrunbe torazikoan sartu gabe
+P379	sortzetiko infekzio edo gaixotasun parasitikoa, zehaztugabea
+Z734	gizarte trebetasun ezegokia, beste kontzeptu batean sailkatu gabea
+T524	ketonen efektu toxikoak
+S599	ukondoko eta besaurreko lesio traumatiko zehaztugabe
+T273XXD	arnasbideetako erredura, zehaztugabeko zati batekoa, segidako harremana
+N990	prozedura-osteko giltzurrun-gutxiegitasun (akutua) (kronikoa)
+Z565	lan-ingurune ez-kongeniala
+S626	beste eta zehaztugabeko hatz bateko haustura
+R456	jokabide bortitza
+T564	kobrearen eta bere konposatuen efektu toxikoak
+T670XXD	bero-trazu eta eguzkia, segidako harremana
+S62102S	karpo-hezur zehaztugabearen haustura, ezkerreko eskumuturra, sekuela
+Z462	harremana nerbio-sistemarekin eta zentzumen bereziekin lotutako beste gailu batzuk doitzeko eta doitzeko
+V184	lesionatutako txirrindularia, garraio-istripu batean trafiko-istripu batean
+P949	jaioberriaren tonu muskularreko nahasmendua, zehaztugabea
+T2662XA	korneako eta konjuntibako zakuko higadura, ezkerreko begia, hasierako harremana
+T870	goiko gorputz-adarraren (zatia) erantsiko konplikazioak
+K916	digestio-organo edo egiturako ebakuntza-barneko odoljarioa eta hematoma
+V581	kamionetako edo furgonetako lesionatutako bidaiaria, trafikokoa ez den istripu batean
+Z050	jaioberriaren behaketa eta ebaluazioa susmagarrizko egoera kardiakoaren arabera
+T273XXS	arnasbideetako erredura, zehaztugabea, sekuela
+W109	erori (on) eskailera eta urrats zehaztugabeak
+T460	glukosido kardioestimulatzaileen eta antzeko eragineko botikek eragindako pozoidura, kontrako efektua eta infradosifikazioa
+S548X9A	beste nerbio batzuetako lesio traumatikoa, besaurrea, beso zehaztugabea, hasierako harremana
+S890	tibiaren goiko muturreko haustura fisal
+T24212S	ezkerreko izterreko bigarren mailako erredura, sekuela
+W219	kirol ekipamendu zehaztugabeek jotako edo jotako kolpean
+R891	hormonen maila anormala beste organo batzuetako, sistemetako eta ehunetako laginetan
+M512	beste disko toraziko, torakolu-barra eta gernu-ornoarteko disko toraziko batzuk
+Y93H	kanpoko jabetza eta lurren mantenimendua, eraikina eta eraikuntza barne
+K571	heste meharreko gaixotasun dibertikularra, zulaketa edo abszesurik gabe
+N063	proteinuria isolatua, mesangiako proliferazio glomerulonefritis hedatsuarekin
+X028	eraikin edo egituran kontrolatutako sutearen beste esposizio batzuk
+P052	malnutrizio fetalak afektatutako jaioberria (trauterina) ez da arina edo txikia adin gestazionalerako
+M518	ornoarteko diskoko beste nahasmendu toraziko, torakolu-barra eta lumbosakral batzuk
+Z717	giza immunoeskasia birusa [HIV] aholkularitza
+T569	zehaztugabeko metalaren efektu toxiko
+T482	pozoidura, muskuluetan eragiten duten beste eta zehaztugabeko botika batzuen kontrako efektua eta infradosifikazioa
+T282XXA	larruazaleko beste zati batzuetako erredura, hasierako harremana
+T2123XA	bizkarraren goialdeko bigarren mailako erredura, hasierako harremana
+T22151S	eskuineko sorbaldako lehen mailako erredura, sekuela
+W170	ondo erortzen
+Q527	bulbako sortzetiko beste eta zehaztugabeko malformazio batzuk
+X130	lurrineko eta beste lurrun beroetako inhalazioa
+O654	distozia, fetopelbiseko desproportzioak sortua, zehaztugabea
+R855	emaitza mikrobiologiko anormalak digestio-organoetatik eta barrunbe abdominaletik
+Y832	operazio kirurgikoa, anastomosiarekin, bypassarekin edo mentuarekin, pazientearen erreakzio anormalaren edo beranduagoko konplikazioaren kausa bezala, prozeduraren garaian ezbeharraren aipamenik egin gabe
+P509	umetoki-barneko odol-galerak afektatutako jaioberria, zehaztugabea
+V958	okupatzailearen lesioa sortzen duten beste aireontzi indartsu batzuk
+M966	hezurreko haustura, inplante ortopedikoa, giltzadura-protesia edo hezur-plaka txertatu ondoren
+S300	beheko eta pelbiseko kontusio
+P248	jaioberriaren beste aspirazio batzuk
+S55801D	beste odol-hodi batzuetako lesio traumatiko zehaztugabea, besaurrea, eskuineko besoa, segidako harremana
+M274	barailako beste eta zehaztugabeko kiste batzuk
+P916	entzefalopatia iskemiko hipoxikoa [HIE]
+S58011A	erabateko anputazio traumatikoa, ukondoa, eskuineko besoa, hasierako harremana
+S5402XS	nerbio kubitaleko lesio traumatikoa, besaurrea, ezkerreko besoa, sekuela
+O033	berezko abortu osatugabearen segidako beste eta zehaztugabeko konplikazio batzuk
+T24132D	ezkerreko hankaren behealdeko lehen mailako erredura, segidako harremana
+P149	nerbio-sistema periferikoaren jaiotzako lesio traumatikoa, zehaztugabea
+T22221A	eskuineko ukondoko bigarren mailako erredura, hasierako harremana
+V386	hiru gurpileko ibilgailu motorduneko lesionatutako bidaiaria, garraio-istripu batean trafiko-istripu batean
+T560	beruneko eta bere konposatuen efektu toxikoak
+S752	bena safeno handiagoko lesio traumatikoa, aldaka eta izterra
+S093	erdiko eta barneko belarriko beste lesio traumatiko zehatz eta zehaztugabe
+L759	izerdiaren nahasmendu apokrinoa, zehaztugabea
+T500	pozoidura, mineralokortikoideen eta horien antagonisten kontrako efektua eta infradosifikazioa
+Z644	diskordia aholkulariekin
+X008	eraikin edo egituran kontrolatu gabeko sutearen beste esposizio batzuk
+R862	beste botika, medikamentu eta substantzia biologiko batzuen maila anormala gizonezkoen organo genitaletako laginetan
+T815	gorputz arrotzaren konplikazioak, istripuz gorputz batean utzita, prozeduraren ondoren
+O9A1	haurdunaldia, erditzea eta erdiberriaroa konplikatzen dituen neoplasia gaizto
+Z860	jokabide ezezaguneko neoplasia in-situ eta neoplasia onberen historia pertsonal
+Y760	gailu obstetriko eta ginekologikoak diagnostiko eta monitorizatzea, kontrako intzidentziekin lotuak
+M908	osteopatia beste kontzeptu baten azpian sailkatutako gaixotasunetan
+W558	kontaktua beste ugaztun batzuekin
+T25121D	eskuineko oineko lehen mailako erredura, segidako harremana
+L899	leku zehaztugabearen presio-ultzera
+R224	handitze lokalizatua, masa eta koskorra, beheko gorputz-adarra
+T712	asfixazioa, oxigeno-eskasia sistemikoak sortua, oxigeno baxuko eduki batek sortua, anbienteko airean
+Z530	prozedura eta tratamendua ez dira egin kontraesanaren ondorioz
+Q371	ezkerreko ahosabai gogorra, alde bakarreko ezpainarekin
+R841	hormonen maila anormala, arnas organoetako eta toraxeko laginetan
+W611	kontaktua makarekin
+K553	enterokolitis nekrotizatzaile
+Z568	enpleguarekin lotutako beste arazo batzuk
+S138	lepoko beste zati batzuetako giltzaduretako eta lotailuetako bihurritu
+N931	baginako odol garbiko aurre-pubertal
+T319	90 daramatzaten erredurak
+Z605	diskriminazioa eta jazarpenaren helburua
+S5492XA	zehaztugabeko nerbio bateko lesio traumatikoa, besaurrea, ezkerreko besoa, hasierako harremana
+S998	orkatilako eta oineko beste lesio traumatiko zehatz batzuk
+Z113	harremana infekzioen bila ibiltzeko, nagusiki sexu-transmisio moduarekin
+Y385	arma nuklearrak erabilitako terrorismoa
+O365	amaren arreta, fetu-hazkunde pobrea ezagutzen edo susmagarria dela medio
+T804	rh bateraezintasun-erreakzioa, odolaren edo odol-produktuen transfusioak sortua
+T24132S	ezkerreko hankaren behealdeko lehen mailako erredura, sekuela
+S9492	zehaztugabeko nerbio bateko lesio traumatikoa, orkatila eta oina, ezkerreko hanka
+T398	pozoidura, beste analgesiko ez opioideo eta antipiretiko batzuen kontrako efektuak eta infradosifikazioak eragindakoa, beste kontzeptu batean sailkatu gabeak
+T427	pozoidura, antiepileptiko eta farmako hipnotiko-lasaigarri zehaztugabeen kontrako efektua eta infradosifikazioa
+V853	trafiko-istripu batean lesionatutako eraikuntzako ibilgailu bereziko okupatzaile zehaztugabe
+Z700	jarrera sexualarekin lotutako aholkularitza
+X961	erasoa, bonba gasolinaren arabera
+M999	lesio biomekanikoa, zehaztugabea
+L749	izerdiaren nahasmendua ekkrina, zehaztugabea
+Z723	ariketa fisikoaren falta
+X152	kontaktua hoplatoarekin
+Q662	sortzetiko metatarso (primus) varus
+N610	mastititisa, abszesurik gabe
+S62292A	lehen hezur metakarpianoko beste haustura batzuk, ezkerreko eskua, hasierako harremana haustura itxiagatik
+P050	argi jaioberria adin gestazionalerako
+Z672	B motako odola
+Z288	immunizazioa ez da egin beste arrazoi batengatik
+T24132A	ezkerreko hankaren behealdeko lehen mailako erredura, hasierako harremana
+T226	sorbaldako eta goiko gorputz-adarreko bigarren mailako higadura, eskumuturra eta eskua
+Y080	erasoa, kirol ekipoen bidez grebaren arabera
+X740	intentziozko auto-kaltea, gasa, airea edo udaberriko pistolak erabilita
+T744	haurraren sindrome dardaratia
+P073	preterm [prematu] jaioberria [beste batzuk]
+T440	pozoidura, kolinesterasaren kontrako agenteen kontrako efektua eta infradosifikazioa
+R893	Substantzien maila anormala, nagusiki ez-medikuntzakoa, beste organo batzuetako, sistemetako eta ehun batzuetako aleak sortzeaz
+Y93J	Musika-tresna erreproduzitzen ari diren jarduerak
+K434	hernia parastomala, gangrenarekin
+T2017XA	lepoko lehen mailako erredura, hasierako harremana
+Z162	beste antibiotiko batzuekiko erresistentzia
+Y079	maltramenduko eta bazterreko perpetradore zehaztugabe
+W502	beste pertsona batek istripuzko bihurritua
+L974	oinaren eta oinaren erdiko ultzera kroniko
+S604	beste hatz batzuetako azaleko beste lesio traumatiko batzuk
+X141	beste kontaktu batzuk aire beroarekin eta beste gas beroekin
+T568	beste metal batzuetako efektu toxikoak
+T473	pozoidura, salinoen eta libragarri osmotikoen kontrako efektua eta infradosifikazioa
+O699	kordo-konplikazioak konplikatutako erditze-lanak eta erditzea, zehaztugabea
+Q385	ahosabaiko sortzetiko malformazioak, beste kontzeptu batean sailkatu gabeak
+V586	kamionetako edo furgonetako lesionatutako bidaiaria, trafiko-istripu batean lesionatutako garraio-istripu batean
+Z564	nagusi eta lankideekin nahastea
+H8143	jatorri zentraleko bertigo, aldebikoa
+Z464	harremana gailu ortodontikoa doitzeko eta doitzeko
+T323	30-39 arteko higadurak
+L569	larruazaleko aldaketa akutua, erradiazio ultramoreak sortua, zehaztugabea
+N403	prostata nodularra, gernubideetako sintoma baxuagoekin
+T628	elikadura gisa jandako beste substantzia ez-ohiko batzuen efektu toxiko
+Q289	zirkulazio-sistemako sortzetiko malformazioa, zehaztugabea
+T446	pozoidura, hartzaile alfa-adrenergikoen antagonisten kontrako efektua eta infradosifikazioa
+T2023XS	kokotseko bigarren mailako erredura, sekuela
+L971	izterreko presiorik gabeko ultzera kroniko
+T621	larruazaleko efektu toxiko
+M164	aldakako artrosi post traumatiko aldebikoa
+W538	kontaktua beste rodente batekin
+Z183	zati organikoak gordeta
+T780	erreakzio anafilaktikoa, janariak sortua
+Y818	kirurgia orokorreko eta plastiko-kirurgiako gailuak, kontrako gertaerekin lotuak, beste kontzeptu batean sailkatu gabeak
+Z192	hormona erresistentearen gaiztakeria-egoera
+T234	eskumuturreko eta eskuko gradu zehaztugabearen higadura
+Q219	bihotzeko septumeko sortzetiko malformazioa, zehaztugabea
+T22222D	ezkerreko ukondoko bigarren mailako erredura, segidako harremana
+S769	muskulu, faszia eta tendoi zehaztugabeetako lesio traumatikoa, izterra
+Y382	terrorismoa, beste leherketa eta zati batzuekin lotutakoak
+W548	Beste kontaktu bat txakurrarekin
+L909	larruazaleko nahasmendu atrofikoa, zehaztugabea
+M759	sorbaldako lesioa, zehaztugabea
+Y388	bestelako eta zehaztugabeko bitarteko batzuekiko terrorismo
+R791	koagulazio anormalaren profila
+T23172D	ezkerreko eskumuturreko lehen mailako erredura, segidako harremana
+X025	eraikin edo egituratik salto egin su kontrolatuan
+W052	motorizatu gabeko mugikortasunetik erortzea
+K852	alkoholak eragindako pankreatitis akutu
+K740	fibrosi hepatiko
+O029	kontzeptuaren produktu anormala, zehaztugabea
+N997	sistema genito-urinarioko organo edo egiturako istripuzko ziztada eta urratu
+O771	botiken administrazioak eragindako erditze-lanetan edo erditzean
+Y373	eragiketa militarrak, suak, konflagrazioak eta substantzia beroak erabiliz
+L763	larruazaleko eta larruazaleko ehunetako prozedura-osteko hematoma eta seroma, prozedura baten ondoren
+T408	lisergidoaren kontrako efektuak eta kontrako efektuak eragindako pozoidura, [LSD]
+Y830	operazio kirurgikoa, organo osoaren transplantearekin pazientearen erreakzio anormalaren edo beranduagoko konplikazioaren kausa gisa, prozeduraren garaian zorigaiztoko abentura aipatu gabe
+O419	likido eta mintz amniotikoen nahasmendua, zehaztugabea
+T22332D	ezkerreko besoaren goialdeko hirugarren mailako erredura, segidako harremana
+L659	ile-galera ez-garbitzailea, zehaztugabea
+K514	koloneko polipa inflamatorioak
+T595	gas fluorratuaren eta hidrogeno fluorraren efektu toxiko
+T362	pozoidura, kloranfenikolaren taldearen kontrako efektua eta infradosifikazioa
+X922	erasoa, igerilekuan sartu ondoren itotzearen eta urperatzearen bidez
+T792	odoljario sekundario eta errepikatu traumatikoa, seroma
+S790	izterrezurraren goiko muturreko haustura fiseo
+S55902A	zehaztugabeko odol-hodi bateko lesio traumatiko zehaztugabea, besaurrea, ezkerreko besoa, hasierako harremana
+X782	intentziozko auto-kaltea, ezpata edo sastakaia erabiliz
+R877	emakumezkoen organo genitaletako laginetan aurkikuntza histologiko anormalak
+X810	intentziozko auto-kaltea, auto-ibilgailu motordunaren aurrean salto egin edo etzanda
+Z226	giza T-linfotropiko birus motaren eramailea-1 [HTLV-1] infekzioa
+T25212D	ezkerreko orkatilako bigarren mailako erredura, segidako harremana
+V299	zehaztugabeko trafiko-istripu batean lesionatutako motozikleta-gidaria (gidaria)
+S922	beste eta zehaztugabeko hezur tartsoko haustura
+T878	anputazioko tronpako beste konplikazio batzuk
+Z949	transplantatutako organoa eta ehun-egoera, zehaztugabea
+V0591XD	lesionatutako oinezkoa patinetan, tren batekin talka egiteagatik, trafikoko istripua den edo ez zehaztugabe, segidako harremana
+V399	hiru gurpileko ibilgailu motorduneko okupatzailea (gidaria) (bidaiaria), zehaztugabeko trafiko-istripu batean lesionatutakoa
+V941	bainua ur-ontziak jota
+Z451	harremana infusioaren ponpa doitzeko eta kudeatzeko
+V839	trafikokoa ez den istripu batean lesionatutako industria-ibilgailu bereziko okupatzaile zehaztugabe
+T508	pozoidura, agente diagnostikoen kontrako efektua eta infradosifikazioa
+N045	sindrome nefrotikoa, mesangiokapilarreko glomerulonefritis hedatsuarekin
+S62101A	karpo-hezur zehaztugabearen haustura, eskuineko eskumuturra, hasierako harremana haustura itxiagatik
+T267	betazaleko haustura eta suntsipenarekin higadura
+T287XXD	larruazaleko beste zati batzuetako higadura, segidako harremana
+T571	fosforoaren eta bere konposatuen efektu toxiko
+Y040	erasoa, armarik gabeko armarik edo borrokarik gabe
+Z125	harremana prostatako neoplasia gaiztoaren prestakuntzarako
+W532	kontaktua ezkutariarekin
+T24321S	eskuineko belauneko hirugarren mailako erredura, sekuela
+T394	pozoidura, antirreumatikoen kontrako efektuak eta infradosifikazioak eragindakoa, beste kontzeptu batean sailkatu gabea
+Z298	harremana beste neurri profilatiko zehatz batzuentzat
+W460	kontaktua orratz hipodermikoarekin
+V381	hiru gurpileko ibilgailu motorduneko lesionatutako bidaiaria, trafikokoa ez den istripu batean
